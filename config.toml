@@ -1,0 +1,18 @@
+baseURL = 'https://post-self.makyo.ink/'
+languageCode = 'en-us'
+title = 'Post-Self'
+theme = 'maddybook'
+paginatePath = ""
+disablePathToLower = true
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2021
+    customCSS = ['css/toledot.css']
+
+[markup.goldmark.renderer]
+    unsafe = true
