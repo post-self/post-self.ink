@@ -11,7 +11,7 @@ With  immersive technology at its peak, it's all too easy to get lost. When  RJ 
 
 ## Book II - Toledot
 
-[![Toledot](https://via.placeholder.com/200x313?text=Toledot)](https://toledot.makyo.ink)
+[![Toledot](/img/toledot.png)](https://toledot.makyo.ink)
 
 > "I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."
 
