@@ -12,7 +12,7 @@ disablePathToLower = true
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = '2020—­2022'
-    customCSS = ['css/toledot.css']
+    customCSS = ['/css/toledot.css']
 
 [markup.goldmark.renderer]
     unsafe = true

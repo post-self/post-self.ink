@@ -1,7 +1,7 @@
 ---
 ---
 
-## Book I - Qoheleth
+## [Book I - Qoheleth](https://qoheleth.makyo.ink)
 
 [![Qoheleth](/img/qoheleth.png)](https://qoheleth.makyo.ink)
 
@@ -11,7 +11,7 @@ With  immersive technology at its peak, it's all too easy to get lost. When  RJ 
 
 And, nearly a century on, society still struggles with the ramifications of those answers.
 
-## Book II - Toledot
+## [Book II - Toledot](https://toledot.makyo.ink)
 
 [![Toledot](/img/toledot.png)](https://toledot.makyo.ink)
 
@@ -21,9 +21,9 @@ No longer bound to the physical, what lengths should one go to in a virtual worl
 
 Secession. Launch. Two separations from two societies, two hundred years apart. And through it all, so many parallels run on so many levels that it can be dizzying just keeping up. The more Ioan and Codrin Bălan learn, the more it calls into question the motivations of even those they hold most dear.
 
-## Book III - Nevi'im
+## [Book III - Nevi'im](https://neviim.makyo.ink)
 
-![Nevi'im](https://via.placeholder.com/200x313?text=Nevi'im)
+[![Nevi'im](https://via.placeholder.com/200x313?text=Nevi'im)](https://neviim.makyo.ink)
 
 > *"Do you know how old I am, Dr. Brahe? I am 222 years old, a fork of an individual who is...who would be 259 years old. I am no longer the True Name of 2124. Even remembering her feels like remembering an old friend. I remember her perfectly, and yet I do not remember how to be earnest. I do not know how to simply **be**."*
 

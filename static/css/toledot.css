@@ -22,3 +22,18 @@ blockquote {
     margin: 0 1rem 0.5rem 0;
 }
 
+.spoiler {
+    filter: blur(1rem);
+}
+
+.spoiler:hover {
+    filter: none;
+}
+
+.spoiler-warn::before {
+    vertical-align: top;
+    content: '(spoiler)';
+    font-size: 50%;
+    color: red;
+}
+
