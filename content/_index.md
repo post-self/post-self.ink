@@ -37,6 +37,16 @@ Growth is colliding with memory, and the cracks are showing.
 
 > *Coming July 21, 2022*
 
+## [Book IV - Mitzvot](https://mitzvot.makyo.ink)
+
+[![Mitzvot](https://via.placeholder.com/200x313?text=Mitzvot)](https://mitzvot.makyo.ink)
+
+> *"To be built to love is to be built to dissolve. It is to be built to unbecome. It is to have the sole purpose of falling apart all in the name of someone else."*
+
+Even the grandest of stories can feel small and immediate when it's just one person's life.
+
+One of the most well-known names from one of the most well-known clades on the System, the avatar of political machinations and cool confidence, has been brought low. With help coming only from Ioan Bălan and the most grudging of support from her cocladists, all True Name has left is growth. 
+
 -----
 
 > 10-5eba9f7d5f53384da587de07cf2d5c035a8b8dd03d15ff8f4fced1bc59c0f04d7f5c64864b792cfbb51d57e04dd6e796b7ecf6a5d127d4b77aea604e24757a11bc68747c8d841473
