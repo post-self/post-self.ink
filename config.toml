@@ -1,4 +1,4 @@
-baseURL = 'https://post-self.makyo.ink/'
+baseURL = 'https://post-self.ink/'
 languageCode = 'en-us'
 title = 'Post-Self'
 theme = 'maddybook'

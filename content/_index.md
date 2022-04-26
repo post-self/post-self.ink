@@ -1,9 +1,9 @@
 ---
 ---
 
-## [Book I - Qoheleth](https://qoheleth.makyo.ink)
+## [Book I - Qoheleth](https://qoheleth.post-self.ink)
 
-[![Qoheleth](/img/qoheleth.png)](https://qoheleth.makyo.ink)
+[![Qoheleth](/img/qoheleth.png)](https://qoheleth.post-self.ink)
 
 > "All artists search. I search for stories, in this post-self age.  What happens when you can no longer call yourself an individual, when  you have split your sense of self among several instances? How do you  react? Do you withdraw into yourself, become a hermit? Do you expand  until you lose all sense of identity? Do you fragment? Do you go about  it deliberately, or do you let nature and chance take their course?"
 
@@ -11,9 +11,9 @@ With  immersive technology at its peak, it's all too easy to get lost. When  RJ 
 
 And, nearly a century on, society still struggles with the ramifications of those answers.
 
-## [Book II - Toledot](https://toledot.makyo.ink)
+## [Book II - Toledot](https://toledot.post-self.ink)
 
-[![Toledot](/img/toledot.png)](https://toledot.makyo.ink)
+[![Toledot](/img/toledot.png)](https://toledot.post-self.ink)
 
 > *"I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."*
 
@@ -21,9 +21,9 @@ No longer bound to the physical, what lengths should one go to in a virtual worl
 
 Secession. Launch. Two separations from two societies, two hundred years apart. And through it all, so many parallels run on so many levels that it can be dizzying just keeping up. The more Ioan and Codrin Bălan learn, the more it calls into question the motivations of even those they hold most dear.
 
-## [Book III - Nevi'im](https://neviim.makyo.ink)
+## [Book III - Nevi'im](https://neviim.post-self.ink)
 
-[![Nevi'im](https://via.placeholder.com/200x313?text=Nevi'im)](https://neviim.makyo.ink)
+[![Nevi'im](https://via.placeholder.com/200x313?text=Nevi'im)](https://neviim.post-self.ink)
 
 > *"Do you know how old I am, Dr. Brahe? I am 222 years old, a fork of an individual who is...who would be 259 years old. I am no longer the True Name of 2124. Even remembering her feels like remembering an old friend. I remember her perfectly, and yet I do not remember how to be earnest. I do not know how to simply **be**."*
 
@@ -37,9 +37,9 @@ Growth is colliding with memory, and the cracks are showing.
 
 > *Coming July 21, 2022*
 
-## [Book IV - Mitzvot](https://mitzvot.makyo.ink)
+## [Book IV - Mitzvot](https://mitzvot.post-self.ink)
 
-[![Mitzvot](https://via.placeholder.com/200x313?text=Mitzvot)](https://mitzvot.makyo.ink)
+[![Mitzvot](https://via.placeholder.com/200x313?text=Mitzvot)](https://mitzvot.post-self.ink)
 
 > *"To be built to love is to be built to dissolve. It is to be built to unbecome. It is to have the sole purpose of falling apart all in the name of someone else."*
 
