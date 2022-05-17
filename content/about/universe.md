@@ -36,7 +36,7 @@ Created in the early 2100s, the System (a vague name to keep the original projec
 
 ### Uploading
 
-Uploading is a one-way, destructive process. The body dies while the consciousness continues within the System. There is a small chance of failure (around 1% as of 2130, <0.5% as of 2140, <0.25% as of 2150, <0.0001% as of 2200).
+Uploading is a one-way, destructive process. The body dies while the consciousness continues within the System. There is a small chance of failure (around 1% as of 2130, <0.5% as of 2140, <0.25% as of 2150, <0.001% as of 2200).
 
 Consciousnesses are uploaded to the system at the L<sub>5</sub> point via the Ansible, a networked series of upload centers with a direct radio connection to the System itself. By the 2300s, this is largely automated and consists of signing a form and hitting a button.
 
@@ -47,6 +47,8 @@ Once uploaded, individuals are greeted by volunteers (later automated) to orient
 Introduced almost by accident, the concept of forking allows one to create a new *instance* of oneself. This copy is completely identical, but as soon as they're created and their experiences begin to differ, that instance starts to undergo the process of *individuation*. They form their own memories, and their experience of the world is colored by those memories.
 
 An instance may *quit*. When they do so, their memories are provided to their *down-tree* instance to remember or not in a process called *merging*. A merge may be wholesale (sometimes described as *blithe*) or *cherrypicked*, wherein the down-tree instance is able to choose some of the memories but not others in a labor-intensive process.
+
+The greater the individuation between and up- and down-tree instance, the greater the chance for *conflicts*. These occur when memories don't line up --- that is, the experiences may be of the same event, but the conclusions drawn from the event may be different. As time goes on, individuation will affect the entire personality of an individual, as personality is built in part atop memories. Cocladists who have diverged by decades or centuries may find such merges incredibly difficult.
 
 The *root instance* of an individual will find it very difficult to quit as, to quote May Then My Name Die With Me of the Ode clade, "the System is not built for death". This applies to their *up-tree* instances as well; it is easier to quit the shorter one has been around or if a newer up-tree instance exists (for instance, if Jace Doe#Tracker forks into Jace Doe#1234abc, #Tracker may quit easily right away, though it will get steadily more difficult as #1234abc individuates; similarly, if #1234abc forks into Jace Doe#5678def and #5678def individuates long enough, #1234abc will find it difficult to quit).
 

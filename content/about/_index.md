@@ -9,7 +9,7 @@ The Post-Self universe is an open setting for exploring the ramifications of bei
 
 ## Fanfiction and universe fiction policy
 
-Anyone's allowed to use it under a Creative Commons 4.0 Attribution license. You can check out the information below, or ask me anything you'd like at <makyo@drab-makyo.com>. This means that you can write all the fanfic you want of of the characters or set your own stories in the universe, but I'd greatly appreciate if you stated such and linked back to <https://post-self.ink>.
+Anyone's allowed to use it under a Creative Commons 4.0 Attribution license. You can check out the information below, or [ask me](https://makyo.is) anything you'd like. This means that you can write all the fanfic you want of of the characters or set your own stories in the universe, but I'd greatly appreciate if you stated such and linked back to <https://post-self.ink>.
 
 Need more information? There's a few pages on that:
 

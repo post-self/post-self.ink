@@ -34,7 +34,7 @@ Michelle Hadje uploaded early on during the System's creation and is considered 
 
 She is best known for being the founder of the Ode clade, and is no longer extant on the System as of 2306.
 
-Due to her experience while lost, her and her up-tree instances have a 'unique relationship to language' that primarily manifests with a lack of contractions, florid speech with occasionally irregular word order (dative or ablative fronting, e.g: "I set up *for myself* an archetype"), and well-chosen uses of the word 'fuck'. She and her clade deal with the effects even within the System and will occasionally describe themselves as 'mad', for lack of a better term. <span class="spoiler">Additionally, the experience left her struggling to maintain a single form post-uploading, often alternating between skunk and human form, which is described as extremely unpleasant.</span><i class="spoiler-warn"></i>
+Due to her experience while lost, her and her up-tree instances have a 'unique relationship to language' that primarily manifests with a lack of contractions, florid speech with occasionally irregular word order (anaphora using dative/ablative fronting, e.g: "I set up *for myself* an archetype"), and well-placed uses of the word 'fuck'. She and her clade deal with the effects even within the System and will occasionally describe themselves as 'mad', for lack of a better term. <span class="spoiler">Additionally, the experience left her struggling to maintain a single form post-uploading, often alternating between skunk and human form, which is described as extremely unpleasant.</span><i class="spoiler-warn"></i>
 
 * [*Qoheleth*](https://qoheleth.post-self.ink)
 * [*Toledot*](https://toledot.post-self.ink)
@@ -78,7 +78,7 @@ May Then My Name (or simply May to those with whom she is closest) is an author,
 
 True Name is a politician and one of the movers and shakers of the System as one of the Founders and member of the Council of Eight. She takes the form of an anthropomorphic skunk, though is taller and slimmer than her up-tree instance, May Then My Name. She is described wearing rather nice clothes; blouses and skirts or slacks.
 
-She is in an on-again-off-again relationship with Zacharias.
+She is/was in an on-again-off-again relationship with Zacharias, a dapper, snarky red fox.
 
 [![True Name as depicted on the back cover of Toledot](/img/truename1.png)](/img/truename1.png)
 
@@ -119,7 +119,7 @@ Do I Know God After The *End Waking* (he/him)
     * [*Mitzvot*](https://mitzvot.post-self.ink) (mentioned)
 
 That Which Lives is Forever *Praiseworthy* (she/her)
-:   Another skunk-type Odst, Praiseworthy focused on shaping sentiment early on in the System's history. No one's sure what she's up to now.
+:   Another skunk-type Odist, Praiseworthy focused on shaping sentiment early on in the System's history. No one's sure what she's up to now.
 
     * [*Qoheleth*](https://qoheleth.post-self.ink)
     * [*Toledot*](https://toledot.post-self.ink) (mentioned)
@@ -129,6 +129,13 @@ That Which Lives is Forever *Praiseworthy* (she/her)
 :   Commonly described as shitheads, Why Ask Questions and Answers Will Not Help shaped sentiment, with the former focusing on building camaraderie sys-side and the latter working via the text line to build support phys-side.
 
     * [*Toledot*](https://toledot.post-self.ink)
+    * [*Nevi'im*](https://neviim.post-self.ink)
+    * [*Mitzvot*](https://mitzvot.post-self.ink)
+
+Time Is *A Finger Pointing* At Itself
+:   A human-type Odist who has devoted herself to theatre. She's described as a somewhat taller, somewhat more slender human Odist, dressing chic and modern, but with a simple desire to be everyone's friend.
+
+    * [*Toledot*](https://toledot.post-self.ink) (mentioned)
     * [*Nevi'im*](https://neviim.post-self.ink)
     * [*Mitzvot*](https://mitzvot.post-self.ink)
 
@@ -144,7 +151,7 @@ Douglas Hadje-Simon is Michelle Hadje's ancestor and the phys-side launch coordi
 
 ## Jonas Anderson (he/him)
 
-Jonas Andersen was another member of the Council of Eight and worked to guide the System throughout the years.
+Jonas Andersen was another member of the Council of Eight and worked to guide the System throughout the years. Described as lanky, 'well-preserved forties', tousled blond hair, the consummate politician.
 
 *Appears in:*
 
@@ -157,7 +164,7 @@ Jonas Andersen was another member of the Council of Eight and worked to guide th
 
 ### Ioan Bălan (ey/em)
 
-Ioan Bălan is a historian, investigative journalist, and writer. Ey uploaded in 2238 and began working with Dear, Also, The Tree That Was Felled of the Ode clade in 2305 on a project that resulted in the well-received book *On the Perils of Memory*. Later, while working on *An Expanded History of Our World*, ey entered into a romantic relationship with another Odist, May Then My Name Die With Me. Ey's described as of average height, a little soft, and with tousled blond hair. Ey has kept eir masculine name and relatively masculine appearance from phys-side, dressing in 'faux-academic garb' (usually slacks, a dress shirt, a sweater vest, a bow tie, and occasionally a jacket), though ey describes eir gender as fluid.
+Ioan Bălan is a historian, investigative journalist, writer, and much later, actor and playwright. Ey uploaded in 2238 to help eir brother, Dragoş Bălan, after their parents' death, and began working with Dear, Also, The Tree That Was Felled of the Ode clade in 2305 on a project that resulted in the well-received book *On the Perils of Memory*. Later, while working on *An Expanded History of Our World*, ey entered into a romantic relationship with another Odist, May Then My Name Die With Me. Ey's described as of average height, a little soft, and with tousled blond hair. Ey has kept eir masculine name and relatively masculine appearance from phys-side, dressing in 'faux-academic garb' (usually slacks, a dress shirt, a sweater vest, a bow tie, and occasionally a jacket), though ey describes eir gender as fluid.
 
 [![Ioan as depicted on the cover of Qoheleth](/img/dearioan.png)](/img/dearioan.png)
 
@@ -224,7 +231,7 @@ Sarah is a psychologist and one of the emissaries chosen to meet with the Artemi
 
 ### Debarre (he/him)
 
-Having lost his boyfriend to the lingering effects of getting lost, Debarre uploaded along with Michelle Hadje. He's usually depicted as an anthropomorphic weasel dressed in all black. He's in an on-again-off-again relationship with End Waking.
+Having lost his boyfriend to the lingering effects of getting lost, Debarre uploaded along with Michelle Hadje. He's usually depicted as an anthropomorphic weasel dressed in all black. He's in an on-again-off-again relationship with End Waking, along with a few others in the form of parallel monogamy.
 
 *Appears in:*
 
