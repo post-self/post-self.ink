@@ -25,7 +25,7 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 
 ## [Book III - Nevi'im](https://neviim.post-self.ink)
 
-[![Nevi'im](https://via.placeholder.com/200x313?text=Nevi'im)](https://neviim.post-self.ink)
+[![Nevi'im](/img/neviim.png)](https://neviim.post-self.ink)
 
 > *"Do you know how old I am, Dr. Brahe? I am 222 years old, a fork of an individual who is...who would be 259 years old. I am no longer the True Name of 2124. Even remembering her feels like remembering an old friend. I remember her perfectly, and yet I do not remember how to be earnest. I do not know how to simply **be**."*
 
