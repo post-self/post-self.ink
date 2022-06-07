@@ -18,6 +18,7 @@ A sound tech for the Soho Theatre Troupe, RJ Brewster was among the lost in the 
 * [*Toledot*](https://toledot.post-self.ink) (mentioned)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink) (mentioned)
+* "Selected Letters" (mentioned)
 
 ## Dr. Carter Ramirez (she/her)
 
@@ -59,10 +60,11 @@ It is in a relationship with Codrin Bălan and one other unnamed individual.
 
 *Appears in:*
 
-* [*Qoheleth*](https://qoheleth.post-self.ink)
+* [*Qoheleth* and Gallery Exhibition: A Love Story](https://qoheleth.post-self.ink)
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink)
+* "Selected Letters" (mentioned)
 
 #### *May Then My Name* Die With Me (she/her)
 
@@ -73,8 +75,9 @@ May Then My Name (or simply May to those with whom she is closest) is an author,
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink)
+* "Selected Letters" (mentioned)
 
-#### The Only Time I Know My *True Name* is When I Dream (she/her)
+#### The Only Time I Know My *True Name* is When I Dream<span class="spoiler"> / Sasha</span><i class="spoiler-warn"></i> (she/her)
 
 True Name is a politician and one of the movers and shakers of the System as one of the Founders and member of the Council of Eight. She takes the form of an anthropomorphic skunk, though is taller and slimmer than her up-tree instance, May Then My Name. She is described wearing rather nice clothes; blouses and skirts or slacks.
 
@@ -87,6 +90,7 @@ She is/was in an on-again-off-again relationship with Zacharias, a dapper, snark
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink)
+* "Selected Letters" (mentioned)
 
 #### *Life Breeds Life*, But Death Must Now Be Chosen<span class="spoiler"> / Qoheleth</span><i class="spoiler-warn"></i> (he/him)
 
@@ -109,6 +113,7 @@ Do I Know God After The *End Waking* (he/him)
     * [*Toledot*](https://toledot.post-self.ink)
     * [*Nevi'im*](https://neviim.post-self.ink)
     * [*Mitzvot*](https://mitzvot.post-self.ink)
+    * "Selected Letters" (mentioned)
 
 *Serene*; Sustained And Sustaining (she/her)
 :   A fennec like Dear, Serene was forked when her down-tree instance wanted to explore a twinned interest in instances and sims. She build fantastic, nature-based sims, including Dear's prairie and End Waking's forest.
@@ -117,6 +122,7 @@ Do I Know God After The *End Waking* (he/him)
     * [*Toledot*](https://toledot.post-self.ink)
     * [*Nevi'im*](https://neviim.post-self.ink) (mentioned)
     * [*Mitzvot*](https://mitzvot.post-self.ink) (mentioned)
+    * "Selected Letters" (mentioned)
 
 That Which Lives is Forever *Praiseworthy* (she/her)
 :   Another skunk-type Odist, Praiseworthy focused on shaping sentiment early on in the System's history. No one's sure what she's up to now.
@@ -148,6 +154,7 @@ Douglas Hadje-Simon is Michelle Hadje's ancestor and the phys-side launch coordi
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink)
+* "Selected Letters" (mentioned)
 
 ## Jonas Anderson (he/him)
 
@@ -159,12 +166,13 @@ Jonas Andersen was another member of the Council of Eight and worked to guide th
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink)
+* "Selected Letters" (mentioned)
 
 ## The Bălan clade
 
 ### Ioan Bălan (ey/em)
 
-Ioan Bălan is a historian, investigative journalist, writer, and much later, actor and playwright. Ey uploaded in 2238 to help eir brother, Dragoş Bălan, after their parents' death, and began working with Dear, Also, The Tree That Was Felled of the Ode clade in 2305 on a project that resulted in the well-received book *On the Perils of Memory*. Later, while working on *An Expanded History of Our World*, ey entered into a romantic relationship with another Odist, May Then My Name Die With Me. Ey's described as of average height, a little soft, and with tousled blond hair. Ey has kept eir masculine name and relatively masculine appearance from phys-side, dressing in 'faux-academic garb' (usually slacks, a dress shirt, a sweater vest, a bow tie, and occasionally a jacket), though ey describes eir gender as fluid.
+Ioan Bălan (*yoh-ahn buh-lahn*) is a historian, investigative journalist, writer, and much later, actor and playwright. Ey uploaded in 2238 to help eir brother, Dragoş Bălan, after their parents' death, and began working with Dear, Also, The Tree That Was Felled of the Ode clade in 2305 on a project that resulted in the well-received book *On the Perils of Memory*. Later, while working on *An Expanded History of Our World*, ey entered into a romantic relationship with another Odist, May Then My Name Die With Me. Ey's described as of average height, a little soft, and with tousled blond hair. Ey has kept eir masculine name and relatively masculine appearance from phys-side, dressing in 'faux-academic garb' (usually slacks, a dress shirt, a sweater vest, a bow tie, and occasionally a jacket), though ey describes eir gender as fluid. May Then My Name occasionally uses the pet name Ionuţ (*yoh-nootz*)
 
 [![Ioan as depicted on the cover of Qoheleth](/img/dearioan.png)](/img/dearioan.png)
 
@@ -176,10 +184,11 @@ Ioan Bălan is a historian, investigative journalist, writer, and much later, ac
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink)
+* "Selected Letters"
 
 ### Codrin Bălan (ey/em)
 
-After the conclusion of eir project with Dear, Ioan forked a new long-running instance, Codrin Bălan, who moved in with Dear and its partner and later joined their relationship. Ey has grown eir hair out and 
+After the conclusion of eir project with Dear, Ioan forked a new long-running instance, Codrin Bălan (*co-dreen buh-lahn* or *co-drihn*), who moved in with Dear and its partner and later joined their relationship. Ey has grown eir hair out and leaned much harder into androgyny, eir features shifting away from masculine, wearing sarongs and tunics. Eir partners occasionally use the pet name Codruţ (*co-drootz*).
 
 *Appears in:*
 
@@ -187,15 +196,23 @@ After the conclusion of eir project with Dear, Ioan forked a new long-running in
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink) (mentioned)
+* "Selected Letters"
 
 ### Sorina Bălan (she/her)
 
-Forked from Codrin in order to continue along on Artemis's journey, Sorina owned her Romanian heritage perhaps more than either of her down-tree instances.
+Forked from Codrin in order to continue along on Artemis's journey, Sorina owned her Romanian heritage perhaps more than either of her down-tree instances, most often seen in traditional Romanian garb from ~1800s --- an *ie* (blouse), waist belt, skirt, and *fotă* (apron), all heavily embroidered --- and speaking more frequently in her first language.
 
 *Appears in:*
 
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink) (mentioned)
+* "Selected Letters"
+
+### Aurel Bălan
+
+An occasional instance inspired by Debarre's habit of keeping a fork for his relationship with End Waking, which tends to last only a few months at a time before the skunk asks for solitude, Ioan forks Aurel (*ow-rel*) when <span class="spoiler">Sasha (née True Name) is up for a relationship. She'll occasionally use the pet names Aurică (*ow-ree-kuh*) when ey's in a more masculine mode and Aurica (*ow-ree-kah*) when ey's in a more feminine mode.</span><i class="spoiler-warn"></i>
+
+* "Selected Letters"
 
 ## Tycho Brahe (he/him)
 
@@ -206,6 +223,7 @@ Born under a different name, Tycho chose the name of the Danish astronomer when 
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink)
 * [*Mitzvot*](https://mitzvot.post-self.ink) (mentioned)
+* "Selected Letters" (mentioned)
 
 ## Other characters
 
@@ -259,3 +277,13 @@ All anyone can really tell about user11824 is that he's male. He's described as 
 * [*Toledot*](https://toledot.post-self.ink)
 * [*Nevi'im*](https://neviim.post-self.ink) (mentioned)
 * [*Mitzvot*](https://mitzvot.post-self.ink) (mentioned)
+
+### Zacharias
+
+A dapper and snarky red fox. In an on-again-off-again relationship with True Name.
+
+*Appears in:*
+
+* [*Nevi'im*](https://neviim.post-self.ink) (mentioned)
+* [*Mitzvot*](https://mitzvot.post-self.ink)
+* "Selected Letters" (mentioned)
