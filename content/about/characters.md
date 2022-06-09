@@ -70,6 +70,8 @@ It is in a relationship with Codrin Bălan and one other unnamed individual.
 
 May Then My Name (or simply May to those with whom she is closest) is an author, actor, and hopeless romantic. She takes the form of a short, chubby anthropomorphic skunk, and is the author of the well-received *An Expanded Mythology of Our World*. She falls in love easily and deeply, and her primary instance is in a relationship with Ioan Bălan, though several long-running forks remain in relationships with others. She dresses for comfort.
 
+[![Ioan and May on the cover of Nevi'im](/img/ioanmay.png)](/img/ioanmay.png)
+
 *Appears in:*
 
 * [*Toledot*](https://toledot.post-self.ink)
@@ -84,6 +86,8 @@ True Name is a politician and one of the movers and shakers of the System as one
 She is/was in an on-again-off-again relationship with Zacharias, a dapper, snarky red fox.
 
 [![True Name as depicted on the back cover of Toledot](/img/truename1.png)](/img/truename1.png)
+
+[![True Name on the cover of Nevi'im](/img/tnawnh.png)](/img/tnawnh.png)
 
 *Appears in:*
 
@@ -172,11 +176,13 @@ Jonas Andersen was another member of the Council of Eight and worked to guide th
 
 ### Ioan Bălan (ey/em)
 
-Ioan Bălan (*yoh-ahn buh-lahn*) is a historian, investigative journalist, writer, and much later, actor and playwright. Ey uploaded in 2238 to help eir brother, Dragoş Bălan, after their parents' death, and began working with Dear, Also, The Tree That Was Felled of the Ode clade in 2305 on a project that resulted in the well-received book *On the Perils of Memory*. Later, while working on *An Expanded History of Our World*, ey entered into a romantic relationship with another Odist, May Then My Name Die With Me. Ey's described as of average height, a little soft, and with tousled blond hair. Ey has kept eir masculine name and relatively masculine appearance from phys-side, dressing in 'faux-academic garb' (usually slacks, a dress shirt, a sweater vest, a bow tie, and occasionally a jacket), though ey describes eir gender as fluid. May Then My Name occasionally uses the pet name Ionuţ (*yoh-nootz*)
+Ioan Bălan (*yoh-ahn buh-lahn*) is a historian, investigative journalist, writer, and much later, actor and playwright. Ey uploaded in 2238 to help eir brother, Dragoş Bălan, after their parents' death, and began working with Dear, Also, The Tree That Was Felled of the Ode clade in 2305 on a project that resulted in the well-received book *On the Perils of Memory*. Later, while working on *An Expanded History of Our World*, ey entered into a romantic relationship with another Odist, May Then My Name Die With Me. Ey's described as of average height, a little soft, and with tousled blond hair. Ey has kept eir masculine name and relatively masculine appearance from phys-side, dressing in 'faux-academic garb' (usually slacks, a dress shirt, a sweater vest, a bow tie, and occasionally a jacket), though ey describes eir gender as fluid. May Then My Name occasionally uses the pet name Ionuț (*yoh-nootz*)
 
 [![Ioan as depicted on the cover of Qoheleth](/img/dearioan.png)](/img/dearioan.png)
 
 [![Ioan as depicted on the cover of Toledot](/img/ewioan.png)](/img/ewioan.png)
+
+[![Ioan and May on the cover of Nevi'im](/img/ioanmay.png)](/img/ioanmay.png)
 
 *Appears in:*
 
@@ -188,7 +194,7 @@ Ioan Bălan (*yoh-ahn buh-lahn*) is a historian, investigative journalist, write
 
 ### Codrin Bălan (ey/em)
 
-After the conclusion of eir project with Dear, Ioan forked a new long-running instance, Codrin Bălan (*co-dreen buh-lahn* or *co-drihn*), who moved in with Dear and its partner and later joined their relationship. Ey has grown eir hair out and leaned much harder into androgyny, eir features shifting away from masculine, wearing sarongs and tunics. Eir partners occasionally use the pet name Codruţ (*co-drootz*).
+After the conclusion of eir project with Dear, Ioan forked a new long-running instance, Codrin Bălan (*co-dreen buh-lahn* or *co-drihn*), who moved in with Dear and its partner and later joined their relationship. Ey has grown eir hair out and leaned much harder into androgyny, eir features shifting away from masculine, wearing sarongs and tunics. Eir partners occasionally use the pet name Codruț (*co-drootz*).
 
 *Appears in:*
 
