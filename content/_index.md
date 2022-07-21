@@ -37,8 +37,6 @@ When faced with eternity in a new kind of digital world, however, old traumas co
 
 Growth is colliding with memory, and the cracks are showing.
 
-> *Coming July 21, 2022*
-
 ## [Book IV - Mitzvot](https://mitzvot.post-self.ink)
 
 [![Mitzvot](https://via.placeholder.com/200x313?text=Mitzvot)](https://mitzvot.post-self.ink)
