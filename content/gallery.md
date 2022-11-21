@@ -11,12 +11,13 @@ img {
 </style>
 
 [![](/img/gallery/awnh.png)](/img/gallery/awnh.png)
+[![](/img/gallery/dear.png)](/img/gallery/dear.png)
 [![](/img/gallery/dandelions.png)](/img/gallery/dandelions.png)
 [![](/img/gallery/awdae-1.png)](/img/gallery/awdae-1.png)
 [![](/img/gallery/awdae-2.png)](/img/gallery/awdae-2.png)
 [![](/img/gallery/cairns.png)](/img/gallery/cairns.png)
 [![](/img/gallery/stolon.png)](/img/gallery/stolon.png)
-[![](/img/gallery/dear.png)](/img/gallery/dear.png)
+[![](/img/gallery/dear-ref.png)](/img/gallery/dear-ref.png)
 [![](/img/gallery/merge.png)](/img/gallery/merge.png)
 [![](/img/gallery/monologue.png)](/img/gallery/monologue.png)
 [![](/img/gallery/qoheleth-front.png)](/img/gallery/qoheleth-front.png)
