@@ -1,7 +1,9 @@
 ---
 ---
 
-## [Book I - Qoheleth](https://qoheleth.post-self.ink)
+# The Post-Self Cycle
+
+## [Book I --- Qoheleth](https://qoheleth.post-self.ink)
 
 [![Qoheleth](/img/qoheleth.png)](https://qoheleth.post-self.ink)
 
@@ -13,7 +15,7 @@ And, nearly a century on, society still struggles with the ramifications of thos
 
 Features the bonus novella *Gallery Exhibition: A Love Story*.
 
-## [Book II - Toledot](https://toledot.post-self.ink)
+## [Book II --- Toledot](https://toledot.post-self.ink)
 
 [![Toledot](/img/toledot.png)](https://toledot.post-self.ink)
 
@@ -23,7 +25,7 @@ No longer bound to the physical, what lengths should one go to in a virtual worl
 
 Secession. Launch. Two separations from two societies, two hundred years apart. And through it all, so many parallels run on so many levels that it can be dizzying just keeping up. The more Ioan and Codrin Bălan learn, the more it calls into question the motivations of even those they hold most dear.
 
-## [Book III - Nevi'im](https://neviim.post-self.ink)
+## [Book III --- Nevi'im](https://neviim.post-self.ink)
 
 [![Nevi'im](/img/neviim.png)](https://neviim.post-self.ink)
 
@@ -37,7 +39,7 @@ When faced with eternity in a new kind of digital world, however, old traumas co
 
 Growth is colliding with memory, and the cracks are showing.
 
-## [Book IV - Mitzvot](https://mitzvot.post-self.ink)
+## [Book IV --- Mitzvot](https://mitzvot.post-self.ink)
 
 [![Mitzvot](/img/mitzvot.png)](https://mitzvot.post-self.ink)
 
@@ -46,5 +48,15 @@ Growth is colliding with memory, and the cracks are showing.
 Even the grandest of stories can feel small and immediate when it's just one person's life.
 
 One of the most well-known names from one of the most well-known clades on the System, the avatar of political machinations and cool confidence, has been brought low. With help coming only from Ioan Bălan and the most grudging of support from her cocladists, all True Name has left to save herself is the ability to change. 
+
+> *Coming early 2023*
+
+# Other works
+
+## [Clade --- A Post-Self Anthology](https://clade.post-self.ink)
+
+[![Clade](/img/clade.png)](https://clade.post-self.ink)
+
+> Clade *(n)* --- a group of individuals patterned off a single root consciousness, formed through branching expansion of the forking of its constituent members. *See: cladistics, cocladist, up-/down-tree, post-self theory.*
 
 > *Coming early 2023*
