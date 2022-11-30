@@ -12,7 +12,7 @@ img {
 
 [![Art by johnny d.](/img/gallery/awnh.png)](/img/gallery/awnh.png)
 [![Art by johnny d.](/img/gallery/dear.png)](/img/gallery/dear.png)
-[![Art by Kris Weaver](/img/gallery/split.png)](/img/gallery/dandelions.png)
+[![Art by Kris Weaver](/img/gallery/dandelions.png)](/img/gallery/dandelions.png)
 [![Art by Cadmium Tea](/img/gallery/awdae-1.png)](/img/gallery/awdae-1.png)
 [![Art by Cadmium Tea](/img/gallery/awdae-2.png)](/img/gallery/awdae-2.png)
 [![Art by JAIYANDT](/img/gallery/cairns.png)](/img/gallery/cairns.png)
