@@ -10,26 +10,41 @@ img {
 }
 </style>
 
-[![Art by johnny d.](/img/gallery/awnh.png)](/img/gallery/awnh.png)
-[![Art by johnny d.](/img/gallery/dear.png)](/img/gallery/dear.png)
-[![Art by Kris Weaver](/img/gallery/dandelions.png)](/img/gallery/dandelions.png)
+## *Qoheleth and Gallery Exhibition*
+
+[![Art by Iris Jay](/img/gallery/qoheleth-front.png)](/img/gallery/qoheleth-front.png)
 [![Art by Cadmium Tea](/img/gallery/awdae-1.png)](/img/gallery/awdae-1.png)
 [![Art by Cadmium Tea](/img/gallery/awdae-2.png)](/img/gallery/awdae-2.png)
-[![Art by JAIYANDT](/img/gallery/cairns.png)](/img/gallery/cairns.png)
-[![Art by JAIYANDT](/img/gallery/stolon.png)](/img/gallery/stolon.png)
-[![Art by Iris Jay](/img/gallery/dear-ref.png)](/img/gallery/dear-ref.png)
-[![Art by Iris Jay](/img/gallery/merge.png)](/img/gallery/merge.png)
-[![Art by Iris Jay](/img/gallery/monologue.png)](/img/gallery/monologue.png)
-[![Art by Iris Jay](/img/gallery/qoheleth-front.png)](/img/gallery/qoheleth-front.png)
-[![Art by Iris Jay](/img/gallery/toledot-front.png)](/img/gallery/toledot-front.png)
-[![Art by Iris Jay](/img/gallery/neviim-front.png)](/img/gallery/neviim-front.png)
-[![Art by Iris Jay](/img/gallery/mitzvot-front.png)](/img/gallery/mitzvot-front.png)
+[![Art by johnny d.](/img/gallery/dear.png)](/img/gallery/dear.png)
 [![Art by Iris Jay](/img/gallery/qoheleth-back.png)](/img/gallery/qoheleth-back.png)
+
+## *Toledot*
+
+[![Art by Iris Jay](/img/gallery/toledot-front.png)](/img/gallery/toledot-front.png)
+[![Art by Kris Weaver](/img/gallery/dandelions.png)](/img/gallery/dandelions.png)
+[![Art by JAIYANDT](/img/gallery/cairns.png)](/img/gallery/cairns.png)
 [![Art by Iris Jay](/img/gallery/toledot-back.png)](/img/gallery/toledot-back.png)
+
+## *Nevi'im*
+
+[![Art by Iris Jay](/img/gallery/neviim-front.png)](/img/gallery/neviim-front.png)
+[![Art by johnny d.](/img/gallery/awnh.png)](/img/gallery/awnh.png)
+[![Art by JAIYANDT](/img/gallery/stolon.png)](/img/gallery/stolon.png)
 [![Art by Iris Jay](/img/gallery/neviim-back.png)](/img/gallery/neviim-back.png)
+
+## *Mitzvot and Selected Letters*
+
+[![Art by Iris Jay](/img/gallery/mitzvot-front.png)](/img/gallery/mitzvot-front.png)
+[![Art by Iris Jay](/img/gallery/monologue.png)](/img/gallery/monologue.png)
+[![Art by Iris Jay](/img/gallery/merge.png)](/img/gallery/merge.png)
 [![Art by Iris Jay](/img/gallery/mitzvot-back.png)](/img/gallery/mitzvot-back.png)
+
+## Additional art
+
+[![Art by Iris Jay](/img/gallery/dear-ref.png)](/img/gallery/dear-ref.png)
         
 <script type="text/javascript">
+// There has to be a better way to do this with markdown :P
 document.querySelectorAll('a').forEach(link => {
     if (link.attributes.href.textContent.substring(0,4) === '/img') {
         link.setAttribute('target', '_blank');
