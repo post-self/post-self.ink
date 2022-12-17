@@ -3,10 +3,42 @@ title: Gallery
 type: page
 ---
 
+<svg>
+  <filter id="pixelate" x="0" y="0">
+    <feFlood x="4" y="4" height="2" width="2"/>
+    <feComposite width="10" height="10"/>
+    <feTile result="a"/>
+    <feComposite in="SourceGraphic" in2="a" operator="in"/>
+    <feMorphology operator="dilate" radius="5"/>
+  </filter>
+</svg>
+
 <style>
 img {
     display: inline-block;
     max-height: 200px;
+}
+.merge {
+    display: inline-block;
+    position: relative;
+}
+.merge img {
+    position: relative;
+    filter: url(#pixelate);
+}
+.merge span {
+    width: 80%;
+    text-align: center;
+    position: absolute;
+    text-indent: 0;
+    top: 70px;
+    left: 20%;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 0px #000;
+    background-color: rgba(0,0,0,0);
 }
 </style>
 
@@ -36,7 +68,7 @@ img {
 
 [![Art by Iris Jay](/img/gallery/mitzvot-front.png)](/img/gallery/mitzvot-front.png)
 [![Art by Iris Jay](/img/gallery/monologue.png)](/img/gallery/monologue.png)
-[![Art by Iris Jay](/img/gallery/merge.png)](/img/gallery/merge.png)
+<a class="merge" href="/img/gallery/merge.png"><img alt="Art by Iris Jay" src="/img/gallery/merge.png" /><span>Spoiler</span></a>
 [![Art by Iris Jay](/img/gallery/mitzvot-back.png)](/img/gallery/mitzvot-back.png)
 
 ## Additional art
