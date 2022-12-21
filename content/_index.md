@@ -57,6 +57,11 @@ One of the most well-known names from one of the most well-known clades on the S
 
 [![Clade](/img/clade.png)](https://clade.post-self.ink)
 
-> Clade *(n)* --- a group of individuals patterned off a single root consciousness, formed through branching expansion of the forking of its constituent members. *See: cladistics, cocladist, up-/down-tree, post-self theory.*
-
+> **Clade** *(n)* – /klɛ:id/ – *post-self theory*  
+> A group of individuals patterned off a single root consciousness, formed through branching expansion of the forking of its constituent members.  
+> *See also: cladistics, cocladist, up-/down-/cross-tree instance, forking, post-self theory.*  
+> — The System Central Library Encyclopedia
+>
+> To split oneself among however many individuals, to let the mind drift and diverge, to feel the world from points of view not your own, and then let those memories crash down into you…well, it inspires a feeling best described as ‘heady’, to say the least.
+>
 > *Coming early 2023*
