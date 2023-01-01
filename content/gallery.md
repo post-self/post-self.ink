@@ -23,15 +23,18 @@ img {
     position: absolute;
     text-indent: 0;
     top: 70px;
-    left: 20%;
+    left: 10%;
     color: #fff;
     font-weight: bold;
     text-decoration: none;
     font-family: sans-serif;
-    text-shadow: 2px 2px 0px #000;
+    text-shadow: 2px 3px 0px #000;
     background-color: rgba(0,0,0,0);
+    text-align: center;
 }
 </style>
+
+Over the course of publication and as funded by the backers of the *Mitzvot* Kickstarter, much in the way of art surrounding the Post-Self universe and its character has accrued.
 
 ## *Qoheleth and Gallery Exhibition*
 
@@ -65,6 +68,9 @@ img {
 ## Additional art
 
 [![Art by Iris Jay](/img/gallery/dear-ref.png)](/img/gallery/dear-ref.png)
+[![Art by JAIYANDT](/img/gallery/writerskunk.png)](/img/gallery/writerskunk.png)
+[![Art by JAIYANDT](/img/gallery/ref-3.png)](/img/gallery/ref-3.png)
+<a class="merge" href="/img/gallery/merge.png"><img alt="Art by JAIYANDT" src="/img/gallery/ref.png" /><span>Artistic<br>nudity</span></a>
         
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
