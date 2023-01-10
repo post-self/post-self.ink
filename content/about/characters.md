@@ -30,11 +30,21 @@ The Ode clade consists of, nominally, 100 instances. In 2124, Michelle forked te
 
 Dear is an instance artist, meaning that it plays around with the meaning of self in a world where one can create multiple copies of oneself. It was instrumental in the investigation of the events as described in the Bălan clade's *On the Perils of Memory*. It takes the form of a fennec fox with somewhat iridescent white fur, a result of it forking a few too many times in order to shift its sensorium to try and forget a fact. It has opted out of gender.
 
+<figure style="text-align: center">
+<img src="/img/gallery/dear.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">It somehow speaks in italics.</figcaption>
+</figure>
+
 It is in a relationship with Codrin Bălan and one other unnamed individual.
 
 ### May Then My Name Die With Me (she/her)
 
 May Then My Name (or simply 'May' to those with whom she is closest) is an author, actor, and hopeless romantic. She takes the form of a short, chubby anthropomorphic skunk, and is the author of the well-received *An Expanded Mythology of Our World*. She falls in love easily and deeply, and her primary instance is in a relationship with Ioan Bălan, though several long-running forks remain in relationships with others.
+
+<figure style="text-align: center">
+<img src="/img/gallery/monologue.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">To be built to love is to be built to dissolve.</figcaption>
+</figure>
 
 ### The Only Time I Know My True Name is When I Dream<span class="spoiler"> / Sasha (she/her)</span><i class="spoiler-warn"></i>
 
@@ -49,6 +59,11 @@ Life Breeds Life was a historian and author involved in early historiographical 
 ### Do I Know God After The End Waking / E.W. (he/him)
 
 End Waking started out in charge of phys-side finances as they pertain to the System early on, but has since grown repentant of his actions. He is "heavily committed to the ranger aesthetic", choosing to live in solitude in a forest sim designed by Serene. He is in an on-again-off-again relationship with Debarre. After rescinding his membership in the clade, he goes by E.W.
+
+<figure style="text-align: center">
+<img src="/img/gallery/toledot-front.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">“You can just drop the clade and be that nerd who lives in the woods.”</figcaption>
+</figure>
 
 ### Serene; Sustained And Sustaining (she/her)
 
@@ -72,11 +87,21 @@ A Finger Pointing is human-type Odist who has devoted herself to theatre. She's 
 
 Ioan Bălan (/ˈjo ˌan/ /ˌbə ˈlan/) is a historian, investigative journalist, writer, and much later, actor and playwright. Ey uploaded in 2238 to help eir brother, Rareș (/ˌra ˈreʃ/), after their parents' death, and began working with Dear, Also, The Tree That Was Felled of the Ode clade in 2305 on a project that resulted in the well-received book [*On the Perils of Memory*](https://qoheleth.post-self.ink). Later, while working on [*An Expanded History of Our World*](https://toledot.post-self.ink), ey entered into a romantic relationship with another Odist, May Then My Name. During the process of working on [*Individuation and Reconcilliation*](https://mitzvot.post-self.ink), ey wound up in a relationship with <span class="spoiler">Sasha, *née* True Name</span><i class="spoiler-warn"></i> as a separate fork.
 
+<figure style="text-align: center">
+<img src="/img/gallery/neviim-back.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">“I can’t imagine seeing them together would be anything but adorable.”</figcaption>
+</figure>
+
 Ey has kept eir masculine name and relatively masculine appearance from phys-side, dressing in 'faux-academic garb' (usually slacks, a dress shirt, a sweater vest, a bow tie, and occasionally a jacket), though ey describes eir gender as fluid. May Then My Name occasionally uses the pet name Ionuț (/ˈjo ˌnutz/).
 
 ### Codrin Bălan (ey/em)
 
 After the conclusion of eir project with Dear, Ioan forked a new long-running instance, Codrin Bălan (/ˈko ˌdrin/ or /ˈko ˌdrɨn/), who moved in with Dear and its partner and later joined their relationship. Ey has grown eir hair out and leaned much harder into androgyny, eir features shifting away from masculine, wearing sarongs and tunics. Eir partners occasionally use the pet name Codruț (/ˈko ˌdrutz/).
+
+<figure style="text-align: center">
+<img src="/img/gallery/cairns.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">The fox, it is exhausting.</figcaption>
+</figure>
 
 ### Sorina Bălan (she/her)
 
@@ -92,15 +117,30 @@ Douglas Hadje-Simon is Michelle Hadje's ancestor and the phys-side launch coordi
 
 ## Jonas Anderson (he/him)
 
-Jonas Andersen was another member of the Council of Eight and worked to guide the System throughout the years. Described as lanky, 'well-preserved forties', tousled blond hair, the consummate politician.
+Jonas Anderson was another member of the Council of Eight and worked to guide the System throughout the years. Described as lanky, 'well-preserved forties', tousled blond hair, the consummate politician.
+
+<figure style="text-align: center">
+<img src="/img/gallery/mitzvot-back.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">Slimy piece of shit, more like it.</figcaption>
+</figure>
 
 ## Tycho Brahe (he/him)
 
 Born under a different name, Tycho chose the name of the Danish astronomer when he agreed to be interviewed by Codrin for the *History*. An anxious and often depressed individual, he works as an astronomer on the System, and was the first to make contact with the Artemisians.
 
+<figure style="text-align: center">
+<img src="/img/gallery/stolon.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">What a nerd.</figcaption>
+</figure>
+
 ## Yared Zerezghi (he/him)
 
 A 'net addict and DDR (Direct Democracy Representative) junkie from Addis Ababa, Ethiopia, Yared was instrumental in the secession of the System from the rest of the governments on Earth. The events of Secession have left him incredibly anxious.
+
+<figure style="text-align: center">
+<img src="/img/gallery/toledot-back.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">A bit of a wreck, actually.</figcaption>
+</figure>
 
 ## Sarah Genet (she/her)
 
@@ -118,6 +158,6 @@ Zeke (later known by his full name, Ezekiel), is an Israeli Jew who uploaded ear
 
 All anyone can really tell about user11824 is that he's male. He's described as being so utterly boring that one's eyes simply slide right off him. This fact, combined with his anonymous chosen name, make him quite interesting, much to his chagrin. He described himself prior to uploading as 'a nobody, but a Maori nobody'.
 
-### Zacharias (he/him)
+## Zacharias (he/him)
 
 A dapper and snarky red fox. In an on-again-off-again relationship with True Name. <span class="spoiler">He is a long, long diverged fork of May Then My Name.</span><i class="spoiler-warn"></i>

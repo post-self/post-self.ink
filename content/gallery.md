@@ -47,8 +47,9 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 ## *Toledot*
 
 [![Art by Iris Jay](/img/gallery/toledot-front.png)](/img/gallery/toledot-front.png)
-[![Art by Kris Weaver](/img/gallery/dandelions.png)](/img/gallery/dandelions.png)
+[![Art by Kris Weaver](/img/gallery/shove.png)](/img/gallery/shove.png)
 [![Art by JAIYANDT](/img/gallery/cairns.png)](/img/gallery/cairns.png)
+[![Art by Kris Weaver](/img/gallery/dandelions.png)](/img/gallery/dandelions.png)
 [![Art by Iris Jay](/img/gallery/toledot-back.png)](/img/gallery/toledot-back.png)
 
 ## *Nevi'im*

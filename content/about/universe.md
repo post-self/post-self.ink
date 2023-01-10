@@ -58,6 +58,11 @@ An instance may *quit*. When they do so, their memories are provided to their *d
 
 The greater the individuation between and up- and down-tree instance, the greater the chance for *conflicts*. These occur when memories don't line up---that is, the experiences may be of the same event, but the conclusions drawn from the event may be different. As time goes on, individuation will affect the entire personality of an individual, as personality is built in part atop memories. Cocladists who have diverged by decades or centuries may find such merges incredibly difficult.
 
+<figure style="text-align: center;">
+<img src="/img/dear-fork.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8;">There isn't really a visual indication of forking, Dear's just special.</figcaption>
+</figure>
+
 Forking incurs a reputation cost. This is tied to available capacity on the System, and as capacity grows, the cost of forking decreases, to the point where, in the 2300s, it's negligible. This cost is incurred after five minutes of forking or as soon as that instance forks, whichever comes first. The new instance begins with reputation equal to the cost of forking, though transferring reputation within a clade is possible. Several other things such as information production and exchange, sim creation, and some experiences can lead to reputation exchange.
 
 The *root instance* of an individual will find it very difficult to quit as, to quote May Then My Name Die With Me of the Ode clade, "the System is not built for death". This applies to their *up-tree* instances as well; it is easier to quit the shorter one has been around or if a newer up-tree instance exists (for instance, if Jace Doe#Tracker forks into Jace Doe#1234abc, #Tracker may quit easily right away, though it will get steadily more difficult as #1234abc individuates; similarly, if #1234abc forks into Jace Doe#5678def and #5678def individuates long enough, #1234abc will find it difficult to quit).
@@ -111,6 +116,11 @@ While there is no uploading of pets or other animals, many common animals can be
 #### Conflict
 
 As with any social system, conflict happens. People don't like each other. They argue, they fight, and sometimes they seek to damage each other. As mentioned, however, the System will not allow one to be killed. While it is possible to hurt someone on the System through violence, after a certain point, the System will simply render them unconscious. As with most other dramatic changes to oneself, damage can be fixed by forking. Should one lose a finger, one can fork back to the body one remembers---finger included. Should one be unconscious, a System engineer can instruct the System to force an individual to fork, whereupon they'll wind up in what their mind considers to be a default state for themselves.
+
+<figure style="text-align: center;">
+<img src="/img/conflict.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8;">“Fucking stop! You cannot–”</figcaption>
+</figure>
 
 The one exception to being killed on the System is through a subtle virus which will crash one's instance. This virus must be tailored to the individual it's meant for and is not trivial to produce, so instances of such death are rare. It's most commonly associated with symbolic objects such as syringes or knives rather than poison; as always, having the symbol be recognized as one that can cause damage is often part of the process.
 
