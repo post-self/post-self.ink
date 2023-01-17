@@ -109,13 +109,52 @@ Forked from Codrin in order to continue along on [Artemis's journey](https://nev
 
 ### Aurel Bălan
 
-An occasional instance inspired by Debarre's habit of keeping a fork for his relationship with End Waking, which tends to last only a few months at a time before the skunk asks for solitude, Ioan forks Aurel (/'a:u rel/) when <span class="spoiler">Sasha</span><i class="spoiler-warn"></i> is up for a relationship. She'll occasionally use the pet names Aurică (/ˈa:u ri ˌka/) when ey's in a more feminine mode and Aurica (/ˈa:u ri ˌkə/) when ey's in a more masculine mode.
+An occasional instance inspired by Debarre's habit of keeping a fork for his relationship with End Waking, which tends to last only a few months at a time before the skunk asks for solitude, Ioan forks Aurel (/'a:u rel/) when <span class="spoiler">Sasha</span><i class="spoiler-warn"></i> is up for a relationship. She'll occasionally use the pet names Aurica (/ˈa:u ri ˌka/) when ey's in a more feminine mode and Aurică (/ˈa:u ri ˌkə/) when ey's in a more masculine mode.
 
-## Douglas Hadje (he/him)
+## The Marsh clade
+
+
+### Marsh (he/him)
+
+Having gotten sick of the process of transition and uploading in the early 2220s, Marsh Hanson quickly settled in on the system, forking three times over and largely living vicariously through his forks while he focused primarily on singing and enjoying the laid-back life with his partners. In a relationship with Vos and Pierre LaFontaine.
+
+### Reed (he/him)
+
+*Coming soon!* In a relationship with Hanne Marie.
+
+### Lily (she/her)
+
+*Coming soon!*
+
+### Cress (they/them)
+
+*Coming soon!* In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Tule.
+
+### Rush (ve/ver)
+
+*Coming soon!*
+
+### Tule (she/her)
+
+*Coming soon!* In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Cress.
+
+### Sedge (he/him)
+
+*Coming soon!*
+
+## Relationships
+
+The relationships between the Ode clade, the Bălan clade, and the Marsh clade are quite complex, so please enjoy this visualization:
+
+<iframe src="http://polycul.es/embed/6981a56814751e7facd73477dbdaffe0ed69c6fc" width="980" height="520" style="border:0;"></iframe>
+
+## Additional characters
+
+### Douglas Hadje (he/him)
 
 Douglas Hadje-Simon is Michelle Hadje's ancestor and the phys-side launch coordinator for the launch project.
 
-## Jonas Anderson (he/him)
+### Jonas Anderson (he/him)
 
 Jonas Anderson was another member of the Council of Eight and worked to guide the System throughout the years. Described as lanky, 'well-preserved forties', tousled blond hair, the consummate politician.
 
@@ -124,7 +163,7 @@ Jonas Anderson was another member of the Council of Eight and worked to guide th
 <figcaption style="font-size: 60%; opacity: 0.8">Slimy piece of shit, more like it.</figcaption>
 </figure>
 
-## Tycho Brahe (he/him)
+### Tycho Brahe (he/him)
 
 Born under a different name, Tycho chose the name of the Danish astronomer when he agreed to be interviewed by Codrin for the *History*. An anxious and often depressed individual, he works as an astronomer on the System, and was the first to make contact with the Artemisians.
 
@@ -133,7 +172,7 @@ Born under a different name, Tycho chose the name of the Danish astronomer when 
 <figcaption style="font-size: 60%; opacity: 0.8">What a nerd.</figcaption>
 </figure>
 
-## Yared Zerezghi (he/him)
+### Yared Zerezghi (he/him)
 
 A 'net addict and DDR (Direct Democracy Representative) junkie from Addis Ababa, Ethiopia, Yared was instrumental in the secession of the System from the rest of the governments on Earth. The events of Secession have left him incredibly anxious.
 
@@ -142,22 +181,22 @@ A 'net addict and DDR (Direct Democracy Representative) junkie from Addis Ababa,
 <figcaption style="font-size: 60%; opacity: 0.8">A bit of a wreck, actually.</figcaption>
 </figure>
 
-## Sarah Genet (she/her)
+### Sarah Genet (she/her)
 
 Sarah is a psychologist and one of the emissaries chosen to meet with the Artemisians. She later becomes a mentor for Codrin as ey works on moving towards psychology as a career. She's described as having short, gray hair and wearing business casual sorts of clothes.
 
-## Debarre (he/him)
+### Debarre (he/him)
 
 Having lost his boyfriend to suicide and the lingering effects of getting lost, Debarre uploaded along with Michelle Hadje. He's an anthropomorphic weasel with a penchant for dressing in all black. He's in an on-again-off-again relationship with End Waking, along with a few others in a form of parallel monogamy.
 
-## Zeke/Ezekiel (he/him)
+### Zeke/Ezekiel (he/him)
 
 Zeke (later known by his full name, Ezekiel), is an Israeli Jew who uploaded early on and worked to implement forking while on the Council of Eight. He's described as anything from a pile of dirty rags or rubbish, barely recognizable as human, to a homeless man.
 
-## user11824 (he/him)
+### user11824 (he/him)
 
 All anyone can really tell about user11824 is that he's male. He's described as being so utterly boring that one's eyes simply slide right off him. This fact, combined with his anonymous chosen name, make him quite interesting, much to his chagrin. He described himself prior to uploading as 'a nobody, but a Maori nobody'.
 
-## Zacharias (he/him)
+### Zacharias (he/him)
 
 A dapper and snarky red fox. In an on-again-off-again relationship with True Name. <span class="spoiler">He is a long, long diverged fork of May Then My Name.</span><i class="spoiler-warn"></i>
