@@ -12,10 +12,6 @@ A sound tech for the Soho Theatre Troupe, RJ Brewster was among the lost in the 
 
 <span class="spoiler">Ey was instrumental in the creation of the System, being the first semi-successful upload; while ey did not wind up living to see the System, eir consciousness formed the foundation of the System itself, described early on as a half-sensed presence within the System. Eir friend Sasha, so torn by eir loss and confronted by eir sensed presence after uploading, used eir poem Ode to the End of Death for the names of her forks. Early political circumstances required that her relationship with em be kept secret, leading to a near pathological obsession with keeping eir Name from being known.</span><i class="spoiler-warn"></i>
 
-## Dr. Carter Ramirez (she/her)
-
-Dr. Carter Ramirez was a neuroscientist and researching of the lost at the University College London during their brief existence. She went on to become a political proponent of individual rights of uploaded personalities; however, she did not upload, herself.
-
 ## Michelle Hadje<span class="spoiler"> / Sasha (she/her)</span><i class="spoiler-warn"></i>
 
 Michelle Hadje uploaded early on during the System's creation and is considered one of the founders and a member of the Council of Eight along with Debarre, Zeke/Ezekiel, Jonas Anderson, user11824, and the three nameless Sino-Russian Bloc representatives. She is best known for being the founder of the <span class="spoiler">Ode clade</span><i class="spoiler-warn"></i>, and is no longer extant on the System as of 2306. Raised "vaguely Jewish," various members of the <span class="spoiler">Ode clade</span><i class="spoiler-warn"></i> moved back towards this or further away to varying extents.
@@ -146,9 +142,13 @@ Having gotten sick of the process of transition and uploading in the early 2220s
 
 The relationships between the Ode clade, the Bălan clade, and the Marsh clade are quite complex, so please enjoy this visualization:
 
-<iframe src="http://polycul.es/embed/6981a56814751e7facd73477dbdaffe0ed69c6fc" width="980" height="520" style="border:0;"></iframe>
+<iframe src="https://polycul.es/embed/6981a56814751e7facd73477dbdaffe0ed69c6fc" width="980" height="520" style="border:0;"></iframe>
 
 ## Additional characters
+
+### Dr. Carter Ramirez (she/her)
+
+Dr. Carter Ramirez was a neuroscientist and researching of the lost at the University College London during their brief existence. She went on to become a political proponent of individual rights of uploaded personalities; however, she did not upload, herself.
 
 ### Douglas Hadje (he/him)
 
