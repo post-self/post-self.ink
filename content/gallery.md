@@ -5,7 +5,9 @@ type: page
 
 
 <style>
-img {
+figure, img {
+    text-align: center;
+    font-size: 50%;
     display: inline-block;
     max-height: 200px;
 }
@@ -38,40 +40,106 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 
 ## *Qoheleth and Gallery Exhibition*
 
-[![Art by Iris Jay](/img/gallery/qoheleth-front.png)](/img/gallery/qoheleth-front.png)
-[![Art by Cadmium Tea](/img/gallery/awdae-1.png)](/img/gallery/awdae-1.png)
-[![Art by Cadmium Tea](/img/gallery/awdae-2.png)](/img/gallery/awdae-2.png)
-[![Art by johnny d.](/img/gallery/dear.png)](/img/gallery/dear.png)
-[![Art by Iris Jay](/img/gallery/qoheleth-back.png)](/img/gallery/qoheleth-back.png)
+<figure>
+    <a href="/img/gallery/qoheleth-front.png"><img src="/img/gallery/qoheleth-front.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/awdae-1.png"><img src="/img/gallery/awdae-1.png" alt="Art by Cadmium Tea"/></a>
+    <figcaption>Art by Cadmium Tea</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/awdae-2.png"><img src="/img/gallery/awdae-2.png" alt="Art by Cadmium Tea"/></a>
+    <figcaption>Art by Cadmium Tea</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/dear.png"><img src="/img/gallery/dear.png" alt="Art by johnny d."/></a>
+    <figcaption>Art by johnny d.</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/qoheleth-back.png"><img src="/img/gallery/qoheleth-back.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
 
 ## *Toledot*
 
-[![Art by Iris Jay](/img/gallery/toledot-front.png)](/img/gallery/toledot-front.png)
-[![Art by Kris Weaver](/img/gallery/shove.png)](/img/gallery/shove.png)
-[![Art by JAIYANDT](/img/gallery/cairns.png)](/img/gallery/cairns.png)
-[![Art by Kris Weaver](/img/gallery/dandelions.png)](/img/gallery/dandelions.png)
-[![Art by Iris Jay](/img/gallery/toledot-back.png)](/img/gallery/toledot-back.png)
+<figure>
+    <a href="/img/gallery/toledot-front.png"><img src="/img/gallery/toledot-front.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/shove.png"><img src="/img/gallery/shove.png" alt="Art by Kris Weaver"/></a>
+    <figcaption>Art by Kris Weaver</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/cairns.png"><img src="/img/gallery/cairns.png" alt="Art by JAIYANDT"/></a>
+    <figcaption>Art by JAIYANDT</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/dandelions.png"><img src="/img/gallery/dandelions.png" alt="Art by Kris Weaver"/></a>
+    <figcaption>Art by Kris Weaver</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/toledot-back.png"><img src="/img/gallery/toledot-back.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
 
 ## *Nevi'im*
 
-[![Art by Iris Jay](/img/gallery/neviim-front.png)](/img/gallery/neviim-front.png)
-[![Art by johnny d.](/img/gallery/awnh.png)](/img/gallery/awnh.png)
-[![Art by JAIYANDT](/img/gallery/stolon.png)](/img/gallery/stolon.png)
-[![Art by Iris Jay](/img/gallery/neviim-back.png)](/img/gallery/neviim-back.png)
+<figure>
+    <a href="/img/gallery/neviim-front.png"><img src="/img/gallery/neviim-front.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/awnh.png"><img src="/img/gallery/awnh.png" alt="Art by johnny d."/></a>
+    <figcaption>Art by johnny d.</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/stolon.png"><img src="/img/gallery/stolon.png" alt="Art by JAIYANDT"/></a>
+    <figcaption>Art by JAIYANDT</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/neviim-back.png"><img src="/img/gallery/neviim-back.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
 
 ## *Mitzvot and Selected Letters*
 
-[![Art by Iris Jay](/img/gallery/mitzvot-front.png)](/img/gallery/mitzvot-front.png)
-[![Art by Iris Jay](/img/gallery/monologue.png)](/img/gallery/monologue.png)
-<a class="merge" href="/img/gallery/merge.png"><img alt="Art by Iris Jay" src="/img/gallery/merge.png" /><span>Spoiler</span></a>
-[![Art by Iris Jay](/img/gallery/mitzvot-back.png)](/img/gallery/mitzvot-back.png)
+<figure>
+    <a href="/img/gallery/mitzvot-front.png"><img src="/img/gallery/mitzvot-front.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/monologue.png"><img src="/img/gallery/monologue.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a class="merge" href="/img/gallery/merge.png"><img alt="Art by Iris Jay" src="/img/gallery/merge.png" /><span>Spoiler</span></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/mitzvot-back.png"><img src="/img/gallery/mitzvot-back.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
 
 ## Additional art
 
-[![Art by Iris Jay](/img/gallery/dear-ref.png)](/img/gallery/dear-ref.png)
-[![Art by JAIYANDT](/img/gallery/writerskunk.png)](/img/gallery/writerskunk.png)
-[![Art by JAIYANDT](/img/gallery/ref-3.png)](/img/gallery/ref-3.png)
-<a class="merge" href="/img/gallery/ref.png"><img alt="Art by JAIYANDT" src="/img/gallery/ref.png" /><span>Artistic<br>nudity</span></a>
+<figure>
+    <a href="/img/gallery/dear-ref.png"><img src="/img/gallery/dear-ref.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/writerskunk.png"><img src="/img/gallery/writerskunk.png" alt="Art by JAIYANDT"/></a>
+    <figcaption>Art by JAIYANDT</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/ref-3.png"><img src="/img/gallery/ref-3.png" alt="Art by JAIYANDT"/></a>
+    <figcaption>Art by JAIYANDT</figcaption>
+</figure>
+<figure>
+    <a class="merge" href="/img/gallery/ref.png"><img alt="Art by JAIYANDT" src="/img/gallery/ref.png" /><span>Artistic<br>nudity</span></a>
+    <figcaption>Art by JAIYANDT</figcaption>
+</figure>
         
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
