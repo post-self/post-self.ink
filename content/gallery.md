@@ -71,7 +71,7 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 [![Art by Iris Jay](/img/gallery/dear-ref.png)](/img/gallery/dear-ref.png)
 [![Art by JAIYANDT](/img/gallery/writerskunk.png)](/img/gallery/writerskunk.png)
 [![Art by JAIYANDT](/img/gallery/ref-3.png)](/img/gallery/ref-3.png)
-<a class="merge" href="/img/gallery/merge.png"><img alt="Art by JAIYANDT" src="/img/gallery/ref.png" /><span>Artistic<br>nudity</span></a>
+<a class="merge" href="/img/gallery/ref.png"><img alt="Art by JAIYANDT" src="/img/gallery/ref.png" /><span>Artistic<br>nudity</span></a>
         
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
