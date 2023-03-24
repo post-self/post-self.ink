@@ -58,7 +58,7 @@ A tabletop role-playing game powered by The Apocalypse, an extra funded by the *
 
 ### Extra Stories
 
-*Coming soon!*
+* [How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) (Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022)
 
 ### The Post-Anthropocene
 

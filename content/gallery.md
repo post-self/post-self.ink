@@ -140,6 +140,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a class="merge" href="/img/gallery/ref.png"><img alt="Art by JAIYANDT" src="/img/gallery/ref.png" /><span>Artistic<br>nudity</span></a>
     <figcaption>Art by JAIYANDT</figcaption>
 </figure>
+<figure>
+    <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/full-of-skunks.png"/></a>
+    <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
+</figure>
         
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
