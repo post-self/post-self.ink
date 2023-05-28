@@ -65,5 +65,8 @@ title: Questions and Answers
 "What happens to a user in the System who does repeatedly taboo things & actions that would normally result in someone offline being imprisoned?"
 :   Nothing, but with a big asterisk. There's no way to punish them. There's no authorities to do anything about it, and even if there were, ACLs can keep people out of a place, bit not inside of a place. The asterisk is that there's all the information you could want, so one of two things tends to happen: you get ostracized because your name is all over the news feeds, so you get locked out of all the big public sims, people stop talking to you, and your name becomes mud; or someone hires someone to assassinate you. This is why the governing unit, such as is possible, is the public sim, because if the owners want to maintain a reputation and population, they have to stay on top of who they ostracize. People may live in private sims (though honestly, only a small portion do, choosing either to live in cities or small communities, as Debarre does), but spend most of their time in larger public ones, where people pool reputation to build a place by e.g: hiring sim designers or building from stuff off the market.
 
+"Does the family get the ashes. Or rather, can they?"
+:   Yes, after all organ donations are made.
+
 Should you have any questions about the setting or characters, you may contact me at [madison@scott-clary.clade.id](mailto:mscottclary@clade.id).
 

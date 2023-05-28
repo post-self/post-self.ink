@@ -40,7 +40,7 @@
 
 ## About
 
-The Post-Self universe is an open setting for exploring the ramifications of being able to create copies of oneself, of what it means to undergo individuation, of what it means to let memories build up and up and up within oneself. All of the information on working with the universe is contained within this appendex, an extra funded by the *Mitzvot* Kickstarter backers.
+The Post-Self universe is an open setting for exploring the ramifications of being able to create copies of oneself, of what it means to undergo individuation, of what it means to let memories build up and up and up within oneself. All of the information on working with the universe is contained within this appendix, an extra funded by the *Mitzvot* Kickstarter backers.
 
 * [Timeline](/about/timeline)
 * [Dramatic Personae](/about/characters)
