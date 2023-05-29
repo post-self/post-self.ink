@@ -45,6 +45,7 @@ The Post-Self universe is an open setting for exploring the ramifications of bei
 * [Timeline](/about/timeline)
 * [Dramatic Personae](/about/characters)
 * [The Universe](/about/universe)
+* [Glossary](/about/glossary)
 * [Questions and Answers](/about/questions)
 
 As an open setting, everything is free to use for your own purposes under a Creative-Commons 4.0 Attribution license. These stories wouldn't be what they are without the contributions of others.
