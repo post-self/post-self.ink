@@ -16,3 +16,8 @@ disablePathToLower = true
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[[headers]]
+    for = "/*"
+    [headers.values]
+        X-Clacks-Overhead = 'RJ Brewster'
