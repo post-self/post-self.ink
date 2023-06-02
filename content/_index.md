@@ -49,15 +49,16 @@ The Post-Self universe is an open setting for exploring the ramifications of bei
 * [Questions and Answers](/about/questions)
 
 As an open setting, everything is free to use for your own purposes under a Creative-Commons 4.0 Attribution license. These stories wouldn't be what they are without the contributions of others.
-## Extras
 
-### The Post-Self TTRPG
+## The Post-Self TTRPG
 
 [![The book cover](/img/ttrpg.png)](/extras/ttrpg)
 
 A tabletop role-playing game powered by The Apocalypse, an extra funded by the *Mitzvot* Kickstarter backers.
 
 *Coming soon!*
+
+## Extras
 
 ### Extra Stories
 

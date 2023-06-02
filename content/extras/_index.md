@@ -3,14 +3,6 @@ title: Extras
 layout: single
 ---
 
-## The Post-Self TTRPG
-
-[![The book cover](/img/ttrpg.png)](/extras/ttrpg)
-
-A tabletop role-playing game powered by The Apocalypse, an extra funded by the *Mitzvot* Kickstarter backers.
-
-*Coming soon!*
-
 ## Extra Stories
 
 * [Assignment](assignment): Ioan Bălan — 2273
