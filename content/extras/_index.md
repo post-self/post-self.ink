@@ -9,9 +9,9 @@ layout: single
 * ["Meeting of One"](meeting-of-one): Ioan Bălan — 2309
 * ["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) (Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022)
 
-## Playlists
+## Soundtracks
 
-Each book within the Post-Self Cycle, as well as many of the other stories in the setting, was written with a playlist running on repeat — at least for the most part. While these are hardly required to enjoy the books, they're offered as a curiosity.
+Each book within the Post-Self Cycle, as well as many of the other stories in the setting, was written with a song or playlist running on repeat — at least for the most part. Just a little something that helped the author set the mood. While these are hardly required to enjoy the writing, they're offered as a curiosity.
 
 * [*Qoheleth and Gallery Exhibition*](https://open.spotify.com/playlist/5zRXvPUVxSuGjpzVu4N2Qw?si=8e5bdf5d974a4487) (Spotify)
 * [*Toledot*](https://open.spotify.com/playlist/0irVoAkYEVR7LBrI9M1q5Z?si=1525f4d1b2c24195) (Spotify)
