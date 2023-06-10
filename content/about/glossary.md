@@ -2,11 +2,17 @@
 title: Glossary
 ---
 
+ACL
+:   Originally short for "Access Control List", ACLs describe fine-grained permissions to access or use sims or the like. For instance, ACLs can be set such that only certain people may enter a sim, or to ensure that a cone of silence blocks sensorium messages
+
 Apygmaliophobia
-:  The fear of uploading (literally, the fear of becoming an artificial copy of yourself). Coined in the late 2130s as the cost of uploading began to drop. Also occasionally used in relation to taskers who fear individuation.
+:   The fear of uploading (literally, the fear of becoming an artificial copy of yourself). Coined in the late 2130s as the cost of uploading began to drop. Also occasionally used in relation to taskers who fear individuation.
 
 Artemis
 :   An extrasolar probe bearing four races of uploaded consciousnesses. Discovered in 2346 by Tycho Brahe
+
+AVEC
+:   Introduced in 2350, Audio/Visual Extrasystem Communication is the means by which those on the System may communicate with Earth via audio and visual transmission, rather than just text, something which was gently discouraged over the previous years to maintain a sense of mystique around sys-side. While Castor and Pollux also have this ability in theory, the bandwidth limitations of the Deep Space Network made it such that only still images can be sent.
 
 Clade
 :   A collection of individuals all descended from the same uploaded consciousness through the process of forking. Clades are named after the root instance (e.g: the Bălan clade), but they can also choose their own name (e.g: the Ode clade).
@@ -44,6 +50,9 @@ Launch Vehicle
 Merging
 :   The process of incorporating the memories (and thus personality changes formed by new memories) of an up-tree instance after they quit.
 
+Perisystem architecture
+:   The infrastructure of data and tools for working within the System that serve as the foundation of life. The perisystem architecture contains the reputation market and clade listing, allows one to store information, retrieve data from libraries, control forking and ACLs, and much more.
+
 Phys-side/sys-side
 :   Phys-side (rhymes with 'fissile') refers to the physical world outside of the System, while sys-side refers to everything on the System.
 
@@ -55,6 +64,12 @@ Reputation/reputation market/the exchange
 
 Root instance
 :   The root instance is the original uploaded consciousness, the progenitor of the clade from which all other instances are forked.
+
+Signifier
+:   The full name of an instance, including the first eight hexadecimal digits of the unique tag that identifies it as distinct from other individuals in the clade (our out of it) with the same name (e.g: Ioan Bălan#5f39bccd7). This full signifier of an instance, along with all the clade information is available to anyone to check via the perisystem architecture, which makes truly impersonating someone else impossible.
+
+Sim
+:   Refers to locations owned by an individual or set of individuals, whether it's as small as a single room or as large as a city. Hold-over language from the virtual reality aspects of the 'net, where rooms or worlds were called 'sims'.
 
 System
 :   Used to describe both the hardware to which consciousnesses are uploaded as well as the world that exists inside that hardware. Originally chosen as a vague name to prevent leaks while the project was still secret, it stuck through the centuries until a few years after the launch project, when each of the three Systems began to be called by specific names: Castor and Pollux for the launch vehicles and Lagrange for the System remaining near Earth.
