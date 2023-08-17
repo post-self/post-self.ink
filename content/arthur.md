@@ -11,8 +11,9 @@ Of these personalities, we find ourselves with countless stories, and among thos
 * 2,000--10,000 words
 * Must be set in the Post-Self universe after 2325
 * Must follow one of the Arthurian legends from the Matter of Britain, *The Once and Future King*, and so on
-* This is an *aggressively* queer setting. While your story/characters don't need to be, any sentiment that goes against that will not be tolerated.
-* Rather than submitting a story, you will apply to take part in the collaboration.
+* This is an *aggressively* queer setting. While your story/characters don't need to be, any sentiment that goes against that will not be tolerated
+* While this is not a furry setting, furries — that is, members of the furry subculture who present as anthropomorphic animals sys-side — are more than welcome
+* Rather than submitting a story, you will apply to take part in the collaboration
 
 ### Arthurian legends
 
