@@ -21,6 +21,7 @@
                 <li>Given the ability to create a full copy of yourself—down to every single one of those memories—to do as they will, to individuate and live out their own forever lives, or merge back down and meld their memories with your own, what paths do you take?</li>
             </ul>
         </div>
+        <p>The Post-Self universe is an open setting for exploring the ramifications of being able to create copies of oneself, of what it means to undergo individuation, of what it means to let memories build up and up and up within oneself. With four novels, two novellas, and an anthology of short stories, there's story to explore spanning nearly three centuries of history.</p>
         <!--
         Alternately: "If I had a nickel for every time I accidentally wrote something with heavy plural undertones that I hadn't intended but nonetheless made me doubt my identity, I'd have two nickels! Which isn't a lot, but it is weird that it happened twice."
         -->
