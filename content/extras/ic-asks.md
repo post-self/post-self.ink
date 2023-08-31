@@ -981,7 +981,7 @@ I sent him the second stanza, and this was his reply:
 >
 > I am en-fennecing at an alarming rate
 
-<details><summary>Dear, Also, The Tree That Was Felled:
+<details><summary>Dear, Also, The Tree That Was Felled:</summary>
 
 *Then truly you are blessed, are you not? Consider the wonder of the ears!*
 </details>
