@@ -364,6 +364,42 @@ My name is To Deny The End Is To Deny All Beginnings, and I am so very, *very* t
 Now if you'll excuse me, I have another date with a badger.
 </details>
 
+-----
+
+> Motes:
+> When do you think you began to take on this identity of the littlest sister? What inspired you to choose this role? How has it affected your relationships with others? How do you feel about all of it?
+
+<details><summary>And We Are The Motes In the Stage-Lights</summary>
+
+We were all of us, all of the fifth stanza, forked in systime 3, back when A Finger Pointing began to branch out. We began, as a matter of course, all but identical to her, both in looks and in temperament. However, we shortly began to diverge as we went our own way. Voces Sensuum became a thing. We took our jobs, and my job was as a stage tech, so I was the one building the sets, painting everything, minding the curtains, all of that sort of stuff. 
+
+It was actually while doing all of that painting that I started to think about what it was about me that differentiated me from my immediate cocladists. This was...I do not know, perhaps five years down the line? Something like that. By then, we had all started to go each in our own direction, taking those little specks of her that we had been granted after being forked and turning them into something uniquely ours. 
+
+I was painting and thinking about what was different about me that made me so unlike That It Might Give, our director, when I realized that I had sat down in a patch of wet paint. I had taken to wearing overalls at the time, because having all of those tools at hand, all of the little screwdrivers and paintbrushes and picks in my chest pockets while pliers and hammers lived at my waist. Something about wearing those paint-spattered overalls dredged up a memory from decades prior, and I could not but laugh about it. 
+
+I do not know why the image stuck with me. What was I supposed to do with such a thing? It was of when I was in kindergarten, a rolly-polly Michelle Hadje, somewhere in the central corridor, wearing her silly corduroy overalls and finger painting at her little table, getting tsked at by Miss Willard for sitting in a splotch of red paint. "Oooh, your mother will be upset," she kept saying. 
+
+It was just so silly! I was a kid, of course I was going to get messy.
+
+And now here I was, 46 years old, lingering on a memory from nearly four decades prior and thinking back on that very silliness. 
+
+There are certainly some 'life was simpler' feelings about it. Life *was* simpler, was it not? No getting lost, no uploaded consciousnesses, no fretting about love and all the woes that hit us surrounding that phys-side. I suppose I wound up just leaning hard into that memory. I opted out of love. I started to own the playfulness of my attire. I started to own *playfulness,* period! It is so easy to forget the role that play plays in our lives, with our carefully delineated fun times that we must squeeze in around work and sleep and all sorts of obligations. Life is play, and that became my whole *thing* over time. 
+
+I found that that led to a change in the way my cocladists and friends treated me. They started ruffling my hair, trying to get me excited, playing around with me in the auditorium, all the good things that we do with kids and none of the bad things; after all, if they needed serious-Motes, they could always take a step back and talk with me like the 46 year old woman I was, right? I liked all of that. 
+
+At one point, I started to age down my appearance bit by bit as another way to lean into that. This came with a few side effects. Chief among them was the way that I was approached by strangers. Even from its earliest days, after a particularly disastrous experiment, a minimum age of 18 years was imposed on uploading. When I started to occasionally look younger than that, I was viewed with confusion, wariness, or even anger. 
+
+I was at one point pulled aside by A Finger Pointing and given a gentle suggestion (one I suspect may have been passed on from another stanza) to be careful about this particular experiment of mine. I can very much see why, of course. There are plenty and sufficient reasons that someone looking young in a world with a lower bound on age would be viewed with disdain, and I would not always have the chance to explain myself.
+
+Besides, how could I possibly explain via just my appearance that I was reclaiming a childhood that I had not actually lived? There is the childhood I had actually had, yes, and it was perfectly average, but here I was provided a chance to choose the aspects of childhood that I liked and discard all of the bad stuff. I could discard the emotional lability that led to tantrums (do not get me wrong, I still get them, and ma would kick my butt if I did not admit that here). I could leave behind the inability to understand simple social connections. I could claim that playfulness while keeping that hard-won intelligence. 
+
+In the end, I veered away from that particular exploration as not worth the social cost, though I do still look younger than most of my cocladists (except perhaps Warmth In Fire  we are two peas in a pod): a comfortable 20 instead of their early 30s.
+
+I like who I have become. I am a being focused on play, on existing comfortably in a role that I have carved out for myself. I am the babiest Odist largely because of this, yes, despite being...oh, what year even is it? I am three centuries old, and I am still the little kid in my stanza. I get called 'Dot', 'Mote', 'Speck', or 'Kiddo' (or, when I am in skunk form, 'Skunklet'). My stanza are my sisters. A Finger Pointing is the eldest, the one who loves and protects us all. (I call her 'ma' sometimes just to be a little snot, of course, but what is being the youngest sister without a bit of indulging in brattiness?)
+
+All of this feels good to me. It is an affirmation that I am still doing what is both good *for* me, and what is perhaps out of reach for so many others within the clade. What started as a memory of paint on trousers led to not just an identity, but an entire way of being.
+</details>
+
 ## On Sims
 
 > E.W.: Would you tell us a story about the wilderness?
