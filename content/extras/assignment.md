@@ -8,7 +8,7 @@ The sensation of an instance merging state back with em would never *not* make I
 
 Or perhaps hanging with a sib, fresh home from a semester abroad.
 
-Ioan#tracker had never been abroad, had no siblings. Just new memories.
+Ioan#tracker had never been abroad, had only ever lived with eir brother. Just new memories.
 
 And yet there was the merge request, waiting. Ey set aside eir work --- a simple bit of nothing for a news organization that really didn't matter but nonetheless offered some reputation --- and sat back to deal with the squirming, greasy feeling of the merger.
 
