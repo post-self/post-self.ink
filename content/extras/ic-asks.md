@@ -17,6 +17,10 @@ On cohost, readers are encouraged to [submit questions](https://cohost.org/post-
 
 *Last update: August 30, 2023*
 
+-----
+
+<p style="text-align: center">Expect spoilers ahead for all Post-Self books.</p>
+
 ## On Identity
 
 > You mentioned on the server how Michelle "had her own gender-play" in the form of a breast reduction. What does this tell us about her particular gender experience phys-side? How does it relate to her orientation or her string of unsuccessful relationships? How are these things reflected or subverted in the Odists?
