@@ -466,6 +466,41 @@ Sims are the locations in which we live. I happen to be a sim designer, with a s
 *([@makyo](https://cohost.org/makyo))*
 </details>
 
+-----
+
+> Serene:  
+> Tell me about the desert, if you would. Tell me about sand, wind, and sagebrush.
+
+<details><summary>Serene; Sustained And Sustaining#Castor</summary>
+
+I have made two deserts of note, and I am quite proud of them both.
+
+I will start with the second desert. It was the barrier between Castor and Convergence. While the goal was to provide a naturalistic entrance to a space that, in actuality, required a rather slow transit time. One would approach any number of crossing points, each marked with a customs office, that would allow one to pass through a pedestrian gate and be whisked off to the other space in a rush of heat and warmth. It is a bit of magical realism, perhaps, but the desert is no less real. 
+
+It is too hot in there, even for me, but it is quite pure for that. The sands shift in the wind, form the hint of a crust that a paw might crunch through, slip and slide along the faces of dunes before tumbling down the leeward side. Very few people think to go in there, but I have. I have turned down my sensorium and bypassed the safety protocols and stepped out into the sand for days and days at a time.
+
+It is an empty place. There is no end to the sand. There is nothing out there, I think. Perhaps it will someday resolve based upon a hidden desire, but for now, it is a procedurally generated forever.
+
+It is beautiful.
+
+The first desert that I built, however, is one that I am even more proud of. This was a century and change ago back on Lagrange, back before the launches were even a dream. I built a desert based on what I remember of a brief trip to the Sonora desert. This was a desert of sage, of cactus, of more rock and stone than sand.
+
+This one is not a forever, it is an in-between. There are two city sims, each created by a friend, and they decided to merge. They did so by building an arch facing each other, and in between them, they contracted me to build my high desert. A dusty, well-worn set of tire tracks travels between them, and, while I am sure that most simply step from city to city while ignoring the desert, it has become something of a pilgrimage for many to walk that trail.
+
+It is not wholly safe, mind. The cactus spines are sharp. There are javalinas and snakes and scorpions. There are washes that will flood in a heartbeat with little to no warning if there is rain up-slope. Mild thrills, to be sure, but thrills nonetheless.
+
+What very few people do, however, is walk out to the mid-point between those two cities and turn in one direction or the other and walk perpendicular to the trail. The trail is a simple three to four hour hike, but there is an additional two days hike to either end until one comes to either an impassible canyon or a tall fence built of metal posts; the boundaries of the sim itself.
+
+If you do that, you will find that you very quickly lose sight of the cities, and are left with the sounds of the wind or the coyotes or the rattle-crack of thunder, joined only by the saguaro and barrel cactus and prickly pears, the scent of sage burning in the back of your nostrils as the heat beats down on you.
+
+I love all of the sims that I have built, and always promise myself (and my clients) that no environment is to be favored over another. I am a liar, though. This desert, this high desert, is my favorite among favorites.
+
+It is a small lie, a harmless one, but the desert is my favorite.
+
+*([@makyo](https://cohost.org/makyo))*
+</details>
+
+
 ## On Hobbies, Pastimes, and Focuses
 
 > A Finger Pointing: Tell me about the weirdest show you have ever put on. Not bad, just weird.
