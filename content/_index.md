@@ -26,7 +26,7 @@
         Alternately: "If I had a nickel for every time I accidentally wrote something with heavy plural undertones that I hadn't intended but nonetheless made me doubt my identity, I'd have two nickels! Which isn't a lot, but it is weird that it happened twice."
         -->
         <h2 id="home">Updates</h2>
-        <iframe style="width: 100%; height: 75vh" src="https://cohost.org/post-self"></iframe>
+        <div id="feed"></div>
     </section>
     <section class="carousel-item cycle">
         <h2 id="cycle">The Post-Self Cycle</h2>
@@ -72,4 +72,5 @@
         <p>As an open setting, everything is free to use for your own purposes under a Creative-Commons 4.0 Attribution license. These stories wouldn&rsquo;t be what they are without the contributions of others.</p>
     </section>
     <script src="/carousel.js"></script>
+    <script src="/rss.js"></script>
 
