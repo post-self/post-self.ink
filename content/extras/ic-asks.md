@@ -402,6 +402,25 @@ All of this feels good to me. It is an affirmation that I am still doing what is
 
 ## On Sims
 
+> To those Odists so inclined: What is the best worst bar or restaurant you have ever been to? Not best, not worst. Best worst. Can you tell me about something particularly memorable off the menu?
+
+<details><summary>To Deny The End Is To Deny All Beginnings:</summary>
+
+Oh, man. Oh, *man*. Have I got one for you, I have been really into punk and metal lately, and I stumbled into a hole in the wall. It is called the mohawk, and it is a *mess.* The outside of the place is dirty, the street is half finished, and the inside is even worse. It is barely 20 feet wide if that, bar is cramped, the stage is too small, the food is terrible, the bathrooms are miserable for everyone, whether you want to use it for a hookup or bothered to keep biological functions like that in the System, and the acoustics of it are *atrocious*. It is so bad.
+
+You will see the best show of your life there. You will have a conversation that changes your entire outlook on something. You will make out with someone in a drizzling rain out front, and find yourself marrying them 30 years on. It is the kind of place that everyone eventually ends up at when you run out of suggestions, and it is, do not mistake me for a moment, a shitty place with shitty drinks and usually pretty shitty music, be that the sound tech’s fault or the musicians. But it is also where one drink or one wave of the hand or one snippet of conversation overheard becomes the moon that pulls on the tides of fate. If the rumors are to be believed, that is all *by design*. It is wonderful. It sucks. I love it so much.
+
+The most memorable thing on the menu is the Poutine, a traditional dish from the northern parts of the Western Federation, made from gravy, french fries, and cheese curds. I say it is the most memorable thing on the menu, because it is the only thing that is actually good. It stands out like a boulder in a field of shitty roses. As I understand it, it is a favorite of the owner of the sim, a strange Shamo Chicken by the name of Felicia King. Order the wings first, it is a tradition to be disappointed by them as your first food, then order the Poutine and complain about how the wings just are not as good, and it is a ripoff how much they cost. This will start a fight somewhere in the bar, and time-old rites will be honored.
+
+I am there at least once a week, and I will buy you the worst beer you have ever had phys-side or sys-side.
+
+Or a watered down soda. I get that not everyone drinks, even in the sim.
+
+*([@KDARC](https://cohost.org/KDARC))*
+</details>
+
+-----
+
 > E.W.: Would you tell us a story about the wilderness?
 
 <details><summary>E.W.</summary>
@@ -826,6 +845,35 @@ And you want a comb, not a brush. A brush with our coarser fur will risk causing
 I spent six months as an oak standing beside a river. My roots ran deep and I drank of fresh, cool water. My boughs reached high and I felt that striving for the sun. My wood was strong, my bark was thick, my heart was alive and green with sap.
 
 It was also incredibly fucking boring.
+
+*([@makyo](https://cohost.org/makyo))*
+</details>
+
+-----
+
+> General question for all odists: how far away has someone gotten from the clade? Who's the most distant fork? Who's distanced themselves the furthest from the calde? Does anyone that far out stay in touch?
+
+<details><summary>Sasha</summary>
+
+This is a difficult question to answer for a few reasons. First and foremost is that, halfway through the 2300s, the clade fractured in grand fashion. Whole stanzas cut off whole other stanzas, going full no-contact with them. Much of this is my fault, in a way, but I will get to that in a moment.
+
+Beyond that, however, for better or worse, some of what it mean to be an Odist began to fade decades earlier as many of them diverged beyond reconciliation. Take E.W. for instance: he all but left the clade in the late 2260s. He retained his clade identifier until 2350, when the change that I underwent led to him cutting even that tie, renaming himself from Do I Know God After The End Waking to E.W of no clade.
+
+This is a formality of sorts; he cannot change that he is True Name's up-tree instance, nor that I have taken in his memories to become who I am. That does not make it any less real, however. He was less than half an Odist, bound to them by their memories, and now he is even less than that, forsaking the name that tied him to the clade.
+
+And me? Am I more or less of an Odist because of what I have become? I am not True Name, May Then My Name, or E.W. I am all three of them. I am closest to becoming what our root instance was than any other Odist. I am the furthest from being her out of all of them. I am three Odists in one, and yet I left the clade, and in the process, the sixth and seventh stanzas cut me, all of the eighth stanza, Dear, and all of the Bălans from their lives.
+
+Are they Odists? If so, are they more or less Odist than the fifth stanza, with whom I most heavily associate these days?
+
+And yet, even then, this decision was made by Hammered Silver and In Dreams, not by the entirety of their stanzas. Many of their up-tree instances, despite saying that they agree with this decision, have kept in contact with their cocladists within the eighth stanza, and I know that many of them are quite fond of Dear and have attended its shows incognito. Dry Grass is a prime example of this: she has maintained her close friendship with Need An Answer in secret these past decades. She *resents* Hammered Silver for that decision, and the politics that require her to voice her support against her beliefs.
+
+What of the tenth stanza? They hardly talk to anyone. Often, they do not talk amongst themselves, even within their shared house.
+
+But perhaps they are the most Odist of all of them. If they struggle with that fractured identity that Michelle bore for so long, perhaps they stand as a synecdoche for the clade as a whole.
+
+In the end, though, I suspect that it may indeed be me.
+
+I love the Ode clade, even if I am no longer a part of it. I love it with a ferocity that is second only to my love of the System. I love who they are, what they stand for, what they remember. A Finger Pointing may show her equal love more openly than I do, and for that I am eternally grateful, but I do still love them. Even if I am not a part of them, cannot speak with many of them, have made myself *not* them, that love remains.
 
 *([@makyo](https://cohost.org/makyo))*
 </details>
