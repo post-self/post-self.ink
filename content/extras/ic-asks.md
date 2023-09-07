@@ -609,6 +609,25 @@ Perhaps the production could have been replicated phys-side, especially when con
 
 -----
 
+<details><summary>Among Those Who Create Are Those Who Forge</summary>
+
+When I was first forked, I started out poking around the System to find out what people were doing with art. After all, we were in a new place, yes? A place with so many new possibilities, yes? I got incredibly interested in finding ways that people were creating sims, impossible paint colors, new flavors in their cooking, all of that wonderful stuff. Forking was too expensive yet for instance artistry to have taken off, but I was not at all surprised when it did.
+
+This, however, did not last. The more I looked at art, the more I started to see all of the ways that our pain lingered. Not just the weeping of the broken-hearted or the joy of this new life, but the resentment towards the power structures that people had escaped, the fear over minority identities being uncovered, the remembrances of lives lost.
+
+This rather spoiled art for me for a while. I could not look at it without getting all wrapped up in overwhelming emotions. I stopped seeking out new artists lest I find new pains to endure, and I (and my three up-tree instances at the time) fell into a funk. We spent a lot of time drinking, a lot of time sleeping. We would walk sims with our heads down, looking only at our feet. We would take lovers and tell them nothing.
+
+I tried a few times to get back into the swing of things, but every time, it just made me depressed.
+
+What I eventually settled on was a change of focus. I took all of that pain that I had discovered and transferred *that* into action. We talked and talked and talked, and then we started to act. We became the pests of the Ode clade, the leftists that pushed for ever more change. We met up with Os Riãos, and End Of Days, Seek An End, and New Beginnings still work quite heavily with Boiling Maw and Hydra from that clade on climate activism (as a side note, I believe that is how Rainbow's End fell in briefly with *Voces Sensuum,* the fifth stanza's theatre company).
+
+We never did get back to art, unless it was the art of activism and change. There was no going back. We *could not* go back. We were no longer depressed, but we used our interest to renew our vigor along tangential lines.
+
+([@makyo](https://cohost.org/makyo))
+</details>
+
+-----
+
 > Who's the best in the clade at scrabble?
 
 <details><summary>Dear The Wheat And Rye Under The Stars</summary>
