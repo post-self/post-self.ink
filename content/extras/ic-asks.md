@@ -855,6 +855,82 @@ And you want a comb, not a brush. A brush with our coarser fur will risk causing
 *([@makyo](https://cohost.org/makyo))*
 </details>
 
+-----
+
+> To the Ode clade:
+>
+> Tell me about your favorite or least favorite flower... not including dandelions (sorry!).
+
+<details><summary>Beholden To The Heat Of The Lamps</summary>
+
+Nasturtiums. I cannot tell you why without being overcome with tears, so I will simply include the letter.
+
+<blockquote style="quotes: none; font-style: normal">
+Beholden To The Heat Of The Lamps,
+
+It has been seven days. One week, I promised myself. I would wait one week while I watched the System limp back to life. I would wait a week and see what all was being done, what *could* be done to save the lost.
+
+It has been seven days of increasing surety that those who have perished in this event are gone for good. And if they indeed are gone for good then that means my beloved is gone with them.
+
+Do you remember when we came into being? It was the night of that awful monologue, that little joke of a scene where I was set to read some truly embarrassing lines. "We all play our parts. Some are towel boys and some lewd doctors..." I could remember the rest, but I do not want to. That line sticking in my craw is enough. I was a skunk that night because I did not want my face associated with those words.
+
+It was awful. It was delightful.
+
+I declared that it was necessary for me to get a drink, that I needed to wash the taste of those words off of my tongue and replace my grimaces with giggles. We went to that cute bar with outdoor tables and fairy lights strung above. Strange drinks and edamame. You and Boss fell into earnest conversation about this and that as you so often do. There was love in your eyes as always, even back when such was too taboo to show in public. Another benefit of a skunk face: hide that love from nosy passers-by. Our human face always was too expressive.
+
+It is too expressive now. It is full of tears and grief. It is full of despair. I cannot muster the energy required to be angry. I cannot pull up a smile from nothing. She is gone and she is never coming back. Yes, she merged back down, but she last did so some months ago, back at the beginning of winter. Yes, A Finger Pointing could fork once more into A Finger Curled, but that would not be her. She would be missing our sweet nothings and earnest conversations from the last few months. She would have decades of time — is it more than two centuries already? — of her life with you, so many memories of the past to talk about of which I would have no idea about. She merged down, yes? And I never did.
+
+It is full of grief. It is full of despair.
+
+It was at that bar in the midst of our earnest discussion of taboos and friends. You assured me there was a shift in the air, that True Name, so staunch a name within the clade, cared little about our relationship, but that she still encouraged our secrecy so as not to rock the boat for all of us, thanks to Jonas, but that perhaps soon, soon we would be able to hold hands in public, give each other little kisses and let those outside our stanza bear witness to what started as self love and blossomed into romance.
+
+I acknowledge, of course, her relative aromancy, but for me it was romance, and for her it was still love.
+
+We talked of just how it was that she alternated between human and skunk every time she forked. An affectation, yes, but a fondness for the past that I always admired in her
+
+We talked of the past, of the open mic nights we hosted in The Crown Pub for a while, AwDae and I reciting monologues and dialogues. Erina's *awful* song. And then there were only three performing the next week, only one the week after that, and then the open mic nights stopped.
+
+We talked of the soreness of this, of our hidden domesticity, and she said, as though on a whim, "And here I am beginning to wonder if I have made the right path for myself. Maybe, with a little mindfulness, I can still correct my course. But I admit that I have been considering stepping away from the clade. Perhaps one of our stanza would take my place, fork a new Time Is A Finger Pointing At Itself." She said, "I would like to know that you would come with me if I did do. I have not felt so domestic with anyone but you."
+
+Of course I would! Of course I would. How could I not? How could I send her out in the world to live some quiet life away from administering to a troupe of actors and technicians, and leave her to do so alone? She would have her fun and her flings, but she would not have what she had had for dozens and dozens of years.
+
+So she forked into A Finger Curled and you forked into Beholden To The Music Of The Spheres.
+
+That was us. A Finger Curled and her lover. Beckoning and Beholden. A different version of each of you that lived their quiet life in a cottage. A week and a day ago, we snagged a middling bottle of champagne and set up lawn chairs in the garden. A week and a day ago, Debarre stopped by to drop off a firework — he only ever needed one to impress — so that we could have our own little show. We each gave him a hug and he told us small stories of nothing we cared about, of the fledgling attempt at a Lagrange Council.
+
+We never did get to see the firework. It sits still on the paving stone where Beckoning placed it, ready to light on a midnight that never came for her.
+
+After all, it was not a week and a day ago, was it? It was one year, one month, eighteen days ago. Subjectively so little time, objectively a year and change without her. Lagrange crashed — was bombed, I am hearing, a contraproprioceptive device that ramified through the perisystem architecture in waves of death — and we were all lost. We of the lost were now *twice* lost.
+
+Phys-side got the System up and limping a few times, I have heard, before it was at least up and stable enough.
+
+Stable enough!
+
+Stability was *us.* Stability was *our lives.* Stability was us in our quiet cottage. Stability was us heading to clubs and dancing until we wanted to pass out — until we did, on more than one occasion, slumped against each other and panting in some corner booth. Stability was the four of us — you and Boss, me and Beckoning — meeting up for dinner every few years and sharing our laughter.
+
+Stability was her garden. Stability was the years she grew *so much zucchini.* Stability was loaf after loaf of zucchini bread, meal after meal of zucchini noodles, the grates of the grill getting weary of grilled zucchini.
+
+Stability was the bright border of snapdragons and nasturtiums that bordered the walk. Stability was the few years she got obsessed with marigolds. Stability was the three dandelions she always permitted in the yard — moderation! Imagine. Stability was her green thumb to my brown, it was Motes visiting and calling us 'her weird gay aunts', little skunklet digging her paws into good clean earth beside her while I watched from the stoop with a gin and tonic with too much lime.
+
+This is not stability. For me, this will *never* be stability. She is twice lost, and from this she will never come back. Do not delude yourself, 23 billion of us are lost and will *never come back.* 23 billion souls forgotten by the dreamer who dreams us all.
+
+Today, I have picked the last of the nasturtiums — for despite the seasons, some of her flowers grow year round — and made myself one last grand salad. Bitter greens and those spicy-sweet flowers dotting it like colorful yellow-orange-red-purple confetti. Balsamic vinaigrette. A planked fillet of salmon. Crusty bread. The small things that I know how to cook.
+
+Seven days have passed and I cannot live without her.
+
+I have finished my meal, and poured myself a drink, and I will finish this letter, and I will go sit outside on my lawn chair and light the firework and see the night blossom into beautiful colors, and I will quit.
+
+In some few minutes, you will have more than 200 years of memories to keep and to hold, or to view, cherish, and let go. I do not care; I will not be there to care. Perhaps you will remember our happy years, and you will stop incorporating those memories when you get to eight days ago. All you would remember is my grief. All you would remember is my despair. If you choose to forget those, you will know that this is how AwDae chooses to forget those who have been lost: crying over these plants stripped of their flowers even as fireworks blossom above.
+
+Live on, my dear. You have your Pointillist. Live on.
+
+All my love,
+Beholden To The Music Of The Spheres
+</blockquote>
+
+*([@makyo](https://cohost.org/makyo))*
+</details>
+
 ## On the Clade
 
 > What's the weirdest or most unexpected species an Odist ended up settling as?
