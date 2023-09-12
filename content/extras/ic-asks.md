@@ -15,7 +15,7 @@ summary {
 
 On cohost, readers are encouraged to [submit questions](https://cohost.org/post-self/ask) to the various characters within the Post-Self setting, whether to the Odists, or to the wide variety of characters across all five books. These questions are answered by the characters themselves, with the authors of the answers provided along with them. These are collected here in one spot for easy reading, and this will be updated as questions are answered.
 
-*Last update: August 30, 2023*
+*Last update: September 12, 2023*
 
 -----
 
