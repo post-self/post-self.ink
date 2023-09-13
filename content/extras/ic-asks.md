@@ -362,6 +362,8 @@ Perhaps I no longer speak well for the rest of my clade when it comes to matters
 My name is To Deny The End Is To Deny All Beginnings, and I am so very, *very* trans.
 
 Now if you'll excuse me, I have another date with a badger.
+
+*([@KDARC](https://cohost.org/KDARC))*
 </details>
 
 -----
