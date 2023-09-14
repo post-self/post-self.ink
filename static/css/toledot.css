@@ -12,6 +12,11 @@ blockquote {
     overflow-wrap: break-word;
 }
 
+main.story .author, main.story .character, main.story h3 {
+    font-family: "Gotu", sans-serif !important;
+    text-align: center !important;
+}
+
 .spoiler {
     filter: blur(1rem);
 }

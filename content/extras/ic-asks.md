@@ -611,6 +611,10 @@ Perhaps the production could have been replicated phys-side, especially when con
 
 -----
 
+> To any in the Ode clade who would like to answer:  
+> Have you ever lost faith in or energy for what you do, or felt like you lost your sense of purpose and direction?  
+> How did you handle this? Did you strike out on your own in a new direction entirely, or think things over and find a way to come back to it with renewed vigor? Or, perhaps, find inspiration in another person or place?
+
 <details><summary>Among Those Who Create Are Those Who Forge</summary>
 
 When I was first forked, I started out poking around the System to find out what people were doing with art. After all, we were in a new place, yes? A place with so many new possibilities, yes? I got incredibly interested in finding ways that people were creating sims, impossible paint colors, new flavors in their cooking, all of that wonderful stuff. Forking was too expensive yet for instance artistry to have taken off, but I was not at all surprised when it did.

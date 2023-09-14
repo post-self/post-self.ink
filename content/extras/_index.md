@@ -5,10 +5,25 @@ layout: single
 
 ## Extra Stories
 
-* ["Assignment"](assignment): Ioan Bălan — 2273
-* ["Meeting of One"](meeting-of-one): Ioan Bălan — 2309
-* ["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) (Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022)
-* [In-Character asks](ic-asks) — Questions asked of various Post-Self characters, answered by the characters themselves. Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@KDARC](https://cohost.org/KDARC).
+["Assignment"](assignment): <small>Ioan Bălan — 2273</small>
+:   *Madison Scott-Clary*
+
+["Meeting of One"](meeting-of-one): <small>Ioan Bălan — 2309</small>
+:   *Madison Scott-Clary*
+
+["Dreams for Breakfast"](dreams-for-breakfast): <small>In All Ways — 2183</small>
+:   *Alexandria Christina Leal*
+
+["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) 
+:   *Madison Scott-Clary*
+
+    Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022 
+
+[In-Character asks](ic-asks)
+:   *Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@KDARC](https://cohost.org/KDARC).*
+
+    Questions asked of various Post-Self characters, answered by the characters themselves. 
+
 
 ## Soundtracks
 
