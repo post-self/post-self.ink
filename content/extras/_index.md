@@ -5,13 +5,13 @@ layout: single
 
 ## Extra Stories
 
-["Assignment"](assignment): <small>Ioan Bălan — 2273</small>
+["Assignment": <small>Ioan Bălan — 2273</small>](assignment)
 :   *Madison Scott-Clary*
 
-["Meeting of One"](meeting-of-one): <small>Ioan Bălan — 2309</small>
+["Meeting of One": <small>Ioan Bălan — 2309</small>](meeting-of-one)
 :   *Madison Scott-Clary*
 
-["Dreams for Breakfast"](dreams-for-breakfast): <small>In All Ways — 2183</small>
+["Dreams for Breakfast": <small>In All Ways — 2183</small>](dreams-for-breakfast)
 :   *Alexandria Christina Leal*
 
 ["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) 
