@@ -363,7 +363,7 @@ My name is To Deny The End Is To Deny All Beginnings, and I am so very, *very* t
 
 Now if you'll excuse me, I have another date with a badger.
 
-*([@KDARC](https://cohost.org/KDARC))*
+*([@CERESUltra](https://cohost.org/CERESUltra))*
 </details>
 
 -----
@@ -418,7 +418,7 @@ I am there at least once a week, and I will buy you the worst beer you have ever
 
 Or a watered down soda. I get that not everyone drinks, even in the sim.
 
-*([@KDARC](https://cohost.org/KDARC))*
+*([@CERESUltra](https://cohost.org/CERESUltra))*
 </details>
 
 -----
@@ -454,7 +454,7 @@ Meanwhile, on the walls and roads and roofs and floors of the village, a mosaic 
 
 Something about the ephemerality of the sand and the permanence of the tile speaks to me, and both the food and company are a delight. I have been dipping in and out for about 70 years now, and it is always a pleasure to see old faces, and new ones come to draw in the sand, or maybe place their first tile, or simply looking for a place to relax and sip some wine. I cannot recommend it enough!
 
-*([@KDARC](https://cohost.org/KDARC))*
+*([@CERESUltra](https://cohost.org/CERESUltra))*
 </details>
 
 -----
