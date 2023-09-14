@@ -20,7 +20,7 @@ layout: single
     Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022 
 
 [In-Character asks](ic-asks)
-:   *Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@KDARC](https://cohost.org/KDARC).*
+:   *Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@CERESUltra](https://cohost.org/CERESUltra).*
 
     Questions asked of various Post-Self characters, answered by the characters themselves. 
 
