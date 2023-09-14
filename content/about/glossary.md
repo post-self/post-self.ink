@@ -20,14 +20,17 @@ Clade
 Cocladist
 :   Used to refer to another member of the same clade. Up-, down-, and cross-tree are used to refer to the relation between the two cocladists: an up-tree instances is one that is descended from the individual, a down-tree instance is one from whom the individual is descended, and a cross-tree instance is one who shares the same down-tree instance but who isn't a descendent or an ancestor.
 
+Collective
+:   A group of individuals who emulate the idea of clades phys-side, doing their best to maintain a tree-like hierarchy, share common names, and so on. Many also resent the System and refuse to upload.
+
 Cone of silence
 :   A mechanic on the System that prevents others from hearing what those within the cone are saying. As of 2349, it is also possible to opaque or blur the contents of the cone from the outside, and to prevent the transmission of sensorium messages.
 
 Conflict
 :   During the process of merging, memories and ideas between the up- and down-tree instances will differ, if only by physical point of view. The more these instances diverge, the more these differences will cause conflicts, whether in how they remember things or how they think about things. During merging, this takes effort to rectify internally.
 
-Collective
-:   A group of individuals who emulate the idea of clades phys-side, doing their best to maintain a tree-like hierarchy, share common names, and so on. Many also resent the System and refuse to upload.
+Contraproprioceptive Virus (CPV)
+:   A virus, usually used to assassinate an instance, which disrupts the instance's sense of proprioception to the point where they either crash or quit out of pain. Usually attached to a symbolic object such as a knife or syringe, the virus must be tailored to the recipient, and the object must pierce their skin; the System works based on the collected assumptions of its inhabitants, so something that causes one to break apart must first break the integrity of the target.
 
 Dispersionista
 :   An individual who enjoys individuation on the System. They will fork and allow their forks to diverge from themselves without any goal of letting them merge back down.
