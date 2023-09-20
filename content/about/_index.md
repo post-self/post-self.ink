@@ -22,6 +22,7 @@ The Post-Self universe is an open setting for exploring the ramifications of bei
 * [Timeline](timeline)
 * [Dramatis Personae](characters)
 * [The Universe](universe)
+* [Writing in the Post-Self Setting](writing)
 * [Glossary](glossary)
 * [Questions and Answers](questions)
 

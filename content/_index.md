@@ -67,6 +67,7 @@
             <li><a href="/about/timeline">Timeline</a> — A basic timeline of events covered in the books</li>
             <li><a href="/about/characters">Dramatic Personae</a> — A list of characters in the books and where they came from</li>
             <li><a href="/about/universe">The Universe</a> — The mechanics of the setting</li>
+            <li><a href="/about/writing">Writing in the Post-Self Setting</a> — A guide to writing your own works in the universe</li>
             <li><a href="/about/glossary">Glossary</a> — Some common words and terms</li>
             <li><a href="/about/questions">Questions and Answers</a> — Questions that have arisen and some answers to go with them</li>
         </ul>
