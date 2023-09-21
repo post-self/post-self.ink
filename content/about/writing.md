@@ -2,7 +2,7 @@
 title: Writing in the Post-Self Universe
 ---
 
-So you've gone and read [the Post-Self cycle](/cycle) stories, checked out [*Clade*](https://clade.post-self.ink), read up on the [setting](/about/universe) and [timeline](/about/timeline), maybe even taken a peek at some of the [extras](/extra). Are you interested in creating canon material for the Post-Self universe? Wonderful! The setting is open to allow for exploration of topics that are important to all. Here are some guidelines for creating works to be incorporated into the canon.
+So you've gone and read [the Post-Self cycle](/cycle) stories, checked out [*Clade*](https://clade.post-self.ink), read up on the [setting](/about/universe) and [timeline](/about/timeline), maybe even taken a peek at some of the [extras](/extras). Are you interested in creating canon material for the Post-Self universe? Wonderful! The setting is open to allow for exploration of topics that are important to all. Here are some guidelines for creating works to be incorporated into the canon.
 
 The Lost
 :  
