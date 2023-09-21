@@ -24,6 +24,9 @@ layout: single
 
     Questions asked of various Post-Self characters, answered by the characters themselves. 
 
+## Extra Materials
+
+* [Nanon](nanon) — the constructed language spoken by the Artemisians.
 
 ## Soundtracks
 
