@@ -1,7 +1,7 @@
 ---
 title: Opportunity Paralysis
 author: Madison Scott-Clary
-character: Rena Hatch --- 2368
+character: Rena Hatch — 2368
 type: story
 ---
 
