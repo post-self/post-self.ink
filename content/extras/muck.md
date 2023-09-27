@@ -163,7 +163,7 @@ will produce the output:
     
 > she has she / her pronouns.
 
-You can read about `%#` in `help substitutions`. Also, take note of the extra parameter in that first substitution, `[they(%#%xh, 1``)]`. This is how you capitalize a substituted word.
+You can read about `%#` in `help substitutions`. Also, take note of the extra parameter in that first substitution, `[they(%#%xh, 1)]`. This is how you capitalize a substituted word.
 
 ### Pronoun Functions
 
