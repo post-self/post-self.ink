@@ -60,7 +60,7 @@ Now we are getting into the thick of settling in!
 
 ### Creating A Home
 
-You should read `help @dig` for more details, but it is enough to write `@dig/teleport <name> ; @link me = here`. This will create a new room and make it your `home`.
+You should read `help @dig` for more details, but it is enough to write `@dig/teleport <name>` followed by `@link me = here`. This will create a new room and make it your `home`.
 
 You can set an `@desc here = <paragraph>` for the room just like you set for yourself.
 
