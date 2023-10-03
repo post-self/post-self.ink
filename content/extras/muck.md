@@ -1,3 +1,7 @@
+---
+title: The Post-Self MUCK
+---
+
 The Post-Self MUCK is an avenue for exploring the setting through roleplay. You can join us as a cladist on the Lagrange System in the year 2403 etc etc skunks write more here plox
 
 ## Where Am I?
