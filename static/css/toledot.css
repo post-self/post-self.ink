@@ -35,18 +35,16 @@ ul {
     list-style-type: revert;
     padding-left: 2rem;
 }
-.nav-desktop {
-    display: block;
-}
-.nav-mobile {
-    display: none;
-}
 
 .hero {
     font-family: "Gentium Plus", serif;
     font-size: 18pt;
     line-height: 1.5;
     color: #444444;
+    margin-bottom: 1rem;
+    background: url(/img/hero-bg.png);
+    background-size: cover;
+    background-position: center;
     background-color: #fafafa;
 }
 
@@ -79,10 +77,10 @@ ul {
 }
 
 .carousel nav li {
-                display: inline-block;
-                margin: 0;
-                padding: 0.5rem;
-            }
+    display: inline-block;
+    margin: 0;
+    padding: 0.5rem;
+}
 
 .carousel nav li.on {
     background-color: #555;
