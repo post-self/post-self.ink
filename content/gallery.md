@@ -141,6 +141,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Art by JAIYANDT</figcaption>
 </figure>
 <figure>
+    <a href="/img/gallery/lounge.png"><img alt="Art by Roxannarachnid" src="/img/gallery/lounge.png"></a>
+    <figcaption>Art by Roxannarachnid</figcaption>
+</figure>
+<figure>
     <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/full-of-skunks.png"/></a>
     <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
 </figure>

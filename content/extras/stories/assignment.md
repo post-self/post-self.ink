@@ -1,8 +1,9 @@
 ---
 title: Assignment
+author: Madison Scott-Clary
+character: Ioan Bălan — 2273
+type: story
 ---
-
-## Ioan Bălan --- 2273
 
 The sensation of an instance merging state back with em would never *not* make Ioan Bălan#tracker uneasy. It wasn't the differences in experiences, those were to be anticipated, so much as the tiny changes in identity that resulted. Having to internalize a slightly different version of yourself was too close to experiencing a doppelgänger, something so alike and yet with subtle shifts in worldview.
 

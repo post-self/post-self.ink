@@ -1,8 +1,9 @@
 ---
 title: Meeting of One
+author: Madison Scott-Clary
+character: Ioan Bălan — 2309
+type: story
 ---
-
-## Ioan Bălan — 2309
 
 Ioan Bălan, despite all attempts to keep emself from sinking into the depths of whatever ey was studying, always managed to find emself mired in details ey could not hope to escape. They twined and twisted around eir wrists, tripped em up about the ankles, and tugged em ever deeper into the fractal complications of whatever topic ey decided would be the subject of eir next work.
 
