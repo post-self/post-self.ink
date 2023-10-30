@@ -4,36 +4,80 @@ layout: single
 ---
 
 <style>
-table {
+dd {
+    margin-bottom: 1rem;
+}
+dd:after {
+    content: '§';
+    color: #ccc;
+    display: block;
     width: 100%;
+    text-align: center;
 }
-tr {
-    margin: 0.25rem 0;
+dd:last-of-type:after {
+    display: none;
 }
-
-td {
-    padding: 0.5rem;
-    text-justify: none;
+dd p {
     font-size: 16pt;
+    text-indent: 0;
+    margin-top: 0.5rem;
 }
-
-tr:nth-of-type(odd) td {
-    background-color: #eee;
+dd p:first-of-type {
+    font-size: 18pt;
+}
+h2 {
+    margin-top: 4rem;
 }
 </style>
 
-## Extra Writing
+## Writing
 
-Title |   | Author  
----|:---:|---:
-["Assignment"](stories/assignment) | Ioan Bălan — 2273 | *by Madison Scott-Clary*
-["Meeting of One"](stories/meeting-of-one) | Ioan Bălan — 2309 | *by Madison Scott-Clary*
-["Fever Dreams"](stories/fever-dreams) | Hieromech — 2399 | *by Ember "Hieromech" Cloke*
+["Assignment": <small>Ioan Bălan — 2273</small>](assignment)
+:   *Madison Scott-Clary*
+
+    Ioan Bălan, tasked with investigating a flash-cult, tries to figure out what the heck just happened.
+
+    *CWs:* brief violence.
+
+["Meeting of One": <small>Ioan Bălan — 2309</small>](meeting-of-one)
+:   *Madison Scott-Clary*
+
+    Quakers? In space? It's more likely than you think.
+
+    *CWs:* none.
+
+["Fever Dreams": <small>Hieromech — 2399</small>](stories/fever-dreams) 
+:   *Ember "Hieromech" Cloke*
+
+    A poem written twelve hours before uploading.
+
+    *CWs:* references to some of the grosser aspects of having a body.
+
+["Dreams for Breakfast": <small>In All Ways — 2183</small>](dreams-for-breakfast)
+:   *Alexandria Christina Leal*
+
+    An unsettling dream, a conversation over breakfast.
+
+    *CWs:* none.
+
+    *Spoilers:* references to material in *Qoheleth*.
+
+[In-Character asks](ic-asks)
+:   *Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@CERESUltra](https://cohost.org/CERESUltra).*
+
+    Questions asked of various Post-Self characters, answered by the characters themselves. 
 
 ### Other, sillier things
 
-* ["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) (Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022)
-* [In-Character asks](ic-asks) — Questions asked of various Post-Self characters, answered by the characters themselves. Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@CERESUltra](https://cohost.org/CERESUltra).
+["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) 
+:   *Madison Scott-Clary*
+
+    Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022 
+
+## Materials
+
+[Nanon](nanon)
+:   The constructed language spoken by the Artemisians.
 
 ## Soundtracks
 

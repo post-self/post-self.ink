@@ -30,6 +30,10 @@ While the climate has continued to suffer, with temperatures slowing to a linear
 
 Earth is described as a 'shithole'. Global warming has proceeded to the pace where much of the population below a certain latitude lives below-ground, though many have simply moved towards the poles. Air quality is...not great, and many spend as much time as possible on the 'net in sims, with children getting implants at around 5 years old, though the minimum upload age remains 18.
 
+### Late 2300s
+
+Thanks to the sudden influx of information from Artemis, efforts to control the ongoing climate disaster gain traction and thus success, leading to the increasing global temperatures stalling and massive success with the ocean deacidification projects in the mid 2700s. This in turn leads to a slight slowing in the rate of new uploads.
+
 ## The System
 
 Created in the early 2100s, the System (a vague name to keep the original project secret, though one which stuck around) allows for uploaded consciousnesses to live functionally immortal lives.
@@ -122,6 +126,6 @@ As with any social system, conflict happens. People don't like each other. They 
 <figcaption style="font-size: 60%; opacity: 0.8;">“Fucking stop! You cannot–”</figcaption>
 </figure>
 
-The one exception to being killed on the System is through a subtle virus which will crash one's instance. This virus must be tailored to the individual it's meant for and is not trivial to produce, so instances of such death are rare. It's most commonly associated with symbolic objects such as syringes or knives rather than poison; as always, having the symbol be recognized as one that can cause damage is often part of the process.
+The one exception to being killed on the System is through a subtle virus known as a contraproprioceptive virus (or CPV) which will crash one's instance. This virus must be tailored to the individual it's meant for and is not trivial to produce, so instances of such death are rare. It's most commonly associated with symbolic objects such as syringes or knives rather than poison; as always, having the symbol be recognized as one that can cause damage is often part of the process.
 
 
