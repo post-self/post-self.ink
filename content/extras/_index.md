@@ -3,12 +3,37 @@ title: Extras
 layout: single
 ---
 
-## Extra Stories
+<style>
+table {
+    width: 100%;
+}
+tr {
+    margin: 0.25rem 0;
+}
 
-* ["Assignment"](assignment): Ioan Bălan — 2273
-* ["Meeting of One"](meeting-of-one): Ioan Bălan — 2309
+td {
+    padding: 0.5rem;
+    text-justify: none;
+    font-size: 16pt;
+}
+
+tr:nth-of-type(odd) td {
+    background-color: #eee;
+}
+</style>
+
+## Extra Writing
+
+Title |   | Author  
+---|:---:|---:
+["Assignment"](stories/assignment) | Ioan Bălan — 2273 | *by Madison Scott-Clary*
+["Meeting of One"](stories/meeting-of-one) | Ioan Bălan — 2309 | *by Madison Scott-Clary*
+["Fever Dreams"](stories/fever-dreams) | Hieromech — 2399 | *by Ember "Hieromech" Cloke*
+
+### Other, sillier things
+
 * ["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) (Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022)
-* [In-Character asks](ic-asks) — Questions asked of various Post-Self characters, answered by the characters themselves. Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@KDARC](https://cohost.org/KDARC).
+* [In-Character asks](ic-asks) — Questions asked of various Post-Self characters, answered by the characters themselves. Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@CERESUltra](https://cohost.org/CERESUltra).
 
 ## Soundtracks
 
