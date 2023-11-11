@@ -32,28 +32,28 @@ h2 {
 
 ## Writing
 
-["Assignment": <small>Ioan Bălan — 2273</small>](assignment)
+["Assignment": <small>Ioan Bălan — 2273</small>](/stories/assignment)
 :   *Madison Scott-Clary*
 
     Ioan Bălan, tasked with investigating a flash-cult, tries to figure out what the heck just happened.
 
     *CWs:* brief violence.
 
-["Meeting of One": <small>Ioan Bălan — 2309</small>](meeting-of-one)
+["Meeting of One": <small>Ioan Bălan — 2309</small>](/stories/meeting-of-one)
 :   *Madison Scott-Clary*
 
     Quakers? In space? It's more likely than you think.
 
     *CWs:* none.
 
-["Fever Dreams": <small>Hieromech — 2399</small>](stories/fever-dreams) 
+["Fever Dreams": <small>Hieromech — 2399</small>](/stories/fever-dreams) 
 :   *Ember "Hieromech" Cloke*
 
     A poem written twelve hours before uploading.
 
     *CWs:* references to some of the grosser aspects of having a body.
 
-["Dreams for Breakfast": <small>In All Ways — 2183</small>](dreams-for-breakfast)
+["Dreams for Breakfast": <small>In All Ways — 2183</small>](/stories/dreams-for-breakfast)
 :   *Alexandria Christina Leal*
 
     An unsettling dream, a conversation over breakfast.
