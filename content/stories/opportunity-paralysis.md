@@ -7,7 +7,7 @@ type: story
 
 I thought it would be different. I thought it would be cleaner, maybe. Cleaner, or far more grimy, all exposed pipes and puddles of unexplained liquids pooling in dark corners while the brittle lighting of shitty fluorescents flickered. Give me the clean LEDs over that, the well-polished linoleum and stainless steel, doctors with surgical gowns and nurses with fibrous paper booties strapped over their oh-so-comfortable shoes.
 
-Saskatoon Central Upload Clinic was none of these. Where one might expect a hospital check-in desk, thick plexiglass separating the clientele from the assistants, there was a row of podiums, each bearing a tablet with a grip-bar beside it, a way to check in using the implants embedded on the middle joints of one's fingers. Where one might expect the cold, hard chairs, blessed with only the thinnest layer of padding, of a hospital waiting room, there were instead plush chairs and loveseats upholstered in linen. Where one might expect cold and white bare walls, calm paintings and potted plants softened the cream-colored paint further, spider plants stringing trails behind water coolers.
+Saskatoon Central Upload Clinic was none of these. Where one might expect a hospital check-in desk, thick plexiglass separating the clientele from the assistants, there was a row of podiums, each bearing a tablet with a grip-bar beside it, a way to check in using the implants embedded on the middle joints of one's fingers. Where one might expect the cold, hard chairs, blessed with only the thinnest layer of padding, of a hospital waiting room, there were instead plush chairs and love seats upholstered in linen. Where one might expect cold and white bare walls, calm paintings and potted plants softened the cream-colored paint further, spider plants stringing trails behind water coolers.
 
 Check-in is simple: slide my fingers around the grip bar until the magnetic contacts pull at those NFC pads embedded in skin. Wait as patiently as I can while the tablet whispers a series of disclaimers against my cochleae through the tendrils of my exo. Shift my weight anxiously from side to side and give my assent to the questions with a nod and a tap of the thumb.
 
@@ -281,7 +281,7 @@ It takes me a moment to piece together what exactly I'm being asked. "I'm a nobo
 
 "Cheers to that. Hey, look. Jesus Croissant." She laughs. "Want to check it out?"
 
-Jesus Croissant is sterile, blank, modern. Here, at last, I see the too-flat planes, the too-simple colors, the suspiciously repeating patterns of flecks on the formica counters. It makes me realize just how high quality a sim Old Town Square is. At least the coffee's okay, though croissants are weirdly absent from their menu.
+Jesus Croissant is sterile, blank, modern. Here, at last, I see the too-flat planes, the too-simple colors, the suspiciously repeating patterns of flecks on the Formica counters. It makes me realize just how high quality a sim Old Town Square is. At least the coffee's okay, though croissants are weirdly absent from their menu.
 
 For the rest of the day, we continue on down the road, hunting for other Jesus-themed coffees and snacks. My teaches me how to play with my sensorium, to turn up and down my sense of smell, my sense of fullness and hunger, even, when a passer-by bumps into me, the collision algorithms that govern how close to me others can get to me before bouncing off.
 
