@@ -46,6 +46,13 @@ h2 {
 
     *CWs:* none.
 
+["Opportunity Paralysis": <small>Rena Hatch — 2368</small>](/stories/opportunity-paralysis)
+:   *Madison Scott-Clary*
+
+    Uploading to transition is not at all uncommon. What you do when you get there, though, is a story you will have to live.
+
+    *CWs:* none.
+
 ["Fever Dreams": <small>Hieromech — 2399</small>](/stories/fever-dreams) 
 :   *Ember "Hieromech" Cloke*
 
