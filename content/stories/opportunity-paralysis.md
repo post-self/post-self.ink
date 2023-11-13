@@ -247,7 +247,7 @@ I fall into step beside them as we start to make our way down the street. "Wait,
 
 "And she kept tabs on me?"
 
-"Milldions pass before her constructs' eyes, she just keeps an eye out for a few particular things. Friendly faces, interesting stories, that sort of stuff." They shrug, smiling. The smile is kind enough and earnest enough to take the wind out of my suspicion's sails. "You seemed interesting enough to her, apparently, so she sent you my way. You seem nice to me, too. You can call me My."
+"Millions pass before her constructs' eyes, she just keeps an eye out for a few particular things. Friendly faces, interesting stories, that sort of stuff." They shrug, smiling. The smile is kind enough and earnest enough to take the wind out of my suspicion's sails. "You seemed interesting enough to her, apparently, so she sent you my way. You seem nice to me, too. You can call me My."
 
 "My...like me, my, mine?" I say, sounding stupid even to myself.
 
