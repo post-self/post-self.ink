@@ -7,7 +7,7 @@ type: page
 <style>
 figure, img {
     text-align: center;
-    font-size: 50%;
+    font-size: 80%;
     display: inline-block;
     max-height: 200px;
 }
@@ -41,111 +41,123 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 ## *Qoheleth and Gallery Exhibition*
 
 <figure>
-    <a href="/img/gallery/qoheleth-front.png"><img src="/img/gallery/qoheleth-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/qoheleth-front.png"><img src="/img/gallery/thumbs/qoheleth-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/awdae-1.png"><img src="/img/gallery/awdae-1.png" alt="Art by Cadmium Tea"/></a>
+    <a href="/img/gallery/awdae-1.png"><img src="/img/gallery/thumbs/awdae-1.png" alt="Art by Cadmium Tea"/></a>
     <figcaption>Art by Cadmium Tea</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/awdae-2.png"><img src="/img/gallery/awdae-2.png" alt="Art by Cadmium Tea"/></a>
+    <a href="/img/gallery/awdae-2.png"><img src="/img/gallery/thumbs/awdae-2.png" alt="Art by Cadmium Tea"/></a>
     <figcaption>Art by Cadmium Tea</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/dear.png"><img src="/img/gallery/dear.png" alt="Art by johnny d."/></a>
+    <a href="/img/gallery/dear.png"><img src="/img/gallery/thumbs/dear.png" alt="Art by johnny d."/></a>
     <figcaption>Art by johnny d.</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/qoheleth-back.png"><img src="/img/gallery/qoheleth-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/qoheleth-back.png"><img src="/img/gallery/thumbs/qoheleth-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 
 ## *Toledot*
 
 <figure>
-    <a href="/img/gallery/toledot-front.png"><img src="/img/gallery/toledot-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/toledot-front.png"><img src="/img/gallery/thumbs/toledot-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/shove.png"><img src="/img/gallery/shove.png" alt="Art by Kris Weaver"/></a>
+    <a href="/img/gallery/shove.png"><img src="/img/gallery/thumbs/shove.png" alt="Art by Kris Weaver"/></a>
     <figcaption>Art by Kris Weaver</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/cairns.png"><img src="/img/gallery/cairns.png" alt="Art by JAIYANDT"/></a>
+    <a href="/img/gallery/cairns.png"><img src="/img/gallery/thumbs/cairns.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by JAIYANDT</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/dandelions.png"><img src="/img/gallery/dandelions.png" alt="Art by Kris Weaver"/></a>
+    <a href="/img/gallery/dandelions.png"><img src="/img/gallery/thumbs/dandelions.png" alt="Art by Kris Weaver"/></a>
     <figcaption>Art by Kris Weaver</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/toledot-back.png"><img src="/img/gallery/toledot-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/toledot-back.png"><img src="/img/gallery/thumbs/toledot-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/hadje.png"><img src="/img/gallery/thumbs/hadje.png"/></a>
+    <figcaption>Fan art by <a href="https://cohost.org/Amoni-The-Sabertooth">Amoni</a></figcaption>
 </figure>
 
 ## *Nevi'im*
 
 <figure>
-    <a href="/img/gallery/neviim-front.png"><img src="/img/gallery/neviim-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/neviim-front.png"><img src="/img/gallery/thumbs/neviim-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/awnh.png"><img src="/img/gallery/awnh.png" alt="Art by johnny d."/></a>
+    <a href="/img/gallery/awnh.png"><img src="/img/gallery/thumbs/awnh.png" alt="Art by johnny d."/></a>
     <figcaption>Art by johnny d.</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/stolon.png"><img src="/img/gallery/stolon.png" alt="Art by JAIYANDT"/></a>
+    <a href="/img/gallery/stolon.png"><img src="/img/gallery/thumbs/stolon.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by JAIYANDT</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/neviim-back.png"><img src="/img/gallery/neviim-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/neviim-back.png"><img src="/img/gallery/thumbs/neviim-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 
 ## *Mitzvot and Selected Letters*
 
 <figure>
-    <a href="/img/gallery/mitzvot-front.png"><img src="/img/gallery/mitzvot-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/mitzvot-front.png"><img src="/img/gallery/thumbs/mitzvot-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/monologue.png"><img src="/img/gallery/monologue.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/monologue.png"><img src="/img/gallery/thumbs/monologue.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 <figure>
-    <a class="merge" href="/img/gallery/merge.png"><img alt="Art by Iris Jay" src="/img/gallery/merge.png" /><span>Spoiler</span></a>
+    <a class="merge" href="/img/gallery/merge.png"><img alt="Art by Iris Jay" src="/img/gallery/thumbs/merge.png" /><span>Spoiler</span></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/mitzvot-back.png"><img src="/img/gallery/mitzvot-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/mitzvot-back.png"><img src="/img/gallery/thumbs/mitzvot-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 
 ## Additional art
 
 <figure>
-    <a href="/img/gallery/dear-ref.png"><img src="/img/gallery/dear-ref.png" alt="Art by Iris Jay"/></a>
+    <a href="/img/gallery/dear-ref.png"><img src="/img/gallery/thumbs/dear-ref.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by Iris Jay</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/writerskunk.png"><img src="/img/gallery/writerskunk.png" alt="Art by JAIYANDT"/></a>
+    <a href="/img/gallery/writerskunk.png"><img src="/img/gallery/thumbs/writerskunk.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by JAIYANDT</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/ref-3.png"><img src="/img/gallery/ref-3.png" alt="Art by JAIYANDT"/></a>
+    <a href="/img/gallery/ref-3.png"><img src="/img/gallery/thumbs/ref-3.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by JAIYANDT</figcaption>
 </figure>
 <figure>
-    <a class="merge" href="/img/gallery/ref.png"><img alt="Art by JAIYANDT" src="/img/gallery/ref.png" /><span>Artistic<br>nudity</span></a>
+    <a class="merge" href="/img/gallery/ref.png"><img alt="Art by JAIYANDT" src="/img/gallery/thumbs/ref.png" /><span>Artistic<br>nudity</span></a>
     <figcaption>Art by JAIYANDT</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/lounge.png"><img alt="Art by Roxannarachnid" src="/img/gallery/lounge.png"></a>
+    <a href="/img/gallery/lounge.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/lounge.png"></a>
     <figcaption>Art by Roxannarachnid</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/full-of-skunks.png"/></a>
+    <a href="/img/gallery/what_right_have_i.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/what_right_have_i.png"></a>
+    <figcaption>Art by Roxannarachnid</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/no_longer_myself.png"><img alt="Art by mischa" src="/img/gallery/thumbs/no_longer_myself.png"></a>
+    <figcaption><a href="https://picrew.me/en/image_maker/644129">Picrew</a> by mischa</figcaption>
+</figure>
+<figure>
+    <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/thumbs/full-of-skunks.png"/></a>
     <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
 </figure>
         
