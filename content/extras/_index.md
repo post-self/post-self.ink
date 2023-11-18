@@ -69,6 +69,13 @@ h2 {
 
     *Spoilers:* references to material in *Qoheleth*.
 
+["Coffee Leak": <small>Tomash — 2299</small>](/stories/coffee-leak)
+:   *Krzysztof "Tomash" Drewniak*
+
+    Not every object works quite as you expect it.
+
+    *CWs:* none.
+
 [In-Character asks](ic-asks)
 :   *Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@CERESUltra](https://cohost.org/CERESUltra).*
 
