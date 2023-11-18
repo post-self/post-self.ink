@@ -21,7 +21,7 @@ He pointed at the mug. “Move to Tech Stasis#4f552c06,” he commanded it, and 
 
 With the immediate problem out of the way, Tomash took a look at the man who’d been sitting at the table. That arm didn’t look good. The rest of the man seemed fine, though. He looked older than most on the System, with his white hair that didn’t see a lot of intentional grooming, and clothes that felt thrown together with little care for style. A very professor-y look.
 
-The man — Dr. Diego Rodriguez, the System informed Tomash — was staring at him. He’d only uploaded a few hours ago, so it wasn’t surprising that a bipedal dog who’d just made his coffee disappear would throw him off. Especially if said dog had a black vest, meant to emulate a working dog’s harness, that declared him to be a “PERISYSTEM TECHNICIAN” in large white letters. (The smaller “Do Not Pet” note underneath was both traditional and sometimes necessary.)
+The man — Dr. Diego Rodriguez, the System informed Tomash — was staring at him. He’d only uploaded a few hours ago, so it wasn’t surprising that a bipedal dog who’d just made his coffee disappear would throw him off. Especially if said dog had a black vest, meant to emulate a working dog’s harness, that declared him to be a <span style="font-variant: small-caps">“Perisystem Technician”</span> in large white letters. (The smaller “Do Not Pet” note underneath was both traditional and sometimes necessary.)
 
 “Sir,” Tomash said.
 
