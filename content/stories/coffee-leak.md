@@ -37,7 +37,7 @@ No immediate response. Still, the safeties hadn’t kicked in, so he had to at l
 
 “Like in the tutorial, where you made a copy of yourself.”
 
-“I … my arm …”
+“I…my arm…”
 
 “Exactly,” Tomash said. “That’ll clear up when you fork.”
 
@@ -45,17 +45,17 @@ Dr. Rodriguez looked confused.
 
 “Ok, so, think about there being another copy of you, your fork, standing next to me. They’re unhurt, but, other than that, they’re you like you are right now.”
 
-“Ok …?”
+“Ok…?”
 
 “In a moment, I’ll need you to breathe in deep and start really thinking about a reality where that fork exists, holding it in your mind as best you can. Then, I’ll count you down from three. Once I’m done counting, you’ll breathe out, and, as you do that, you’ll make that world where you’re forked happen. Can you do that?”
 
-“I … ow fuck fuck fuck my arm!”
+“I…ow fuck fuck fuck my arm!”
 
 “It’s OK, we’re fixing it. Now, breathe in,”
 
 Dr. Rodriguez took a shaky breath.
 
-“And three … two … one … fork. Fork now.”
+“And three…two…one…fork. Fork now.”
 
 Dr. Rodriguez forked. A new instance of him, whose upper arm was right as rain, appeared next to Tomash.
 
@@ -79,11 +79,11 @@ Diego followed a moment later, after he’d remembered that he just had to say h
 
 Tomash waved a paw, and the view out of the window changed. The place they were looking at was still a black void, but now it had Dr. Rodriguez’s coffee floating in mid-air, a snapshot of a jet of steam coming out the crack in its side.
 
-“... How’s my coffee levitating?” the professor asked.
+“…How’s my coffee levitating?” the professor asked.
 
 “I chucked it into a stasis sim — physics doesn’t evolve forward in those. They’re useful for figuring out what’s happening to something.”
 
-“So … they kill you when you step in?” Dr. Rodriguez asked, looking at Tomash.
+“So…they kill you when you step in?” Dr. Rodriguez asked, looking at Tomash.
 
 Tomash shook his head. “Nah, instances — our minds — run on a different system. If you put yourself in a stasis sim, you get this really weird ‘brain inhabiting a statue’ feeling until you decide to leave. I’m not a fan, but there’s people who do stasis meditation.”
 
@@ -91,15 +91,15 @@ Tomash shook his head. “Nah, instances — our minds — run on a different sy
 
 “Yep, I saw this really cool exhibit where — hold on, we’re getting distracted. What happened right before,” Tomash gestured at the window, “that?”
 
-“Well, I’d gotten lost in thought, and my coffee was cold, and I decided to try the System out, so I said … weird, I can remember it exactly … ‘I want my coffee to get as hot as it can and I don’t want heat escaping out the top.’”
+“Well, I’d gotten lost in thought, and my coffee was cold, and I decided to try the System out, so I said…weird, I can remember it exactly…‘I want my coffee to get as hot as it can and I don’t want heat escaping out the top.’”
 
 “That’d explain the physics plane,” Tomash said.
 
 “The physics plane?”
 
-Tomash tapped a finger on his desk, and Dr. Rodriguez could see a thin disk of something clearly virtual sitting on top of the mug. “It’s an invisible bit of space that changes how matter behaves. This one’s …” strings of text floated above the plane, completely impenetrable to Diego, “... a perfect lid for gases, Interesting that that’s what you got.”
+Tomash tapped a finger on his desk, and Dr. Rodriguez could see a thin disk of something clearly virtual sitting on top of the mug. “It’s an invisible bit of space that changes how matter behaves. This one’s…” strings of text floated above the plane, completely impenetrable to Diego, “… a perfect lid for gases, Interesting that that’s what you got.”
 
-“So, completely airtight mug,” Dr. Rodriguez commented, staring off into space. “That shouldn’t have …”
+“So, completely airtight mug,” Dr. Rodriguez commented, staring off into space. “That shouldn’t have…”
 
 “Can I ask what you did before uploading?” Tomash said.
 
@@ -111,19 +111,19 @@ Tomash was starting to get an idea. “While your coffee was getting cold, what 
 
 “The System’s really good at picking up on intent, including subconscious intent.”
 
-“Wait, so, when I wanted my coffee heated up,” Diego said, standing, “all the stuff I was thinking about bled through somehow, and I ended up with _really_ hot coffee, which would mean … airtight lid —”
+“Wait, so, when I wanted my coffee heated up,” Diego said, standing, “all the stuff I was thinking about bled through somehow, and I ended up with _really_ hot coffee, which would mean…airtight lid —”
 
 Tomash looked at the sim, and rotated the view to show the coffee. “Yeah, 352 Celsius in there, huh, —”
 
-“— only liquid under very high pressure … did I just make a coffee bomb?” Dr. Rodriguez asked, horrified. “On my first day?”
+“— only liquid under very high pressure…did I just make a coffee bomb?” Dr. Rodriguez asked, horrified. “On my first day?”
 
-Tomash looked over at Dr. Rodriguez. “Looks like the mug cracked first, so … that could’ve gone worse.”
+Tomash looked over at Dr. Rodriguez. “Looks like the mug cracked first, so…that could’ve gone worse.”
 
 “So how do I not do that? I could’ve hurt someone!”
 
 ”All I can say is that you might want to deliberately think about standard physics when you’re doing environmental changes, at least until you get the hang of it. That and get some lab space — you know anyone at the universities?”
 
-“Not really?” Diego said. “We’ve swapped emails, but … y’all don’t show up to conferences easily, so it’s hard to make connections up here.”
+“Not really?” Diego said. “We’ve swapped emails, but…y’all don’t show up to conferences easily, so it’s hard to make connections up here.”
 
 “Well, I can try to make some introductions,” Tomash said, offering a handshake. Diego stood up to accept. “Welcome to the System, Professor. We’re glad to have you.”
 
@@ -139,7 +139,7 @@ There was an awkward pause. “Now what? Is there a hearing?”
 
 Tomash stepped back into the Alley Cat, where someone had already reset the table and floor back to default while he’d been out. 
 
-The professor followed suit soon after. He walked up to the counter sheepishly. “Could I get another coffee?” he asked. “Mine … exploded.”
+The professor followed suit soon after. He walked up to the counter sheepishly. “Could I get another coffee?” he asked. “Mine…exploded.”
 
 “Sure thing,” the barista said. “And it’s no trouble, really, I already cleaned up. Exploding coffee’s a new one for me, but it’s not a lot worse than folks levitating their coffee and dropping it back in a panic.”
 
