@@ -42,7 +42,7 @@ Artemis
 ## The world is built for this
 
 Queerness
-:   The Post-Self setting is aggressively and explicitly queer. This is a place to explore identity through romance — monogamous and polyamorous — gender, species, plurality, anything. If it can be queered, please queer it! The System makes an attractive target for queer identities, after all. Does a trans character transition further sys-side, or do they revel in that identity? Perhaps a plural character experiments with forking out singular identities, perhaps not. The society is far, far more accepting of such than today's, even phys-side.
+:   The Post-Self setting is aggressively and explicitly queer. This is a place to explore identity through romance — monogamous and polyamorous — gender, species, plurality, anything. If it can be queered, please queer it! The System makes an attractive target for queer identities, after all. Does a trans character transition further sys-side, or do they revel in that identity? Perhaps a plural character experiments with forking out singular identities, perhaps not. The setting is ripe for metafurry exploration — that is, furries themselves who upload and get to live their lives as their fursonas. The society is far, far more accepting of queer identities than today's, even phys-side.
 
 Neurodivergence
 :   As neurodivergence follows one along after uploading, this is an area ripe for exploration, whether that means finding ways to fork it away or finding ways to revel in it as an integral part of oneself.
@@ -61,5 +61,5 @@ Violence
 Bigotry
 :   There are some taboos that remain, such as the one surrounding intraclade relationships (until about 2355), but there is little need to overcome adversity over identity sys-side. Explore these identities, yes. Explore the lingering effects of bigotry experienced phys-side, but there are stories of personal fulfillment to be had without necessarily focusing on these particular struggles. Actual transphobia, homophobia, racism, etc. on behalf of the authors are unwelcome and will be denounced.
 
-Other characters
-:   Don't use other characters — even open clades such as the Ode clade — without asking. While many will say yes, this will have the added benefit of you being able to write more closely to the author's vision, as they will often have paracanon to share. Additionally, in some cases, these characters feature in the noemata of several individuals' headmates or personalities, and it's worth avoiding trampling on identities!
+Using other people's characters without asking
+:   Try not to use other people's characters — even open clades such as the Ode clade — without asking. While many will say yes, this will have the added benefit of you being able to write more closely to the author's vision, as they will often have paracanon to share. Additionally, in some cases, these characters feature in the noemata of several individuals' headmates or personalities, and it's worth avoiding trampling on identities!
