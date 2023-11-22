@@ -152,10 +152,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/img/gallery/what_right_have_i.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/what_right_have_i.png"></a>
     <figcaption>Art by Roxannarachnid</figcaption>
 </figure>
-<figure>
+<!--<figure>
     <a href="/img/gallery/no_longer_myself.png"><img alt="Art by mischa" src="/img/gallery/thumbs/no_longer_myself.png"></a>
     <figcaption><a href="https://picrew.me/en/image_maker/644129">Picrew</a> by mischa</figcaption>
-</figure>
+</figure>-->
 <figure>
     <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/thumbs/full-of-skunks.png"/></a>
     <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
