@@ -30,51 +30,10 @@ h2 {
 }
 </style>
 
-## Writing
+## Additional writing
 
-["Assignment": <small>Ioan Bălan — 2273</small>](/stories/assignment)
-:   *Madison Scott-Clary*
-
-    Ioan Bălan, tasked with investigating a flash-cult, tries to figure out what the heck just happened.
-
-    *CWs:* brief violence.
-
-["Meeting of One": <small>Ioan Bălan — 2309</small>](/stories/meeting-of-one)
-:   *Madison Scott-Clary*
-
-    Quakers? In space? It's more likely than you think.
-
-    *CWs:* none.
-
-["Opportunity Paralysis": <small>Rena Hatch — 2368</small>](/stories/opportunity-paralysis)
-:   *Madison Scott-Clary*
-
-    Uploading to transition is not at all uncommon. What you do when you get there, though, is a story you will have to live.
-
-    *CWs:* none.
-
-["Fever Dreams": <small>Hieromech — 2399</small>](/stories/fever-dreams) 
-:   *Ember "Hieromech" Cloke*
-
-    A poem written twelve hours before uploading.
-
-    *CWs:* references to some of the grosser aspects of having a body.
-
-["Dreams for Breakfast": <small>In All Ways — 2183</small>](/stories/dreams-for-breakfast)
-:   *Alexandria Christina Leal*
-
-    An unsettling dream, a conversation over breakfast.
-
-    *CWs:* none.
-
-    *Spoilers:* references to material in *Qoheleth*.
-
-["Coffee Leak": <small>Tomash — 2299</small>](/stories/coffee-leak)
-:   *Krzysztof "Tomash" Drewniak*
-
-    Not every object works quite as you expect it.
-
-    *CWs:* none.
+[Post-Self stories](/stories)
+:   Stories of all sorts written by members of the Post-Self community.
 
 [In-Character asks](ic-asks)
 :   *Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@CERESUltra](https://cohost.org/CERESUltra).*
