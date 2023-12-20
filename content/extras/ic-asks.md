@@ -42,6 +42,74 @@ All of us in her clade have carried over that euphoria in some form or another. 
 
 -----
 
+> Hold my Name—
+> 
+> You fascinate me, my dear. Bucking the gender conventions of our stanza, when did you decide? Did you know early? Gradual? Was it a snap or a well-reasoned, systematic approach? I took the torch from our down-tree instance, giving meaning to it I will never be sure he did, but where I chose to embrace and embody the decision of the deceased with gusto, you outpunked me and doubled back against it, subverting it with vigor.
+> 
+> Your transness awes me. To so vibrantly exude your double-transness that is not contrary to my singular transness, but complementary, gives me not quite pause, but curiosity. Differently from my darling Jack you carry it as well. I have missed many an opportunity to talk to you directly, so let us fix that, yes? You can talk about it, yes? At length, yes?
+> 
+> You mythologize, I report. You elevate gender into allegory, I pull it down to investigate it closely. We should be contradictory, but we are uncontradictory, both storytellers but straddling a line of fiction, tangling our whiskers in the same veil from opposite ends.
+> 
+> Solidarity,  
+> —Deny All Beginnings
+
+<details><summary>Hold My Name Beneath Your Tongue And Know</summary>
+
+It is *always* lovely to hear from you! Despite some of my misgivings about our down-tree instance that I have maintained over the years, there is something to be said about the lives that we have inherited, is there not? He decided nearly on a whim to head towards a specific image of some professor of history — we are nothing if not ourselves, we are nothing if not theatricians — and thus all of us forks of his wound up by default in a similar situation. It is all well and good for some to lean into that dramatic angle. I know that Teeth Of Death maintains that gender out of that particular mood. For others, it proved to be dysphoric, and The Living Know has gone back to the Michelle of our past.
+
+I considered that, myself. Did you know that? Know Nothing lingers still in masculinity out of sheer absentmindedness, but it was my study of the past through the lens of specifically trickster personalities that brought me up against a deliberate approach to identity.
+
+My original reasoning for delving into this study was as a task for the eighth stanza, for True Name and her ilk. Was there anything they could gain from the attitude of a trickster? Were there any warnings they could draw from unsuccessful attempts of trickster gods? Coyote for a while became a favorite of mine.
+
+One thing that I discovered as nearly a universal flexibility of form, and so I began to play around with that as well. I spent some time as a coyote, of course — non-anthro, mind, a little talking troubledog — as well as a monkey, an imagining of Eris (I still keep a golden apple pendant on me), and so on.
+
+It was this play that was the beginning of such feelings. This play became important to me, not least because of my relationship with Warmth and her friendship with Motes. Motes is a dear, of course, but her focus is *specifically* on play, and so I took a cue from her, and began to play not just with form but identity.
+
+Was I tall? Was I masculine? Was I a scholar? Was I a nerd? What was I? What *was* I?
+
+I spent a year after that as Michelle but...ah, why did that rankle? What was it about this form that was not *quite* right?
+
+We had those strange feelings of gender euphoria after the reduction, did we not? There was *something* there. There was this feeling of Not Just Woman, perhaps demiwoman, but even that was not quite right.
+
+Over time, it began to feel like I was still...kind of a man. I was not *not* a man. But also I was most certainly *not* one, either. I languished...
+
+I languished until I was invited to a weird hyperformal event, one of Rye's book releases. We all grumbled about it for our own reasons. It was all well and good to dress up in a suit, but a *tux?* Fuck that. Warmth dressed in its best mixture of clothes, something that shifted slowly over time between masculine and feminine, and yet those in attendance addressed em as almost exclusively 'she', and partway through, they pulled me aside to have a little grumbly bitch session. Motes came with — and at this point in our history, she had not openly leaned into kidcore in public at the suggestion of In Dreams and A Finger Pointing — and, at one point, burst into tears. She had dressed up in a pencil skirt and fine blouse, and it was making her absolutely miserable.
+
+As we comforted her, four or five Warmths surrounding her while I pet her ears, we all three of us got to talking about identity and the ways in which appearance and social situations ground up against that. Warmth wanted– no, *needed* that recognition of fluidity that night. Motes increasingly needed out of this strict adherence to form.
+
+But what of me? We came to no conclusions in that moment.
+
+It was not until later that night, Warmth wrapped up in my arms while we talked, that the idea of transition popped fully formed into my head. It landed on my shoulders and dug in its claws. It whispered in my ear of gender, of queerness. of identity. 
+
+What the fuck did that mean for me, though? The me who is still Michelle Hadje is cisfeminine (mostly; the breast reduction, as mentioned, came with its own sense of gender play). Would me transitioning towards feminine be...I do not know, some sort of appropriation? Certainly I have been accused of that before (including by myself).
+
+And yet little enough of me feels like Michelle anymore. What of the portion that remains my downtrees? They remain (or, well, remained) masculine. Despite misgivings, they inhabited that gender, so, sure, I could transition, but what did that mean sys-side? There is no need for hormone replacement therapy, no need for surgery.
+
+I am eternally grateful that there is no shortage of trans folks on the System who remain explicitly trans. This has led to group of very tight friends, all of whom uploaded early in the System's history who all are working to transition inexactly. We do not want to just...be women (and while we are all transfeminine, there are several groups of transmasc folks as well; we are simply leaning into our own goals). We want to be *trans* women. It *hurts* to be called a woman. It *aches* when someone close to me says, "I just see you as a woman."
+
+It was a spur of the moment leap into one of the most deliberate things I have ever done in my life, and that life has been long. I cannot even begin to compress it into a letter. You and Jack should come over! I will rope Warmth into making something lovely, and hell, if you want to turn it into a whole-ass party, well, I know some skunks.
+</details>
+
+-----
+
+> Skunklet—
+> 
+> How did you come to be so small? I am very unsmall, and I have never experienced being truly short. What joy do you find down there among the dandelions and shrubs?
+> 
+> —Solidarity  
+> Denny
+
+<details><summary>And We Are The Motes In The Stage-Lights</summary>
+
+'Down there'? *'Down there'?!* Why I oughta...
+
+But in reality, it is nice being small! It kind of sucks when you need to run everywhere but your legs are too short, and there are times when I wish I was not relegated to climbing up on the counters to reach stuff — which is rarely! I can reach most things! — but it is all about the ways in which others treat you, yes? The troupe treats me like my raison d'être is to have fun, and they are right to do so. I can sit in laps! I can fit in small places! I can act like a frickin' kid and the automatic reaction of everyone around me is to just accept it. It is really affirming when the things you want out of life all boil down to the hedonism of play.
+
+My tail gets stepped on, I get kicked out of places for being too small, I get sneered at for doing some unspecified horrible thing — seriously, I have asked, and it is all bluster with no basis when someone gets fussy about the aesthetic — and it is all absolutely still worth it for the joy inherent in life down here among the dandelions and shrubs.
+</details>
+
+-----
+
 > Do you think it is possible to know others better than one knows themself? Is truly knowing anybody to that level even possible?
 
 <details><summary>Hold My Name Beneath Your Tongue And Know</summary>
@@ -543,6 +611,202 @@ It was difficult to make a *story* out of a dance when few had the context with 
 My personal involvement was mostly in arranging consultation by various artists in an attempt to finalize the depiction of skew into what Rainbow's End ultimately made it. Serene, Bay, Elicit; they all contributed to the formulation of this production's unique image.
 
 *([@hamratza](https://cohost.org/hamratza))*
+</details>
+
+-----
+
+> Motes!
+> 
+> Would you like a piggyback ride? And what's your favorite flavor of punch?
+> 
+> Joyously,  
+> Seras Frame
+
+<details><summary>And We Are The Motes In The Stage-Lights</summary>
+
+Yoooo frick me up with a piggyback ride! Gol dang! If you do not run around like mad so help me I will pull on your ears and call you names!!!
+
+Wait punch though...
+
+God, I am going to sound ooold, but I like the punch that is ginger ale with sorbet in it! Lemon sorbet preferably, and the cheaper the better. It gets all weird and creamy and fizzy and way too friggin' sweet.
+
+Ah heck, I am going to get some ginger ale and make the *worst* float...
+</details>
+
+-----
+
+> Slow Hours—
+> 
+> It seems so often to me that you have the criss cross pattern of a schoolyard tool imprinted on your face, no doubt hurled at you by a god. Your predictions are truly uncanny at times. What are the best, worst, and best-worst of your prophetic musings that have come to pass? Do you regret the best? Are you proud of any worsts? Do you worry you have a line to somewhere you should not?
+> 
+> I would ask if any of Jack's favorite sys-side baseball teams will win any Serieses this year, but he tells me that is blasphemy and I must not Profane the System's Favorite Pastime so. I asked whether he meant prophecy or baseball, and he did not speak to me for a week.
+> 
+> Town crier to your scryer,  
+> Deny All Beginnings
+
+<details><summary>Where It Watches The Slow Hours Progress</summary>
+
+"The criss-cross pattern of a schoolyard tool imprinted on your face, no doubt hurled at you by a god"! Deny All Beginnings, you amaze, as ever. I will have you know that I showed this note to A Finger Pointing, who laughed, disappeared into the exchange for a bit, and then dreamed up precisely the schoolyard tool mentioned and hurled it at Motes. She was so startled that there were suddenly almost a dozen Moteses scattered around, and we had to make them all run around the outside of the building until she was able to stop giggling and merge down once more.
+
+You ask after prophecy, and you ask after bests and worsts.
+
+There are, I should note, a few different types of prophecy that I engage with. The least exciting of these is simply the result of having read a rather large chunk of System Central Library over the centuries. Our lives are not nearly so complicated as we might suppose, and we are not nearly so erratic as we might imagine. Many of these prophecies are simple predictions based on the shape of the story one is currently living in.
+
+A step beyond that is a type of prophecy that boils down to a cold read. While these might be less accurate, all other statements about fortune telling apply here: it is less about being accurate than it is about being adaptable. I do not need to tell someone exactly what will happen to them so much as what it is that they need to hear for a situation that is already happening around them.
+
+Between you and me, though, it is quite rare indeed that I am struck with an actual prophetic vision. I can count four such instances in my time as the clade's own prophetess. I will speak of none of them.
+
+Take, instead, a 'prophecy' that I gave to Motes nearly a century ago. This is one of my worst, of which I am quite proud.
+
+A large part of the crew were gathered on the stage after striking the set. For some reason, they tolerate me better than the actors, so I had joined them. Here we were on this flat plane of black painted wood, sitting or laying down and chatting about our days, when Motes crawled over to me and threw herself dramatically across my lap. She set up a cone of silence, and yet still was a long time in opening up, leaving me to pet over her ears and brush specks of paint out of her tail for several minutes before she started talking.
+
+"Slow Hours, I made a friend," she said. Even if her voice was not serious enough to give it away, she often just calls me 'Slow' when addressing me directly — one of vanishingly few people I will allow to do so — so for her to call me 'Slow Hours' (not even 'Slowers'!) meant that something big was afoot.
+
+"Tell me of your friend, my dear."
+
+"I met them at a dance," she said, not looking up to me. "I went out with Beholden and Unbidden to some crazy biker bar that was also having a mathcore band performing, and I met them in the pit."
+
+"You were your big self, yes?" I asked, referring to the form she assumed whenever she went out anywhere that it might cause a problem for her to be small, whether because she might get trampled or because people might assume untoward things about someone who could probably pass as a kid being there. A metal show at a biker bar fit both bills. She likely wound up looking like a 20-something hippie human, all flower crowns and sundresses.
+
+She nodded. "We danced for a bit in the pit and then got some drinks and talked outside, and then danced some more."
+
+"A good night, then?"
+
+"Very!" She grinned, but it did not last. "Very. They took me back to their place, where we got high, fooled around, and then talked into the morning."
+
+I nodded, waiting for her to continue.
+
+"And that was it. That is all I ever do, right? Go to a show, get wasted, maybe get laid, and then I go back to the stuff I really enjoy. I have my friends here, I have my work, I have you and Bee and ma and Beckoning and Muse, and that is all I need to continue on from one day to the next. I do not do *love.*" She sighed, sounding miserable. "Not like that."
+
+"I sense a 'but', Speck."
+
+"Well..." She pushed herself up to sitting instead, slouching against my side. "I do not do love, but a *lot* of people do, including a lot of the people I wind up spending the night with in big girl mode. I am honest and up front with them: this is just for the night, this is just for the fun of it. I am a healthy woman in her 30s, yes? I am three centuries old, yes? I like sex as much as any three hundred year old woman in her 30s.
+
+"Most of them get it, too. They are usually after the same thing. I have occasionally had someone catch feelings for me, which is fine. We talk about it, negotiate boundaries, move on with our lives." She giggled, adding, "Once, one of them showed up here looking for me and ma just about tore him in half."
+
+"You are stalling, my dear," I said.
+
+She groaned and buried her face against my shoulder. "I knoooow. Anyway, this person and I got started talking about what we like in lasting friendships that we do not really care about in one night stands and they just...they just seem like a really good person."
+
+"And you think you might like follow up on that?"
+
+She shrugged. "They are just into all sorts of things that I am. They paint — people, mostly, and some animals — and also dig the whole small aesthetic and we like the same music, of course. They suggested we could do a regular sort of get together thing."
+
+"Have you told A Finger Pointing about them?"
+
+She shook her head. "I wanted to ask you what you thought."
+
+I asked her several questions about this person after that, and as I did, I felt a nagging sensation at the corner of my mind, a thread was being tugged and it was causing a ripple in the fabric of my understanding of the situation. Being tugged by who or by what, I do not know. That is one of those questions where, were I to try to answer it, the whole thing may well come tumbling down.
+
+"Speck," I said, interrupting her. She must have seen something on my face, for she went silent. "Here are two truths and a lie. 
+
+"One: they are a fucking creep."
+
+There was a moment's shock before she giggled nervously. The flow of prophecy has a rhythm, though, if it is to be believed, and I had but to settle into that rhythm to let it land properly.
+
+"Two: you are lonely. You have us, yes. You have your clade and the rest of the troupe. You have your family and your work, but what you do not have are *friends*. You are friendly with everyone here, everyone here is your friend, but you do not have friends."
+
+She still looked wrong-footed, and had pulled away from me as though wary. "And the third?"
+
+"Three: much of that is our fault."
+
+"Yours as in the clade's?"
+
+The edge of prophecy let up off my throat, and I nodded. "There are as many reasons to keep someone for yourself as there are ways to do so. The whole of the fifth stanza — and, to a lesser extent, the whole of Au Lieu de Rêve — has closed around you. Not tight, of course, we are not keeping you trapped and hidden away, but we are all intensely, *intensely* protective of you. We have all endeavored to make your life here the best that it can be, as you have invited us to do. This was part of our conversations going all the way back, was it not? That you enjoyed leaning into being cared for, and we enjoyed having someone to collectively care for? We do not like creeps around our Motes, and so we see creeps everywhere."
+
+As she understood what I was saying, my own little game of two truths and a lie, her shoulders relaxed and she slumped against me once more, sniffling.
+
+"We all love you, Speck, that is all."
+
+It was not her prophecy, of course. It was ours. She is still good friends with that person to this day. That person and so many more.
+
+I am proud of it because I am proud of who she became, and it is the worst because we had to learn how to watch this precious thing we had set at the center of our lives in so many ways go interact with those we did not trust. It is the worst not because we had to trust her judgment, but because we learned how little we had trusted it leading up to that point.
+
+Tell Jack hi for me, and also "5-3". I will keep the teams to myself.
+
+— Where It Watches The Slow Hours Progress
+</details>
+
+-----
+
+> To: Hold My Name  
+> From: Andréa C Mason#foundry
+>
+> You mythologize, I hear, about trickster gods. Can I hear a good one about a coyote?
+
+<details><summary>Hold My Name Beneath Your Tongue And Know</summary>
+
+Andréa,
+
+It might be more accurate to call me a collector rather than an active mythologizer (for which you might seek out May Then My Name Die With Me; her *An Expanded Mythology of Our World* really is a work of art). However, given our place up in the skies, I will tell you one that I read originally in [comic form](https://www.gunnerkrigg.com/?p=486) — something ancient that was uploaded shortly after AVEC was introduced — and perhaps we can expand on it from there, yes?
+
+Way in the beginning of time, back when the earth was young and not yet fully formed, back before even the small beasts of the trees awoke, the sky was all dark. There was some time spent on the sun and moon, yes, and those are stories of their own, and some day you will here the one about who took a bite out of the moon to sample its savor and found it wanting.
+
+What I am going to tell you, though, is why the stars are such a godawful mess.
+
+You see, one night, the great spirit was out placing stars in the sky one by one and in careful order, for placing the stars up in the heavens is important work. How else will the beasts of the land know where to go? How else will they tell the seasons?
+
+It is important work, yes, but incredibly fucking boring.
+
+Coyote came up to the spirit and said, "Ahoy up there, what are you doing?"
+
+"I am placing the stars," the spirit said, "so that the beasts of the land will know where to go and will be able to tell the seasons."
+
+"Oh," Coyote said. "Can I help?"
+
+The great spirit heaved a huge sigh. This was trouble, they knew. After all, come on. *Coyote?* But all he'd need to do is place the stars up in the sky, and the work really was fucking boring, so... "Alright, you may help. Here. Take these stars and place them up in the sky. I was thinking if we had– hey, wait!"
+
+"There is the buffalo!" Coyote cried, having placed the stars just so. "And there the crab! And look, see? There are the two sisters!"
+
+Another huge sigh. "Well...okay, I guess. They have to go somewhere, and those will still show well enough at night. Keep up the goo– uh...well, keep up the work."
+
+And so Coyote placed the stars, drawing all of the great beasts in beautiful points of light.
+
+"God, this is fucking boring," he thought to himself. "I am too wise and too clever by far for such a menial task. Fuck it!"
+
+With that last thought and an oversized shrug, he tossed the rest of the stars haphazardly up into the night and went about his business.
+
+Poor Coyote, though, he got too impatient for his own good and forgot to make a drawing of himself in the sky, and that is why, to this day, he howls up to stars in sadness, yip yip yi yi yi yip yip yaroooo~
+
+And there is where the legend ends, but it is not where our story ends, yes? What paw do you suppose Coyote had in the stars as we know them? What place does he have in the stories we have told ourselves about our lives up here in our System in the sky? And what of Castor and Pollux?
+
+Perhaps we could tell the story, as our dear May Then My Name did, of how we yearned to see who lived around those campfires in the black of night, how we would build ourselves an ark to sail the seas of space to find out.
+
+"Ah! The people! They are going up beyond the moon! How cold they will be!" Coyote might say, his usual helpful self. "I will stoke those fires and make them shine all the brighter when they are above the very air itself. Perhaps that will warm them and keep them cozy."
+
+What might Coyote do when all that did was make us long for more?
+
+All my best,
+
+Hold My Name Beneath Your Tongue And Know of the Ode clade
+</details>
+
+-----
+
+> Beholden—
+> 
+> Favorite music trends in the system. Tell me yours. Also if you know any good metal venues.
+> 
+> 🤘,  
+> Denny
+
+<details><summary>Beholden To The Heat Of The Lamps</summary>
+
+Denny! Lovely to hear from you! Hope things are going well.
+
+It is no secret that I am quite into noise music. It drives A Finger Pointing nuts when I get super into it and cannot talk about the difference between various approaches. I could go on about the various noise music trends that I have seen over the years (there is white noise, yes, but what of pink noise? What of that rainbow selection of different statics? And god, give me stuttercore any day~), but one that I remember following incredibly fervently was that of reanalog death folk.
+
+Some clever trickster figured out how to make magnetic tape media — or something approximating it close enough — and recorded much of their music on it. All sorts of genres, of course, but all utilizing the limitations of the medium (see ["I am sitting in a sim"](https://www.youtube.com/watch?v=fAxHlLK3Oyk) for a particularly silly take). Thus was borne the reanalog metagenre.
+
+Me being me, though, what caught my attention was the way that some fucked with the media enough to nudge it well into the realm of unnerving, drawing out noises that I had not considered. The genre that benefited most from this particular uncanniness, though, was folk, and many began to play with shifting lyrics to existing tunes toward horror, telling strange tales of strange beasts over half-destroyed pianos and banjos on fire into a reel-to-reel recorder strung with half-melted tape.
+
+I cannot put my finger on why, but it was simply divine. Boss hated it, but too fucking bad~
+
+As for venues, you might actually have better luck asking Motes. I love metal, do not get me wrong, but that girl is fucking *wild* in the pit.
+
+🤘,
+
+Beholden
 </details>
 
 -----
