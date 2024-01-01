@@ -9,7 +9,10 @@ To that end, I am soliciting stories surrounding the sudden downtime and disappe
 ### The Details
 
 Word count
-:   2,000
+:   Approximately 2,000 (please ask if you are planning on writing more; I will likely say yes!)
+
+Payment
+:   Flat fee of $50
 
 Submission format
 :   MS Word, LibreOffice, or Google Docs — basically, anything I can comment on. If you want to submit LaTeX or Markdown, good on ya~
