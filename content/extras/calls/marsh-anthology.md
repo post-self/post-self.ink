@@ -29,6 +29,9 @@ Please read
 Consider joining
 :   Either the Post-Self [Telegram Group](https://makyo.io/ps-telegram) or [Discord](https://makyo.io/ps-discord)
 
+Submit by
+:   DMing on either of the above platforms or by emailing <madison@makyo.ink>
+
 ## The Synopsis
 
 The events of *Marsh* surround the sudden halting of the Lagrange System accompanied by one year, one month, and eleven days of unexplained downtime. Reed of the Marsh clade and I Remember The Rattle Of Dry Grass of the Ode clade work together to help uncover just what happened. Below is a (spoiler-filled and subject to minor changes) synopsis of the full story.
