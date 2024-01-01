@@ -82,3 +82,10 @@ h2 {
     Available to download on Itch.io, name your own price — help support writers in our community!
 
     *CWs:* transphobia; PTSD and visceral descriptions of panic.
+
+["The Way I work": <small>May Then My Name — 2324</small>](/stories/the-way-i-work)
+:   *True Name of [The Lament](https://cohost.org/hamratza)*
+
+    There was no dearth of proxmity with Ioan, but still there was a lack...
+
+    *CWs:* none.
