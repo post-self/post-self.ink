@@ -2,7 +2,7 @@
 title: Millwright
 author: Andréa C. Mason
 character: Andréa C. Mason#Millwright — 2401
-spoiler: "*Marsh*: medium"
+spoiler: "*Marsh:* medium"
 type: story
 ---
 

@@ -3,7 +3,7 @@ title: A Well-Trained Eye
 author: Andréa C. Mason
 character: Lucia Marchetti — 2401
 cw: Plain discussions of death and murder
-spoiler: "*Marsh*: medium"
+spoiler: "*Marsh:* medium"
 type: story
 ---
 
