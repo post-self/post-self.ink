@@ -5,7 +5,7 @@ character: Tomash — 2299
 type: story
 ---
 
-There were places in the System that the newly-uploaded tended to wander into, thanks to the self-reinforcing nature of “X Best Sims To Check Out When You’re New” articles and the finite set of recommendations the default tutorial construct drew from. 
+There were places in the System that the newly-uploaded tended to wander into, thanks to the self-reinforcing nature of “X Best Sims To Check Out When You’re New” articles and the finite set of recommendations the default tutorial constructs drew from. 
 
 This led to the System Emergency Response Group doing their collective best to have someone hovering around the newbie hotspots. They weren’t necessarily full perisystem technicians, with all the rights and privileges etc etc, but could talk people through fixing “Help, I forked weird!” or “Help, everything’s black and white!” or the like, and someone really new might not know they could call SERG or think to do it.
 
