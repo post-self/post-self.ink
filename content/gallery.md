@@ -7,7 +7,6 @@ type: page
 <style>
 figure, img {
     text-align: center;
-    font-size: 80%;
     display: inline-block;
     max-height: 200px;
 }
@@ -36,7 +35,7 @@ figure, img {
 }
 </style>
 
-Over the course of publication and as funded by the backers of the *Mitzvot* Kickstarter, much in the way of art surrounding the Post-Self universe and its character has accrued.
+Over the course of publication and as funded by the backers of the *Mitzvot* Kickstarter, much in the way of art surrounding the Post-Self universe and its character has accrued. Special thanks is due to [Iris Jay](https://irisjay.net) who drew the first bit of Post-Self art all the way back in 2017, and then all of the covers and some of the interior art of the Post-Self cycle. Thanks as well to [Jade](https://linktr.ee/cupsofjade), who provided the template upon which so many of the Odists are based.
 
 ## *Qoheleth and Gallery Exhibition*
 
@@ -146,11 +145,11 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 </figure>
 <figure>
     <a href="/img/gallery/lounge.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/lounge.png"></a>
-    <figcaption>Art by Roxannarachnid</figcaption>
+    <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 <figure>
     <a href="/img/gallery/what_right_have_i.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/what_right_have_i.png"></a>
-    <figcaption>Art by Roxannarachnid</figcaption>
+    <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 <!--<figure>
     <a href="/img/gallery/no_longer_myself.png"><img alt="Art by mischa" src="/img/gallery/thumbs/no_longer_myself.png"></a>
