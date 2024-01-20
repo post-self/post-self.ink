@@ -124,6 +124,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/img/gallery/mitzvot-back.png"><img src="/img/gallery/thumbs/mitzvot-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
+<figure>
+    <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/thumbs/full-of-skunks.png"/></a>
+    <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
+</figure>
 
 ## Additional art
 
@@ -159,10 +163,6 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/img/gallery/no_longer_myself.png"><img alt="Art by mischa" src="/img/gallery/thumbs/no_longer_myself.png"></a>
     <figcaption><a href="https://picrew.me/en/image_maker/644129">Picrew</a> by mischa</figcaption>
 </figure>-->
-<figure>
-    <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/thumbs/full-of-skunks.png"/></a>
-    <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
-</figure>
         
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
