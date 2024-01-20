@@ -151,6 +151,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/img/gallery/what_right_have_i.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/what_right_have_i.png"></a>
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
+<figure>
+    <a href="/img/gallery/motes.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/motes.png"></a>
+    <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
+</figure>
 <!--<figure>
     <a href="/img/gallery/no_longer_myself.png"><img alt="Art by mischa" src="/img/gallery/thumbs/no_longer_myself.png"></a>
     <figcaption><a href="https://picrew.me/en/image_maker/644129">Picrew</a> by mischa</figcaption>
