@@ -53,6 +53,9 @@ Climate crisis
 The bittersweet
 :   Uploading is one-way and destructive. There is a loss behind every upload. The System itself is built on the backs of the lost. Climate grief remains a real issue. Finding ways to deal with grief and yet find the sweet in one's new life is part and parcel of the setting.
 
+Self-inserts
+:   Imagine yourself in a world you could come to love.
+
 ## Reconsider before writing this
 
 Violence
