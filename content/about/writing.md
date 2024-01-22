@@ -54,7 +54,7 @@ The bittersweet
 :   Uploading is one-way and destructive. There is a loss behind every upload. The System itself is built on the backs of the lost. Climate grief remains a real issue. Finding ways to deal with grief and yet find the sweet in one's new life is part and parcel of the setting.
 
 Self-inserts
-:   Imagine yourself in a world you could come to love.
+:   Imagine yourself in a world you could come to love. An open universe invites you to imagine what you — yes, you! — might do with such a setting just as much as it invites you to create new characters of your own or use those of others (with permission!). The concept of a 'Mary Sue' is a toxic remnant of machismo in geek spaces and should not prevent you from exploring a lovely existence for yourself.
 
 ## Reconsider before writing this
 
