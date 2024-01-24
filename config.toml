@@ -9,9 +9,9 @@ disablePathToLower = true
     post = '/:filename/'
 
 [params]
-    author = 'Madison Scott-Clary'
-    home = 'https://makyo.ink'
-    copyright = '2020—­2022'
+    # author = 'Madison Scott-Clary'
+    # home = 'https://makyo.ink'
+    copyright = 'The Post-Self authors 2020 — 2024'
     customCSS = ['/css/toledot.css']
 
 [markup.goldmark.renderer]
