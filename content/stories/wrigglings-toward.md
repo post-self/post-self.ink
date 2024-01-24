@@ -1,5 +1,5 @@
 ---
-title: The Way I Work
+title: Wrigglings Toward
 author: 'True Name of [The Lament](https://cohost.org/hamratza)'
 plainAuthor: 'True Name of The Lament'
 character: May Then My Name — 2324

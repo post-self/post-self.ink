@@ -90,7 +90,7 @@ h2 {
 
     *CWs:* transphobia; PTSD and visceral descriptions of panic.
 
-["The Way I work": <small>May Then My Name — 2324</small>](/stories/the-way-i-work)
+["Wrigglings Toward": <small>May Then My Name — 2324</small>](/stories/wrigglings-toward)
 :   *True Name of [The Lament](https://cohost.org/hamratza)*
 
     There was no dearth of proxmity with Ioan, but still there was a lack...
