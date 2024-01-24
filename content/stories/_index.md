@@ -74,6 +74,13 @@ h2 {
 
     *CWs:* none.
 
+["Reading": <small>Rye — 2273</small>](/stories/reading)
+:   *Madison Scott-Clary*
+
+    All readings are the same, as Dear The Wheat And Rye Under The Stars well knows...
+
+    *CWs:* none.
+
 [*Unintended Tendencies*](https://jessfluf.itch.io/unintended-tendencies) — <small><em>available on Itch.io</em></small>
 :   *JL Conway*
 

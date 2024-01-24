@@ -2,6 +2,7 @@
 title: Assignment
 author: Madison Scott-Clary
 character: Ioan Bălan — 2273
+cw: Brief violence
 type: story
 ---
 

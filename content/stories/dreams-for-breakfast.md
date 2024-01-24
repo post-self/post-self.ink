@@ -2,6 +2,7 @@
 title: Dreams For Breakfast
 author: Alexandria Christina Leal
 character: In All Ways — 2383
+spoiler: "*Qoheleth:* major"
 type: story
 ---
 
