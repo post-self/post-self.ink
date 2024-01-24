@@ -9,7 +9,7 @@ disablePathToLower = true
     post = '/:filename/'
 
 [params]
-    author = 'Madison Scott-Clary'
+    # author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = '2020—­2022'
     customCSS = ['/css/toledot.css']
