@@ -2,9 +2,9 @@
 {{ define "main" }}
   <main id="main" class="story">
     <h2>{{ .Title }}</h2>
-    <h3 class="author">{{ .Params.author }}</h3>
+    <h3 class="author">{{ .Params.author | markdownify }}</h3>
     <hr/>
-    <h2 class="character">{{ .Params.character }}</h3>
+    <h2 class="character">{{ .Params.character }}</h2>
     {{ if .Params.cw }}<div class="cw">{{ .Params.cw }}</div>{{ end }}
     {{ if .Params.spoiler }}<div class="spoiler-note">{{ .Params.spoiler | markdownify }}</div>{{ end }}
 

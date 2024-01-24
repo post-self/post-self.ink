@@ -74,6 +74,13 @@ h2 {
 
     *CWs:* none.
 
+["Reading": <small>Rye — 2273</small>](/stories/reading)
+:   *Madison Scott-Clary*
+
+    All readings are the same, as Dear The Wheat And Rye Under The Stars well knows...
+
+    *CWs:* none.
+
 [*Unintended Tendencies*](https://jessfluf.itch.io/unintended-tendencies) — <small><em>available on Itch.io</em></small>
 :   *JL Conway*
 
@@ -82,3 +89,10 @@ h2 {
     Available to download on Itch.io, name your own price — help support writers in our community!
 
     *CWs:* transphobia; PTSD and visceral descriptions of panic.
+
+["Wrigglings Toward": <small>May Then My Name — 2324</small>](/stories/wrigglings-toward)
+:   *True Name of [The Lament](https://cohost.org/hamratza)*
+
+    There was no dearth of proxmity with Ioan, but still there was a lack...
+
+    *CWs:* none.

@@ -53,13 +53,16 @@ Climate crisis
 The bittersweet
 :   Uploading is one-way and destructive. There is a loss behind every upload. The System itself is built on the backs of the lost. Climate grief remains a real issue. Finding ways to deal with grief and yet find the sweet in one's new life is part and parcel of the setting.
 
+Self-inserts
+:   Imagine yourself in a world you could come to love. An open universe invites you to imagine what you — yes, you! — might do with such a setting just as much as it invites you to create new characters of your own or use those of others (with permission!). The concept of a 'Mary Sue' is a toxic remnant of machismo in geek spaces and should not prevent you from exploring a lovely existence for yourself.
+
 ## Reconsider before writing this
 
 Violence
 :   While there is some violence in the System, and obviously things remain somewhat difficult back phys-side, the core of the conflict should not boil down to or result in wanton violence. The goal is not to write of wars — political, ideological, religious, or turf — nor of punchy shooty explosiony action as the guiding plot-point. There are plenty fine settings for this; Post-Self simply is not one of them.
 
 Bigotry
-:   There are some taboos that remain, such as the one surrounding intraclade relationships (until about 2355), but there is little need to overcome adversity over identity sys-side. Explore these identities, yes. Explore the lingering effects of bigotry experienced phys-side, but there are stories of personal fulfillment to be had without necessarily focusing on these particular struggles. Actual transphobia, homophobia, racism, etc. on behalf of the authors are unwelcome and will be denounced.
+:   There are some taboos that remain, such as the one surrounding intraclade relationships (until about 2355), but there is little need to overcome adversity over identity sys-side. Explore these identities, yes. Explore the lingering effects of bigotry experienced phys-side, but there are stories of personal fulfillment to be had without necessarily focusing on these particular struggles. Actual transphobia, homophobia, racism, etc. on behalf of the authors is unwelcome and will be denounced.
 
 Using other people's characters without asking
 :   Try not to use other people's characters — even open clades such as the Ode clade — without asking. While many will say yes, this will have the added benefit of you being able to write more closely to the author's vision, as they will often have paracanon to share. Additionally, in some cases, these characters feature in the noemata of several individuals' headmates or personalities, and it's worth avoiding trampling on identities!
