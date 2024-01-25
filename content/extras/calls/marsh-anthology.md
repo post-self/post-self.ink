@@ -9,7 +9,7 @@ To that end, I am soliciting stories surrounding the sudden downtime and disappe
 ### The Details
 
 Word count
-:   Approximately 2,000 (please ask if you are planning on writing more; I will likely say yes!)
+:   Approximately 2,000–5,000 (please ask if you are planning on writing more; I will likely say yes!)
 
 Payment
 :   Flat fee of $50 and a copy of the book if accepted for print. All stories, regardless of whether they are accepted, are eligible to be included on the site as canon so long as everyone agrees.
@@ -18,7 +18,7 @@ Submission format
 :   MS Word, LibreOffice, or Google Docs — basically, anything I can comment on. If you want to submit LaTeX or Markdown, good on ya~
 
 Submission Deadline
-:   Soft deadline: April 30, 2023 / Hard deadline: May 31, 2024
+:   Soft deadline: April 30, 2024 / Hard deadline: May 31, 2024
 
 Estimated publication date
 :   August 1, 2024
