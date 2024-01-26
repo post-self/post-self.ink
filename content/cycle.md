@@ -66,3 +66,15 @@ Even the grandest of stories can feel small and immediate when it's just one per
 One of the most well-known names from one of the most well-known clades on the System, the avatar of political machinations and cool confidence, has been brought low. With help coming only from Ioan Bălan and the most grudging of support from her cocladists, all True Name has left to save herself is the ability to change. 
 
 Features the bonus novella *Selected Letters*.
+
+## Bonus Novella: [Motes Played](https://motes-played.post-self.ink)
+
+Motes played.
+
+She played because she was play. She played because that was her role in life, because that is just who she was. She played with color, played with life, played with death.
+
+She played with fire.
+
+Motes played, because how could she not?
+
+***Coming soon!***
