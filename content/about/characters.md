@@ -75,7 +75,29 @@ Commonly described as shitheads, Why Ask Questions and Answers Will Not Help sha
 
 ### Time Is A Finger Pointing At Itself
 
-A Finger Pointing is human-type Odist who has devoted herself to theatre. She's described as a somewhat taller, somewhat more slender human Odist, dressing chic and modern, but with a simple desire to be everyone's friend.
+A Finger Pointing is human-type Odist who has devoted herself to theatre. She's described as a somewhat taller, somewhat more slender human Odist, dressing chic and modern, but with a simple desire to be everyone's friend. She is the executive director and administrator for Au Lieu Du Rêve, a theatre troupe that she started early on but which has grown to include several thousand members. Flamboyant and dramatic, she suffers from bouts of intense dissociation due to merging a crashing instance in the early 2300s. In a long-running relationship with Beholden, and one of Motes's two guardians.
+
+<figure style="text-align: center">
+<img src="/img/gallery/lounge.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">“...perhaps I hum little snippets of music to you, conducting with my finger as though that will better portray my intent.”</figcaption>
+</figure>
+
+### Where It Watches The Slow Hours Progress
+
+The clade's oracle and prophetess. Her predictions are less bound up in actual prophecy than the fact that, as Au Lieu Du Rêve's script manager, she has read a *lot* and can offer insights based on generalizations from those stories. Still, many come to her for advice and for her emotional openness.
+
+### And We Are The Motes In The Stage-Lights
+
+The babiest Odist, Motes has focused her existence on play, leading to her often appearing as a young skunk, anywhere from seven to twelve. This transgressive act has caused quite a bit of drama over the years. When she isn't little, she appears as a lithe twenty-something human, often in a flower crown and flowing skirt. Big flower-child energy. She treats A Finger Pointing and Beholden as her 'parents', calling them 'Ma' and 'Bee'.
+
+<figure style="text-align: center">
+<img src="/img/gallery/motes.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">“<em>Maaa~</em>” Motes whined. “I am a grown up!”</figcaption>
+</figure>
+
+### Beholden To The Heat Of The Lamps
+
+A skunk-type Odist who is a sound tech and musician for Au Lieu Du Rêve, A Finger Pointing's partner, and the other of Motes's two guardians. She's brash and snarky, and has trouble restraining the hotter emotions due to the way she engages with the System.
 
 ## The Bălan clade
 
@@ -183,7 +205,7 @@ A 'net addict and DDR (Direct Democracy Representative) junkie from Addis Ababa,
 
 ### Sarah Genet (she/her)
 
-Sarah is a psychologist and one of the emissaries chosen to meet with the Artemisians. She later becomes a mentor for Codrin as ey works on moving towards psychology as a career. She's described as having short, gray hair and wearing business casual sorts of clothes.
+Sarah is a psychologist and one of the emissaries chosen to meet with the Artemisians. She later becomes a mentor for Codrin as ey works on moving towards psychology as a career. She's described as an indigenous Canadian woman, with long black-and-gray hair and darker skin, often wearing business casual, though she tends to meet with her clients with an appearance that matches their mode of interaction..
 
 ### Debarre (he/him)
 
