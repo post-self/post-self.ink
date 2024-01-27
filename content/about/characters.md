@@ -132,33 +132,33 @@ An occasional instance inspired by Debarre's habit of keeping a fork for his rel
 ## The Marsh clade
 
 
-### Marsh (he/him)
+### Marsh (they/them)
 
-Having gotten sick of the process of transition and uploading in the early 2220s, Marsh Hanson quickly settled in on the system, forking three times over and largely living vicariously through his forks while he focused primarily on singing and enjoying the laid-back life with his partners. In a relationship with Vos and Pierre LaFontaine.
+Having gotten sick of the process of transition and uploading in the early 2220s, Marsh Hanson quickly settled in on the system, forking three times over and largely living vicariously through their forks while they focused primarily on singing and enjoying the laid-back life with their partners. In a relationship with Vos and Pierre LaFontaine.
 
 ### Reed (he/him)
 
-*Coming soon!* In a relationship with Hanne Marie.
+Marsh's first fork, remaining transmasc after Marsh had (at first) adopted a cis-male appearance. In a relationship with Hanne Marie.
 
 ### Lily (she/her)
 
-*Coming soon!*
+Marsh's second fork, who went back to cis-female. Kind of hates the Odists, tbh.
 
-### Cress (they/them)
+### Cress (it/its)
 
-*Coming soon!* In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Tule.
+Marsh's third fork, who gave gender a miss entirely. It has adopted the identity of the littlest Marshan, and is a bit of a gremlin. In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Tule.
 
-### Rush (ve/ver)
+### Rush (ve/ver/vis)
 
-*Coming soon!*
+One of Reed's two forks, Rush is keenly interested in sims and sim artistry, and quickly becomes friends with Serene.
 
-### Tule (she/her)
+### Tule (he/him)
 
-*Coming soon!* In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Cress.
+Sedge's up-tree, and a bit of a brat. He returned to a cis-masc identity. In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Cress.
 
-### Sedge (he/him)
+### Sedge (she/her)
 
-*Coming soon!*
+Reed's other fork, focused on people and society.
 
 ## Relationships
 
