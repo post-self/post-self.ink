@@ -2,9 +2,14 @@
 title: Dramatis Personae
 ---
 
-As the Post-Self universe contains billions, you're perfectly free to create your own characters to live, work, love, and hate within the setting. The following are those included in the canon, which you are welcome to use.
+As the Post-Self universe contains billions, you're perfectly free to create your own characters to live, work, love, and hate within the setting. The following are those included in the canon.
 
 Spoilers for the Post-Self Cycle itself are marked as such: <span class="spoiler">Yikes!</span><i class="spoiler-warn"></i>. Hover to expose the spoiler.
+
+* [The Ode clade](#the-ode-clade)
+* [The Bălan clade](#the-bălan-clade)
+* [The Marsh clade](#the-marsh-clade)
+* [Additional characters](#additional-characters)
 
 ## RJ Brewster / AwDae (ey/em)
 
@@ -73,6 +78,10 @@ Another skunk-type Odist, Praiseworthy focused on shaping sentiment early on in 
 
 Commonly described as shitheads, Why Ask Questions and Answers Will Not Help shaped sentiment, with the former focusing on building camaraderie sys-side and the latter working via the text line to build support phys-side. Both are templated after the human Michelle rather than <span class="spoiler">the skunk Sasha</span><i class="spoiler-warn"></i>.
 
+### I Remember The Rattle Of Dry Grass
+
+An ex-systech who got tired of the politics involved, Dry Grass is a pretty standard human-type Odist. Hammered Silver's stanza focused on feelings of motherhood in all forms, which led to Dry Grass treating the whole of the System as her baby. She forked into In The Wind, who stayed on as a systech, and <span class="spoiler">was killed in the Century Attack in 2400</span><i class="spoiler-warn"></i>
+
 ### Time Is A Finger Pointing At Itself
 
 A Finger Pointing is human-type Odist who has devoted herself to theatre. She's described as a somewhat taller, somewhat more slender human Odist, dressing chic and modern, but with a simple desire to be everyone's friend. She is the executive director and administrator for Au Lieu Du Rêve, a theatre troupe that she started early on but which has grown to include several thousand members. Flamboyant and dramatic, she suffers from bouts of intense dissociation due to merging a crashing instance in the early 2300s. In a long-running relationship with Beholden, and one of Motes's two guardians.
@@ -134,7 +143,7 @@ An occasional instance inspired by Debarre's habit of keeping a fork for his rel
 
 ### Marsh (they/them)
 
-Having gotten sick of the process of transition and uploading in the early 2220s, Marsh Hanson quickly settled in on the system, forking three times over and largely living vicariously through their forks while they focused primarily on singing and enjoying the laid-back life with their partners. In a relationship with Vos and Pierre LaFontaine.
+Having gotten sick of the process of transition and uploading in the early 2220s, Marsh Hanson quickly settled in on the system, forking three times over and largely living vicariously through their forks while they focused primarily on singing and enjoying the laid-back life with their partners. In a relationship with Vos and Pierre LaFontaine. <span class="spoiler">They were killed in the Century Attack in 2400.</span><i class="spoiler-warn"></i>
 
 ### Reed (he/him)
 
