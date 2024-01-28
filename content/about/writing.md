@@ -28,7 +28,7 @@ The Launch
     In 2325, two separate, smaller copies of the System were launched, sent in either direction across the orbital plane. Castor and Pollux quickly made their way away from Earth while the L<sub>5</sub> System — now called Lagrange — remained behind.
 
     * *Three Systems* — One consequence of having these three Systems moving forward is that they quickly began to diverge. This was not just accounted for but, for many, an explicit goal. After two decades, Pollux began to loosen some of its social strictures and gained a leading body in the Guiding Council while Castor maintained much of the status quo until the arrival of the Artemisians.
-    * *Transmission delay* — With the high speed of the two LVs (nearly 1400kp/s), the transmission delay between Castor and Pollux and Lagrange quickly grows so that, by 2400, a message sent from Castor would arrive at Lagrange nearly four months later.
+    * *Transmission delay* — With the high speed of the two LVs (nearly 1,400 kilometers per second), the transmission delay between Castor and Pollux and Lagrange quickly grows so that, by 2400, a message sent from Castor would arrive at Lagrange nearly four months later.
 
 Artemis
 :  
