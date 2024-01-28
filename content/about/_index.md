@@ -28,4 +28,6 @@ The Post-Self universe is an open setting for exploring the ramifications of bei
 
 -----
 
+For more discussion, conversation, and community, feel free to join the [Discord server](https://makyo.io/ps-discord) or [Telegram group](https://makyo.io/ps-telegram).
+
 As an open setting, everything is free to use for your own purposes under a Creative-Commons 4.0 Attribution license. These stories wouldn't be what they are without the contributions of others; if you would like your work included here or simply have further questions, please feel free to [get in touch](https://makyo.is).
