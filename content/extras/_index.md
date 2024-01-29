@@ -54,6 +54,7 @@ h2 {
 
 ## Soundtracks
 
+
 Each book within the Post-Self Cycle, as well as many of the other stories in the setting, was written with a song or playlist running on repeat — at least for the most part. Just a little something that helped the author set the mood. While these are hardly required to enjoy the writing, they're offered as a curiosity.
 
 * [*Qoheleth and Gallery Exhibition*](https://open.spotify.com/playlist/5zRXvPUVxSuGjpzVu4N2Qw?si=8e5bdf5d974a4487) (Spotify)
@@ -64,6 +65,8 @@ Each book within the Post-Self Cycle, as well as many of the other stories in th
 * ["She Who Haunts the Storm"](https://www.youtube.com/watch?v=1lTYPvArbGo) (YouTube)
 * "Cowboy" - [1](https://open.spotify.com/track/62qiyZxpfg6wEIV6S5PE9y?si=1a6179b30b064d5a) (Spotify), [2](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc?si=9ee056fef66e491c) (Spotify)
 * ["Support Group for Anomalies in Forking"](https://youtu.be/J0taTmgq3qw) (YouTube)
+
+Beyond those, ["Getting Lost"](/getting-lost.mp3) is a piece of music written a while back which became the official soundtrack for the "RJ getting lost" scene in *Qoheleth*.
 
 ## The Post-Anthropocene
 
