@@ -13,7 +13,7 @@ Spoilers for the Post-Self Cycle itself are marked as such: <span class="spoiler
 :   The first partially successful upload, <span class="spoiler">RJ Brewster,</span><i class="spoiler-warn"></i> leads to a breakthrough and, shortly after, the foundation of the System.
 
 2117 --- ???
-*   Michelle Hadje and Debarre pool their money to upload.
+:   Michelle Hadje and Debarre pool their money to upload.
 
 2124 --- January 1
 :   Systime set at year zero, day zero in order to help manage the reputation market.
