@@ -73,6 +73,15 @@ h2 {
     Uploading to transition is not at all uncommon. What you do when you get there, though, is a story you will have to live.
 
     *CWs:* none.
+    
+["Prophecies": <small>Slow Hours — 2401</small>](/stories/prophecies)
+:   *Madison Scott-Clary*
+
+    Slow Hours and If I Dream hunt down a missing cocladist, weeks after a loss.
+
+    *CWs:* none.
+
+    *Spoilers:* references to the plot hook of *Marsh*.
 
 ["Reading": <small>Rye — 2273</small>](/stories/reading)
 :   *Madison Scott-Clary*
