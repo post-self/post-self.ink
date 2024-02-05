@@ -4,6 +4,7 @@ author: "[Madison Scott-Clary](https://makyo.ink) and [The Lament](https://cohos
 plainAuthor: "Madison Scott-Clary and The Lament"
 character: Slow Hours — 2401
 spoiler: "*Marsh:* medium"
+cw: Discussion of suicide
 type: story
 ---
 
@@ -219,7 +220,7 @@ She tapped one finger. "The first was about Qoheleth and his little...adventure.
 
 The next finger, tapped. "The second was about Michelle's death, and I will not repeat it."
 
-She tapped her ring finger. "The third happened in the midst of a play — one of my yearly performances — and in the scene, I was to fall to my knees and cry out, "The knife! At her neck, the knife!." But instead, I passed out and apparently mumbled words not in the script which tallied exactly with Sasha's experience."
+She tapped her ring finger. "The third happened in the midst of a play — one of my yearly performances — and in the scene, I was to fall to my knees and cry out, "The knife! At her neck, the knife!" But instead, I passed out and apparently mumbled words not in the script which tallied exactly with Sasha's experience."
 
 There was a moment of silence as she considered the fourth and how best to describe it, not least because of the easy comparison to What Right Have I's dream as explained. Finally, she tapped her pinkie "The fourth was a dream of a core part of me being removed through the back of my neck, a disappearing from the world and becoming a ghost in the next. There was more that I do not understand, visions of a field, a park, but I had that dream every night on the five nights leading up to New Year's."
 
@@ -259,7 +260,7 @@ She nodded. "May Then My Name went on to say that Michelle thought that perhaps 
 
 If I Dream nodded slowly. "Far be it from me to dispel what curtains keep despair from leading you after her."
 
-She laughed and shook her head.
+She laughed and shook her head. "There is no suicide in me, thankfully."
 
 "When I received her sensorium message, I nearly refused to attend out of protest. I think many of us saw the writing on the walls when we heard that uncertain steeliness in her voice."
 
@@ -273,7 +274,7 @@ Alarmed at the sudden shift in demeanor, Slow Hours scooted a few inches closer 
 
 She accepted with a grateful — if still wan — smile.
 
-Slow Hours returned that smile, saying quietly, "That was the dream I had, you know. The premonition. An upwelling of joy and then an overflowing. She looked up to the sun, up to the RJ, and then they were one and the same, and it was all joy."
+Slow Hours returned that smile, saying quietly, "That was the dream I had, you know. The premonition. An upwelling of joy and then an overflowing. She looked up to the sun, up to RJ, and then they were one and the same, and it was all joy."
 
 At this, What Right Have I burst into tears. She did not cry prettily, but very few people did. It was a brief cry, however, and soon after she scooted back to the furthest limit of the cone of silence and drew her legs up onto the couch with her, growling as she did, "Slow Hours, you are the fucking worst."
 
