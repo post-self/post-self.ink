@@ -75,7 +75,7 @@ If one percent of the population of Infinite Café was missing, Slow Hours could
 
 The sim was dead simple: it consisted of one, long road set into a thin torus. A truly enormous torus: when she looked up, she saw a bright thread directly above them where the road had curved up into an arch hanging in the heavens, and yet the road seemed perfectly flat as far as she could see.
 
-Lining either side of the street were entrances to cafes. Cafes, coffee shops, doors leading out into libraries with coffee cards, alleyways leading out into sims where coffee was hawked from handcarts, dusty steps leading up into marketplaces where vendors boiled their coffee in their cezves in great vats of sand set over wood fires. Anywhere that served coffee to cladists that wanted was free to create an exit that lead out into Infinite Café, and over the two centuries of its existence, it had grown from a labyrinthine maze of buildings to the ring-road that it was today.
+Lining either side of the street were entrances to cafes. Cafes, coffee shops, doors leading out into libraries with coffee cards, alleyways leading out into sims where coffee was hawked from handcarts, dusty steps leading up into marketplaces where vendors boiled their coffee in their cezves in great vats of sand set over wood fires. Anywhere that served coffee to cladists that wanted was free to create an exit that led out into Infinite Café, and over the two centuries of its existence, it had grown from a labyrinthine maze of buildings to the ring-road that it was today.
 
 She had no clue how it worked, if it really was that big, but the sheer size of the System had been driven home quite effectively over the last few weeks — 23 *billion* dead! The number remained surreal — so she was hopeful that there were no tricks involved, no attempts to make it look bigger than it was.
 
@@ -97,7 +97,7 @@ The reaction was far more extreme than expected as the skunk let out a shriek an
 
 Both Slow Hours and If I Dream took a pace back, startled.
 
-In the span of three seconds, the skunk seemed to get her bearings and comprehend just who was standing in front of her. She visibly worked on mastering her breathing as she stood up straighter, brushing her paws anxiously down over her shirt. "Ah...I, ah...Slow Hours?"
+In the span of a few short seconds, the skunk seemed to get her bearings and comprehend just who was standing in front of her. She visibly worked on mastering her breathing as she stood up straighter, brushing her paws anxiously down over her shirt. "Ah...I, ah...Slow Hours?"
 
 She bowed slowly, deliberately, so as not to startle the skunk any further, and nodded. "Yes, and And If I Dream, Is That Not So." She held out the extra mocha. "We got you a coffee, What Right Have I. Would you like to join us?"
 
