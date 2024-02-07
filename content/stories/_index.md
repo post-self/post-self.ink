@@ -60,6 +60,13 @@ h2 {
 
     *CWs:* references to some of the grosser aspects of having a body.
 
+["For Old Times New": <small>Sierra — 2207</small>](/stories/for-old-times-new)
+:   *JL Conway*
+
+    From old body to new, from old life to now.
+
+    *CWs:* none.
+
 ["Meeting of One": <small>Ioan Bălan — 2309</small>](/stories/meeting-of-one)
 :   *Madison Scott-Clary*
 
