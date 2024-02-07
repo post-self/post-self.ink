@@ -90,6 +90,13 @@ h2 {
 
     *CWs:* none.
 
+["Shared Moment": <small>Ioan Bălan —  2326</small>](/stories/shared-moment)
+:   *Madison Scott-Clary*
+
+    An exploration of the sensuality of sensorium play between skunks and Bălans.
+
+    *CWs:* vague description of sex.
+
 [*Unintended Tendencies*](https://jessfluf.itch.io/unintended-tendencies) — <small><em>available on Itch.io</em></small>
 :   *JL Conway*
 
