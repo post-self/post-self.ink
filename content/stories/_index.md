@@ -75,11 +75,11 @@ h2 {
     *CWs:* none.
     
 ["Prophecies": <small>Slow Hours — 2401</small>](/stories/prophecies)
-:   *Madison Scott-Clary*
+:   *Madison Scott-Clary with No Longer Myself of [The Lament](https://cohost.org/hamratza)*
 
     Slow Hours and If I Dream hunt down a missing cocladist, weeks after a loss.
 
-    *CWs:* none.
+    *CWs:* discussions of suicide.
 
     *Spoilers:* references to the plot hook of *Marsh*.
 

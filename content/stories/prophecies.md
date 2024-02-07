@@ -1,6 +1,6 @@
 ---
 title: Prophecies
-author: "[Madison Scott-Clary](https://makyo.ink) and [The Lament](https://cohost.org/hamratza)"
+author: "[Madison Scott-Clary](https://makyo.ink) and No Longer Myself of [The Lament](https://cohost.org/hamratza)"
 plainAuthor: "Madison Scott-Clary and The Lament"
 character: Slow Hours — 2401
 spoiler: "*Marsh:* medium"
