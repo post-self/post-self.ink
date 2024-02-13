@@ -80,6 +80,13 @@ h2 {
     Uploading to transition is not at all uncommon. What you do when you get there, though, is a story you will have to live.
 
     *CWs:* none.
+
+["The Party": <small>Scout At The Party III — 2325</small>](/stories/the-party)
+:   *Krzysztof "Tomash" Drewniak*
+
+    The Party *never* stops. There is a dog in this one~
+
+    *CWs:* none.
     
 ["Prophecies": <small>Slow Hours — 2401</small>](/stories/prophecies)
 :   *Madison Scott-Clary with No Longer Myself of [The Lament](https://cohost.org/hamratza)*
