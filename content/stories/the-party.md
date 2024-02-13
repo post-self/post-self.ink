@@ -1,7 +1,7 @@
 ﻿---
 title: The Party
 author: 'Krzysztof "Tomash" Drewniak'
-character: Scout At The Party III — 2325
+character: Scout At The Party III — 2323
 type: story
 ---
 

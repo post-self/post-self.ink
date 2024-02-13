@@ -81,7 +81,7 @@ h2 {
 
     *CWs:* none.
 
-["The Party": <small>Scout At The Party III — 2325</small>](/stories/the-party)
+["The Party": <small>Scout At The Party III — 2323</small>](/stories/the-party)
 :   *Krzysztof "Tomash" Drewniak*
 
     The Party *never* stops. There is a dog in this one~
