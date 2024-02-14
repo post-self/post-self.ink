@@ -26,6 +26,7 @@ Character playlists are offered both to give a sense of the characters' moods wh
 
 
 * [A Finger Pointing](characters/a-finger-pointing) — ([Spotify](https://open.spotify.com/playlist/2QYpTCKwIgEsKdS2inwa40?si=2b6332ae2b5e456c))
+* [A Finger Pointing](characters/always-be-true) — ([Spotify](https://open.spotify.com/playlist/6sZjQCew4KWDr2A5WH8GqY?si=e75f6ea9164a453f))
 * [Beholden](characters/beholden) — ([Spotify](https://open.spotify.com/playlist/4Ss7qZaqKcHMKIyW6BDIOJ?si=2113e9d0038d4d54))
 * [Dry Grass](characters/dry-grass) — ([Spotify](https://open.spotify.com/playlist/50CL0FiPgekXLmL8482CNY?si=438bc6db1d0a4467))
 * [E.W.](characters/e.w.) — ([Spotify](https://open.spotify.com/playlist/1miAzrALWxOkGThXRWdcJv?si=d13cb68e2ca04e18))
