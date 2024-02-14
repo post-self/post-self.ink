@@ -1,6 +1,7 @@
 ---
 title: Scan
 author: Voksa
+type: story
 ---
 
 *Scratch.*
