@@ -1,5 +1,5 @@
 ---
-title: "Selected Letters" playlist
+title: '"Selected Letters" playlist'
 ---
 
 <style>
