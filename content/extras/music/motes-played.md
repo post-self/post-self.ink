@@ -24,165 +24,165 @@ tbody tr:nth-of-type(odd) td {
 
 Cover | Artist | Song
 ---|---|---
-![cover](https://i.scdn.co/image/ab67616d0000b273893c781963fecb327b72ace9) | Frequent, Hudson Lee | Day Bird Collection
-![cover](https://i.scdn.co/image/ab67616d0000b2732276fcae73b8292ff9f535d7) | Tanger | Fizzy
-![cover](https://i.scdn.co/image/ab67616d0000b2731aecf1be4abdaf034f1644fc) | Shawn Wasabi, Hollis | OTTER POP (feat. Hollis)
-![cover](https://i.scdn.co/image/ab67616d0000b2730c67ab993d8e939e97cf7a3f) | Iglooghost | Bug Thief
-![cover](https://i.scdn.co/image/ab67616d0000b273051072e090d3d4feec298ecf) | Mega Mango | Boggle
-![cover](https://i.scdn.co/image/ab67616d0000b2738e50b79439a7a5963ab226f9) | Mouse On Mars | Dark Fx
-![cover](https://i.scdn.co/image/ab67616d0000b2738e50b79439a7a5963ab226f9) | Mouse On Mars | Scat
-![cover](https://i.scdn.co/image/ab67616d0000b2738e50b79439a7a5963ab226f9) | Mouse On Mars | Tux & Damask
-![cover](https://i.scdn.co/image/ab67616d0000b273500bc2b0252702c2a283e05d) | Mouse On Mars | Subsequence
-![cover](https://i.scdn.co/image/ab67616d0000b2735d49aa262146f0ae77ac248c) | Lusine | Jetstream
-![cover](https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707) | Ruth B. | Dandelions
-![cover](https://i.scdn.co/image/ab67616d0000b273074d5ab948ef74abb81c72aa) | Floating Points | Argente
-![cover](https://i.scdn.co/image/ab67616d0000b273a86c559998e76b1ad224593e) | Xguiz, Patricia Taxxon | Eeeaaaooo
-![cover](https://i.scdn.co/image/ab67616d0000b27356a0c0875dcc31de1bedc8a2) | múm | Awake On A Train
-![cover](https://i.scdn.co/image/ab67616d0000b273b54ec40992b902c78cce6fc2) | Jaga Jazzist | Animal Chin
-![cover](https://i.scdn.co/image/ab67616d0000b273b72a9d837f452f4a26dbdb17) | Vernon Jane | Praying 2 Angels
-![cover](https://i.scdn.co/image/ab67616d0000b2737eb10b2afaa6acf4f06d1fe9) | Haywyre | Dichotomy (Soft Mix)
-![cover](https://i.scdn.co/image/ab67616d0000b2738861f524bf76770ab01bfaf3) | Dillon Francis, Diplo, Maluca | Que Que feat. Maluca
-![cover](https://i.scdn.co/image/ab67616d0000b2731e5655cd8db911dc48ea57df) | Röyksopp | Eple
-![cover](https://i.scdn.co/image/ab67616d0000b273f711d2bba1597631de553f30) | Ronald Jenkees | Rhodes Deep
-![cover](https://i.scdn.co/image/ab67616d0000b273d23da10dae735da2a2137d21) | Eliminate | Elevator
-![cover](https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31) | Grant, Juneau | Are We Still Young
-![cover](https://i.scdn.co/image/ab67616d0000b273d6f89ead7d3e8f8f7180ba4a) | Amon Tobin | Three Different Hat Sizes
-![cover](https://i.scdn.co/image/ab67616d0000b2739236314a5d47e2b2277ca028) | Amon Tobin, MC Decimal R. | Verbal
-![cover](https://i.scdn.co/image/ab67616d0000b273cf3a190c70153a796ceba06e) | Botany | Quatic
-![cover](https://i.scdn.co/image/ab67616d0000b2738a89678ce2f57157e450367f) | Little Big | Skibidi
-![cover](https://i.scdn.co/image/ab67616d0000b273b6172b74321e9d6b4067dcc6) | Mason, Princess Superstar, 1991 | Perfect (Exceeder) - 1991 Remix
-![cover](https://i.scdn.co/image/ab67616d0000b2736e415c25972cc9c91dd1034c) | xxanteria, isq | FUNKED UP
-![cover](https://i.scdn.co/image/ab67616d0000b273b1f8e7c90fbffff33cb74254) | Creeds | Push Up - Main Edit
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | For Fork's Sake
-![cover](https://i.scdn.co/image/ab67616d0000b27376e00b301f85f1f06eae1fb0) | Chrome Sparks | Marijuana
-![cover](https://i.scdn.co/image/ab67616d0000b273819ab8998b63ed9b13869714) | Floex | Veronika's Dream
-![cover](https://i.scdn.co/image/ab67616d0000b27342441274f17f8a78fb731d0b) | Owen Pallett | Lewis Takes Action
-![cover](https://i.scdn.co/image/ab67616d0000b273c79d79c7382a4abac96b9a64) | Kyroshie | Please Tell Me It's A Joke
-![cover](https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce) | Florence + The Machine | Dog Days Are Over
-![cover](https://i.scdn.co/image/ab67616d0000b27357a0868419086b576553c9f4) | The Temper Trap | Sweet Disposition
-![cover](https://i.scdn.co/image/ab67616d0000b273526ee4d30f2b85f21733a400) | Mouse On Mars | Stereomission
-![cover](https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256) | Have A Nice Life | A Quick One Before the Eternal Worm Devours Connecticut
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | Give Them Their Flowers
-![cover](https://i.scdn.co/image/ab67616d0000b27308055aec18017da3e0c20451) | Anna Ternheim | No, I Don't Remember
-![cover](https://i.scdn.co/image/ab67616d0000b273ce86ff5c9994b6602c53b408) | aYia | Ruins
-![cover](https://i.scdn.co/image/ab67616d0000b273d494ebde80e2e7b3d939f4b5) | Portico Quartet | Knee-Deep in the North Sea
-![cover](https://i.scdn.co/image/ab67616d0000b273cc3ba24bf6a546b0d2006f52) | Melt Yourself Down | Fix My Life
-![cover](https://i.scdn.co/image/ab67616d0000b273622aad38b9cf8427604fedad) | Bent Knee | Bone Rage
-![cover](https://i.scdn.co/image/ab67616d0000b2737a293e6787c6d200c5077cd0) | Glass Animals | Pools
-![cover](https://i.scdn.co/image/ab67616d0000b273526ee4d30f2b85f21733a400) | Mouse On Mars | Kompod
-![cover](https://i.scdn.co/image/ab67616d0000b273526ee4d30f2b85f21733a400) | Mouse On Mars | Kanu
-![cover](https://i.scdn.co/image/ab67616d0000b273ebbf7aa425d138d80526e8cf) | SHSTR | Artificial Sunset
-![cover](https://i.scdn.co/image/ab67616d0000b273accb4d95e5cea5dd79b1bd33) | SHSTR | The Exile
-![cover](https://i.scdn.co/image/ab67616d0000b273840a10a7c83412aaa88da77c) | SHSTR | The Lamb and the Wolf
-![cover](https://i.scdn.co/image/ab67616d0000b27374ccab111fff4672dfb4658b) | SHSTR | Sightless Eyes
-![cover](https://i.scdn.co/image/ab67616d0000b273363c9fa3f1a3e220b2167aa3) | Never Get Used To People | Life Letters
-![cover](https://i.scdn.co/image/ab67616d0000b273742fd457ea284dea9dea9b7d) | Buke & Gase | Houdini Crush
-![cover](https://i.scdn.co/image/ab67616d0000b2731b3a2a2ea44af3c48fd29e97) | Esperanza Spalding | Good Lava
-![cover](https://i.scdn.co/image/ab67616d0000b273c6f2495546bb40537616eb60) | Long Arm | Double Bass in Love
-![cover](https://i.scdn.co/image/ab67616d0000b273eff807787f8672a666e30270) | Gramatik, Branx | Future Crypto
-![cover](https://i.scdn.co/image/ab67616d0000b273927479bd4ec3a2b1e39008a4) | Vernon Jane | Fuck Me
-![cover](https://i.scdn.co/image/ab67616d0000b273b1b697603608639ae637f05f) | Juno Reactor | God Is God
-![cover](https://i.scdn.co/image/ab67616d0000b2738f3207fbfd5d640292671a99) | DROELOE | Only Be Me
-![cover](https://i.scdn.co/image/ab67616d0000b2731c60d216c55dbf149c6ed5cb) | Four Tet, Jon Hopkins | Angel Echoes - Jon Hopkins Remix
-![cover](https://i.scdn.co/image/ab67616d0000b273bbc87dd5388d9a98e80650a4) | Phoebe Bridgers | Motion Sickness
-![cover](https://i.scdn.co/image/ab67616d0000b273cf99fb1bb1233723fe843dfd) | Jhariah | PRESSURE BOMB 3?!?!
-![cover](https://i.scdn.co/image/ab67616d0000b2731942942ae881543bc1dcb0ba) | Haywyre | Do You Don't You
-![cover](https://i.scdn.co/image/ab67616d0000b273699c6d0199bad947d149164c) | Lemon Jelly | Page One
-![cover](https://i.scdn.co/image/ab67616d0000b273cd7b367f1bd3334bea9e4629) | Haywyre | Never Count On Me
-![cover](https://i.scdn.co/image/ab67616d0000b273f591aef1b15cc573c7b1f723) | MUST DIE!, Ducky | DELETE IT ALL
-![cover](https://i.scdn.co/image/ab67616d0000b27316fb5bc719537be45f523675) | lapix | Day by day - PSYQUI Remix
-![cover](https://i.scdn.co/image/ab67616d0000b2734689abc811f92fc406725ab8) | The Buttress | Brutus (Instrumental)
-![cover](https://i.scdn.co/image/ab67616d0000b27391a7b59acf90fe18a990e0ba) | Moon Bounce | Drugs
-![cover](https://i.scdn.co/image/ab67616d0000b27319a5a313f4f0bcfd6e3666f6) | Space Laces | Vaultage 003
-![cover](https://i.scdn.co/image/ab67616d0000b2739cffdbaa35db043007004646) | Kayzo, Kamiyada+, Tisoki | NEWS FLASH (Tisoki Remix)
-![cover](https://i.scdn.co/image/ab67616d0000b273a74d2df3c63ce043b4e1a19e) | Space Laces | D.A.W
-![cover](https://i.scdn.co/image/ab67616d0000b2737328042d710a1980ebdd22d0) | Ceptre | Rapt
-![cover](https://i.scdn.co/image/ab67616d0000b273b43f7160340ec0ce9c9afa13) | Runnit | nasti
-![cover](https://i.scdn.co/image/ab67616d0000b273c1a03fa6d1be3516e59d36a5) | Stickleback | Nasti
-![cover](https://i.scdn.co/image/ab67616d0000b2736ed172b2b91a59e3cc2ee811) | ellis | Feel That Way
-![cover](https://i.scdn.co/image/ab67616d0000b27364ba66f8a81c52364e55db50) | Jain | Come
-![cover](https://i.scdn.co/image/ab67616d0000b2737cca4395c425dc79f33bcf87) | Rubik | Sun's Eyes
-![cover](https://i.scdn.co/image/ab67616d0000b273d37d023cf0ddb1440f659ee3) | TV On The Radio | Quartz
-![cover](https://i.scdn.co/image/ab67616d0000b2735c2d2f43471655dbbf3d6284) | Air | How Does It Make You Feel?
-![cover](https://i.scdn.co/image/ab67616d0000b273821a60729c6196cd2779989b) | Donovans | Yo !
-![cover](https://i.scdn.co/image/ab67616d0000b27329ea3bffb307b4e4e08d95df) | Donovans | Rise & Fall
-![cover](https://i.scdn.co/image/ab67616d0000b273a558bba4e0ff7640173b6ee3) | gladde paling | hap slik weg
-![cover](https://i.scdn.co/image/ab67616d0000b2732d8a8343765a8bd1427955d5) | ratbag | rats in my walls
-![cover](https://i.scdn.co/image/ab67616d0000b273311c63e970c5e1ba4b1d8f7d) | Cheese People | Доля риска
-![cover](https://i.scdn.co/image/ab67616d0000b2732cac6cdd00b2389aae3b99f0) | SWRSLT | Pretty Cvnt
-![cover](https://i.scdn.co/image/ab67616d0000b2733162adab44a7b757b9a52be8) | GRiZ, Chrishira Perrier | Feel It All
-![cover](https://i.scdn.co/image/ab67616d0000b2731d6e42482766237da3c595c1) | KOAN Sound | Liquid Levity
-![cover](https://i.scdn.co/image/ab67616d0000b27350e07370e79f30b0e76ab878) | The Cinematic Orchestra | Ode To The Big Sea
-![cover](https://i.scdn.co/image/ab67616d0000b273c2eef9f8d1212c80ed4ee399) | Hiatus Kaiyote | Malika
-![cover](https://i.scdn.co/image/ab67616d0000b273f4b7f65c78aa3618241c55db) | Amon Tobin | Bridge
-![cover](https://i.scdn.co/image/ab67616d0000b27340faefaf8ebe0e1564c60faa) | Men I Trust | Show Me How
-![cover](https://i.scdn.co/image/ab67616d0000b273b54ec40992b902c78cce6fc2) | Jaga Jazzist | Airborne
-![cover](https://i.scdn.co/image/ab67616d0000b2736ebeab4e72eaefa1b6c113a0) | The Flashbulb | Morning Run
-![cover](https://i.scdn.co/image/ab67616d0000b27300c1bd4d3221c1fa0755d37f) | Blockhead | Carnivores Unite
-![cover](https://i.scdn.co/image/ab67616d0000b273c2eef9f8d1212c80ed4ee399) | Hiatus Kaiyote | Rainbow Rhodes
-![cover](https://i.scdn.co/image/ab67616d0000b273d70c7a9f3435163e3861d75d) | BADBADNOTGOOD, Leland Whitty | Confessions (feat. Leland Whitty)
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | Ashes in the Hudson
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | Lord of Them Thangs
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | Boundary Issues
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | Greetings and Incelutations
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | The Candy Tangerine Man
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | Let's Play the Feud!
-![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | Werewolves Love Astrology
-![cover](https://i.scdn.co/image/ab67616d0000b27314b74358028a458cc883b8ef) | Amon Tobin | Chocolate Lovely
-![cover](https://i.scdn.co/image/ab67616d0000b273ee16233ff903986da09a898f) | The Cinematic Orchestra | Man With The Movie Camera
-![cover](https://i.scdn.co/image/ab67616d0000b2739d79304570739ac3a8c74bda) | Bill Laurance | The Good Things
-![cover](https://i.scdn.co/image/ab67616d0000b2736640b684d7477deec1fcb522) | Camo & Krooked, Mefjus, Sophie Lindinger | No Tomorrow
-![cover](https://i.scdn.co/image/ab67616d0000b2730914fd646d3e393d40ae2511) | Lemon Jelly | '64 aka Go
-![cover](https://i.scdn.co/image/ab67616d0000b2736f3c3c8c677633eddf0517d6) | Dusty Brown | This City Is Killing Me
-![cover](https://i.scdn.co/image/ab67616d0000b273577f1941d32878bb27d968b0) | ALEPH | R.E.M.
-![cover](https://i.scdn.co/image/ab67616d0000b2733ed2040062461c6574ead4e9) | Telefon Tel Aviv | When It Happens, It Moves All by Itself
-![cover](https://i.scdn.co/image/ab67616d0000b2739b5bdd9d727c80a7a27dbb20) | SOHN | Life Behind Glass
-![cover](https://i.scdn.co/image/ab67616d0000b273c380c82f7dfca69200a92dc2) | London Grammar | Leave the War With Me
-![cover](https://i.scdn.co/image/ab67616d0000b273279f543931f11336014c3c95) | phonon | emme
-![cover](https://i.scdn.co/image/ab67616d0000b273a1b384dcc5a0363318099e94) | Bear Ghost, Dan E.T. | Rivers Is A Vampire
-![cover](https://i.scdn.co/image/ab67616d0000b2735779dc6da25c7d84dfcca2c9) | Alamaailman Vasarat | Kebab Tai Henki!
-![cover](https://i.scdn.co/image/ab67616d0000b27385acb5e0d6230859ff978b79) | Fiona Apple | Waltz (Better Than Fine)
-![cover](https://i.scdn.co/image/ab67616d0000b2732668f40dbcf8d22c9050618e) | YACHT | I Walked Alone
-![cover](https://i.scdn.co/image/ab67616d0000b273827910beacaa1e8afeac2dad) | Daedelus | Order of the Golden Dawn
-![cover](https://i.scdn.co/image/ab67616d0000b27355c36b119246303f8e3b7dc7) | Tomasz Stanko Quartet | Kattorna
-![cover](https://i.scdn.co/image/ab67616d0000b273fb488cdc7e53268b2dcc3972) | Boom Bip | The Use of Unacceptable Colours In Nature
-![cover](https://i.scdn.co/image/ab67616d0000b27319277ed7a3c1c687f78a3705) | Dave Brubeck | 40 Days
-![cover](https://i.scdn.co/image/ab67616d0000b27319991109309463c762c06f51) | Skalpel | Sculpture
-![cover](https://i.scdn.co/image/ab67616d0000b273360fbcb4447bc276e7e088c5) | Clark | Secret
-![cover](https://i.scdn.co/image/ab67616d0000b2731f2304d124b12c2a8ce32d4b) | Siriusmo | Liu
-![cover](https://i.scdn.co/image/ab67616d0000b2732a0dbc2e0ddf29a6ab9c5347) | Shigeto | First Saturn Return
-![cover](https://i.scdn.co/image/ab67616d0000b2736178fb678abf4c167a6c4f8d) | The Cinematic Orchestra | Flite
-![cover](https://i.scdn.co/image/ab67616d0000b27336b0223c100bc8c704f006bf) | Savath & Savalas | Te Quiero Pero Por Otro Lado…
-![cover](https://i.scdn.co/image/ab67616d0000b2739ab9b4e0d804541ca54c3f6c) | Oliver Nelson | Stolen Moments
-![cover](https://i.scdn.co/image/ab67616d0000b2731954af81832fc1f4f7b03ed4) | Ibrahim Maalouf | Will Soon Be a Woman (Live au Babylon Istanbul, 2013)
-![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | Ewà Inú
-![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | Dide O
-![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | Soul Searching
-![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | Those Good Times
-![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | Interlude
-![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | Something's Going On
-![cover](https://i.scdn.co/image/ab67616d0000b273b95853b13f6e126ec9d60234) | Kokoroko | Ti-de
-![cover](https://i.scdn.co/image/ab67616d0000b273b95853b13f6e126ec9d60234) | Kokoroko | Uman
-![cover](https://i.scdn.co/image/ab67616d0000b273b9f03c795d66ad87e332b968) | João Donato | Manha de Carnaval
-![cover](https://i.scdn.co/image/ab67616d0000b273292018d60c3e04f17656657a) | Elis Regina, Antônio Carlos Jobim | Só Tinha De Ser Com Você
-![cover](https://i.scdn.co/image/ab67616d0000b273292018d60c3e04f17656657a) | Elis Regina, Antônio Carlos Jobim | Fotografia
-![cover](https://i.scdn.co/image/ab67616d0000b273467fd6c9ae12de0010c74442) | Antônio Carlos Jobim | Children's Games
-![cover](https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713) | beabadoobee | the perfect pair
-![cover](https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345) | DOMi & JD BECK | SMiLE
-![cover](https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345) | DOMi & JD BECK | WHATUP
-![cover](https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345) | DOMi & JD BECK, Thundercat | BOWLiNG (feat. Thundercat)
-![cover](https://i.scdn.co/image/ab67616d0000b273c987f3065db2496cb4405c90) | Robert Glasper, Q-Tip, Esperanza Spalding | Why We Speak [Feat. Q-Tip & Esperanza Spalding]
-![cover](https://i.scdn.co/image/ab67616d0000b273fb09059712b04a41041a5688) | All Day Breakfast Cafe | What If Nile Rodgers And Fela Kuti Were Friends
-![cover](https://i.scdn.co/image/ab67616d0000b27330af6692277dc63d50c176b4) | Camilla George, SANITY, Daru Jones | Creation - Abasi and Atai
-![cover](https://i.scdn.co/image/ab67616d0000b2738ccf59dd549e90aad1bf5290) | The Comet Is Coming | LUCID DREAMER
-![cover](https://i.scdn.co/image/ab67616d0000b273308abb89edeb9f883a5ab3a9) | atlas, Flavors | valentine (prod. flavors)
-![cover](https://i.scdn.co/image/ab67616d0000b2736212b9b52064b3b25f2594ec) | Haywyre | Memory
-![cover](https://i.scdn.co/image/ab67616d0000b2737eb10b2afaa6acf4f06d1fe9) | Haywyre, CoMa | Time
-![cover](https://i.scdn.co/image/ab67616d0000b2737eb10b2afaa6acf4f06d1fe9) | Haywyre, Galimatias | Voice of Reason
-![cover](https://i.scdn.co/image/ab67616d0000b273a2df9a029e51cfa5b753201f) | Moonchild | The List
-![cover](https://i.scdn.co/image/ab67616d0000b273c2eef9f8d1212c80ed4ee399) | Hiatus Kaiyote | Mobius Streak
-![cover](https://i.scdn.co/image/ab67616d0000b27376cdf64feeebb27ac290d498) | PJ Morton, Yebba | How Deep Is Your Love (feat. Yebba) - Live
-![cover](https://i.scdn.co/image/ab67616d0000b273adcbc39826f86b391921bdae) | Dana and Alden, quickly\, quickly | Coconut Water
-![cover](https://i.scdn.co/image/ab67616d0000b2732df1aeeb5f869e571883f4ad) | Clara Mendes | Útil Paisagem
-![cover](https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748) | Thundercat | Them Changes
-![cover](https://i.scdn.co/image/ab67616d0000b2731c0bcf8b536295438d26c70d) | Justice | D.A.N.C.E
+![cover](https://i.scdn.co/image/ab67616d0000b273893c781963fecb327b72ace9) | Frequent, Hudson Lee | [Day Bird Collection](https://open.spotify.com/track/1urjjr3cLpybRiEznRSWCZ)
+![cover](https://i.scdn.co/image/ab67616d0000b2732276fcae73b8292ff9f535d7) | Tanger | [Fizzy](https://open.spotify.com/track/6hfhtkLH4rLw269iz9HBSf)
+![cover](https://i.scdn.co/image/ab67616d0000b2731aecf1be4abdaf034f1644fc) | Shawn Wasabi, Hollis | [OTTER POP (feat. Hollis)](https://open.spotify.com/track/1svyhZJQcGnrTbrxBLBs1x)
+![cover](https://i.scdn.co/image/ab67616d0000b2730c67ab993d8e939e97cf7a3f) | Iglooghost | [Bug Thief](https://open.spotify.com/track/58jMrMZePOvsOUmR7VlKT3)
+![cover](https://i.scdn.co/image/ab67616d0000b273051072e090d3d4feec298ecf) | Mega Mango | [Boggle](https://open.spotify.com/track/6FEisGZPcJyGwSpuhH1fMx)
+![cover](https://i.scdn.co/image/ab67616d0000b2738e50b79439a7a5963ab226f9) | Mouse On Mars | [Dark Fx](https://open.spotify.com/track/1tmJ32a3LobK9pl4aByeF8)
+![cover](https://i.scdn.co/image/ab67616d0000b2738e50b79439a7a5963ab226f9) | Mouse On Mars | [Scat](https://open.spotify.com/track/3JIr1H6SDv5nsoIZODjoJy)
+![cover](https://i.scdn.co/image/ab67616d0000b2738e50b79439a7a5963ab226f9) | Mouse On Mars | [Tux & Damask](https://open.spotify.com/track/19LLkcqajBXHAQzmjLUEfg)
+![cover](https://i.scdn.co/image/ab67616d0000b273500bc2b0252702c2a283e05d) | Mouse On Mars | [Subsequence](https://open.spotify.com/track/1CTVpwNjl9CpD7gWCTNBYq)
+![cover](https://i.scdn.co/image/ab67616d0000b2735d49aa262146f0ae77ac248c) | Lusine | [Jetstream](https://open.spotify.com/track/0zF983pbnmNCo9SnikVVJK)
+![cover](https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707) | Ruth B. | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV)
+![cover](https://i.scdn.co/image/ab67616d0000b273074d5ab948ef74abb81c72aa) | Floating Points | [Argente](https://open.spotify.com/track/6s4vrjTbMNjZues9hgBThf)
+![cover](https://i.scdn.co/image/ab67616d0000b273a86c559998e76b1ad224593e) | Xguiz, Patricia Taxxon | [Eeeaaaooo](https://open.spotify.com/track/6tOJm3QnlnZkJiahtwpCnG)
+![cover](https://i.scdn.co/image/ab67616d0000b27356a0c0875dcc31de1bedc8a2) | múm | [Awake On A Train](https://open.spotify.com/track/6ZxIstaskZ8NB75dT9ek6P)
+![cover](https://i.scdn.co/image/ab67616d0000b273b54ec40992b902c78cce6fc2) | Jaga Jazzist | [Animal Chin](https://open.spotify.com/track/3IjHy89TBmOOK8nXYgqqo7)
+![cover](https://i.scdn.co/image/ab67616d0000b273b72a9d837f452f4a26dbdb17) | Vernon Jane | [Praying 2 Angels](https://open.spotify.com/track/5NuF9WI6vGQTQBC6CWCK81)
+![cover](https://i.scdn.co/image/ab67616d0000b2737eb10b2afaa6acf4f06d1fe9) | Haywyre | [Dichotomy (Soft Mix)](https://open.spotify.com/track/55yophjUCQIrtEz39wF2bL)
+![cover](https://i.scdn.co/image/ab67616d0000b2738861f524bf76770ab01bfaf3) | Dillon Francis, Diplo, Maluca | [Que Que feat. Maluca](https://open.spotify.com/track/5P4QvdBL9aJ3ldf3GpfEy6)
+![cover](https://i.scdn.co/image/ab67616d0000b2731e5655cd8db911dc48ea57df) | Röyksopp | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM)
+![cover](https://i.scdn.co/image/ab67616d0000b273f711d2bba1597631de553f30) | Ronald Jenkees | [Rhodes Deep](https://open.spotify.com/track/1qlmJohzYG5IarRCsw00oj)
+![cover](https://i.scdn.co/image/ab67616d0000b273d23da10dae735da2a2137d21) | Eliminate | [Elevator](https://open.spotify.com/track/7ARzyH5VceCD3kKf6IxnOx)
+![cover](https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31) | Grant, Juneau | [Are We Still Young](https://open.spotify.com/track/7zPAsqqz9M5qcpG42YUiug)
+![cover](https://i.scdn.co/image/ab67616d0000b273d6f89ead7d3e8f8f7180ba4a) | Amon Tobin | [Three Different Hat Sizes](https://open.spotify.com/track/2LuWhwbo3qrcihwcC2Bx5j)
+![cover](https://i.scdn.co/image/ab67616d0000b2739236314a5d47e2b2277ca028) | Amon Tobin, MC Decimal R. | [Verbal](https://open.spotify.com/track/1ywyrSc0CxI1XZnkbr14Nc)
+![cover](https://i.scdn.co/image/ab67616d0000b273cf3a190c70153a796ceba06e) | Botany | [Quatic](https://open.spotify.com/track/55FIhKMfZMj7tQyHcpSGOR)
+![cover](https://i.scdn.co/image/ab67616d0000b2738a89678ce2f57157e450367f) | Little Big | [Skibidi](https://open.spotify.com/track/4F4TGsDYacEbw4PLAIyJ2e)
+![cover](https://i.scdn.co/image/ab67616d0000b273b6172b74321e9d6b4067dcc6) | Mason, Princess Superstar, 1991 | [Perfect (Exceeder) - 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM)
+![cover](https://i.scdn.co/image/ab67616d0000b2736e415c25972cc9c91dd1034c) | xxanteria, isq | [FUNKED UP](https://open.spotify.com/track/5NtwTPKQLkAG5XC0Vj6L2l)
+![cover](https://i.scdn.co/image/ab67616d0000b273b1f8e7c90fbffff33cb74254) | Creeds | [Push Up - Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [For Fork's Sake](https://open.spotify.com/track/6PEkG1LPQyGVQ5oygu06eO)
+![cover](https://i.scdn.co/image/ab67616d0000b27376e00b301f85f1f06eae1fb0) | Chrome Sparks | [Marijuana](https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG)
+![cover](https://i.scdn.co/image/ab67616d0000b273819ab8998b63ed9b13869714) | Floex | [Veronika's Dream](https://open.spotify.com/track/4Wn5jRULq1MDfPrCAFVoDH)
+![cover](https://i.scdn.co/image/ab67616d0000b27342441274f17f8a78fb731d0b) | Owen Pallett | [Lewis Takes Action](https://open.spotify.com/track/0KLqnvSoVbaACrINlRSQma)
+![cover](https://i.scdn.co/image/ab67616d0000b273c79d79c7382a4abac96b9a64) | Kyroshie | [Please Tell Me It's A Joke](https://open.spotify.com/track/3deGyGagr9nKqWGNwP3zn6)
+![cover](https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce) | Florence + The Machine | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB)
+![cover](https://i.scdn.co/image/ab67616d0000b27357a0868419086b576553c9f4) | The Temper Trap | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd)
+![cover](https://i.scdn.co/image/ab67616d0000b273526ee4d30f2b85f21733a400) | Mouse On Mars | [Stereomission](https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc)
+![cover](https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256) | Have A Nice Life | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [Give Them Their Flowers](https://open.spotify.com/track/4Jk4YA2grRN78jjyT9uGmM)
+![cover](https://i.scdn.co/image/ab67616d0000b27308055aec18017da3e0c20451) | Anna Ternheim | [No, I Don't Remember](https://open.spotify.com/track/4CJfc5n3E4JhmQMFjTdUbp)
+![cover](https://i.scdn.co/image/ab67616d0000b273ce86ff5c9994b6602c53b408) | aYia | [Ruins](https://open.spotify.com/track/2JhEXmr3ncmiQkQZW74Wza)
+![cover](https://i.scdn.co/image/ab67616d0000b273d494ebde80e2e7b3d939f4b5) | Portico Quartet | [Knee-Deep in the North Sea](https://open.spotify.com/track/3GiL4UBkcDmqe8xu1oJoo2)
+![cover](https://i.scdn.co/image/ab67616d0000b273cc3ba24bf6a546b0d2006f52) | Melt Yourself Down | [Fix My Life](https://open.spotify.com/track/5iDydsj3Vdz4qg785ZUtvb)
+![cover](https://i.scdn.co/image/ab67616d0000b273622aad38b9cf8427604fedad) | Bent Knee | [Bone Rage](https://open.spotify.com/track/3w6ZkYtNRwgbQ7qxnRpHRK)
+![cover](https://i.scdn.co/image/ab67616d0000b2737a293e6787c6d200c5077cd0) | Glass Animals | [Pools](https://open.spotify.com/track/7jO2B8Xgfu7D9vj60XiG7Y)
+![cover](https://i.scdn.co/image/ab67616d0000b273526ee4d30f2b85f21733a400) | Mouse On Mars | [Kompod](https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc)
+![cover](https://i.scdn.co/image/ab67616d0000b273526ee4d30f2b85f21733a400) | Mouse On Mars | [Kanu](https://open.spotify.com/track/7emTzJKcEo7Vcp1yyvh8LV)
+![cover](https://i.scdn.co/image/ab67616d0000b273ebbf7aa425d138d80526e8cf) | SHSTR | [Artificial Sunset](https://open.spotify.com/track/7MTuE4hteeNswkLiBG66Gx)
+![cover](https://i.scdn.co/image/ab67616d0000b273accb4d95e5cea5dd79b1bd33) | SHSTR | [The Exile](https://open.spotify.com/track/0wx8nqsbTrMFvSIcpwqijE)
+![cover](https://i.scdn.co/image/ab67616d0000b273840a10a7c83412aaa88da77c) | SHSTR | [The Lamb and the Wolf](https://open.spotify.com/track/63oHO87MSNEWltvOr20joT)
+![cover](https://i.scdn.co/image/ab67616d0000b27374ccab111fff4672dfb4658b) | SHSTR | [Sightless Eyes](https://open.spotify.com/track/50aeJUmtwDth4DB682Jbvm)
+![cover](https://i.scdn.co/image/ab67616d0000b273363c9fa3f1a3e220b2167aa3) | Never Get Used To People | [Life Letters](https://open.spotify.com/track/29VdNzgJIxzlIDkIYjFQqS)
+![cover](https://i.scdn.co/image/ab67616d0000b273742fd457ea284dea9dea9b7d) | Buke & Gase | [Houdini Crush](https://open.spotify.com/track/5Rejc9qWWqmQC3Hb0aGeEz)
+![cover](https://i.scdn.co/image/ab67616d0000b2731b3a2a2ea44af3c48fd29e97) | Esperanza Spalding | [Good Lava](https://open.spotify.com/track/0SdxGQpFy67zAxNWQ0ftml)
+![cover](https://i.scdn.co/image/ab67616d0000b273c6f2495546bb40537616eb60) | Long Arm | [Double Bass in Love](https://open.spotify.com/track/3LPkWEdyDKmHM5SkMzSeZP)
+![cover](https://i.scdn.co/image/ab67616d0000b273eff807787f8672a666e30270) | Gramatik, Branx | [Future Crypto](https://open.spotify.com/track/77fWIj4wQz8EKpDRkoPK6R)
+![cover](https://i.scdn.co/image/ab67616d0000b273927479bd4ec3a2b1e39008a4) | Vernon Jane | [Fuck Me](https://open.spotify.com/track/1u8lE1YTkgQrXnMpPpVUC6)
+![cover](https://i.scdn.co/image/ab67616d0000b273b1b697603608639ae637f05f) | Juno Reactor | [God Is God](https://open.spotify.com/track/4c3AIVL5VlvlwqzPMkEenX)
+![cover](https://i.scdn.co/image/ab67616d0000b2738f3207fbfd5d640292671a99) | DROELOE | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv)
+![cover](https://i.scdn.co/image/ab67616d0000b2731c60d216c55dbf149c6ed5cb) | Four Tet, Jon Hopkins | [Angel Echoes - Jon Hopkins Remix](https://open.spotify.com/track/62Ws0LPi5yZJ7nWMdN8ZcI)
+![cover](https://i.scdn.co/image/ab67616d0000b273bbc87dd5388d9a98e80650a4) | Phoebe Bridgers | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT)
+![cover](https://i.scdn.co/image/ab67616d0000b273cf99fb1bb1233723fe843dfd) | Jhariah | [PRESSURE BOMB 3?!?!](https://open.spotify.com/track/2QZbSC8GZPSLXVL4ezviiL)
+![cover](https://i.scdn.co/image/ab67616d0000b2731942942ae881543bc1dcb0ba) | Haywyre | [Do You Don't You](https://open.spotify.com/track/55XVu6sTO9XyNEuu3OEijK)
+![cover](https://i.scdn.co/image/ab67616d0000b273699c6d0199bad947d149164c) | Lemon Jelly | [Page One](https://open.spotify.com/track/1W1dZcvhTJbZ6kQYB6SvM0)
+![cover](https://i.scdn.co/image/ab67616d0000b273cd7b367f1bd3334bea9e4629) | Haywyre | [Never Count On Me](https://open.spotify.com/track/18Ex4J57MhJ7ou358jFXFx)
+![cover](https://i.scdn.co/image/ab67616d0000b273f591aef1b15cc573c7b1f723) | MUST DIE!, Ducky | [DELETE IT ALL](https://open.spotify.com/track/5O07W27wy7OxoRLT71zlkB)
+![cover](https://i.scdn.co/image/ab67616d0000b27316fb5bc719537be45f523675) | lapix | [Day by day - PSYQUI Remix](https://open.spotify.com/track/5kiluGP5yfujqTwMLin7nZ)
+![cover](https://i.scdn.co/image/ab67616d0000b2734689abc811f92fc406725ab8) | The Buttress | [Brutus (Instrumental)](https://open.spotify.com/track/0m5xMNMK48sQVjASd4YPPt)
+![cover](https://i.scdn.co/image/ab67616d0000b27391a7b59acf90fe18a990e0ba) | Moon Bounce | [Drugs](https://open.spotify.com/track/1dS2BDYFU52VfFQoWqticB)
+![cover](https://i.scdn.co/image/ab67616d0000b27319a5a313f4f0bcfd6e3666f6) | Space Laces | [Vaultage 003](https://open.spotify.com/track/1eQF4JMgSGhbG6ODZs2saB)
+![cover](https://i.scdn.co/image/ab67616d0000b2739cffdbaa35db043007004646) | Kayzo, Kamiyada+, Tisoki | [NEWS FLASH (Tisoki Remix)](https://open.spotify.com/track/7C4nn81sUVe0QWqDPJiyGw)
+![cover](https://i.scdn.co/image/ab67616d0000b273a74d2df3c63ce043b4e1a19e) | Space Laces | [D.A.W](https://open.spotify.com/track/2qiNqpbZzziUVJdVe45hGg)
+![cover](https://i.scdn.co/image/ab67616d0000b2737328042d710a1980ebdd22d0) | Ceptre | [Rapt](https://open.spotify.com/track/4ViE0MdFlkprHTPRkUXcWE)
+![cover](https://i.scdn.co/image/ab67616d0000b273b43f7160340ec0ce9c9afa13) | Runnit | [nasti](https://open.spotify.com/track/3M1lmzO08DlyE64hZeyGxU)
+![cover](https://i.scdn.co/image/ab67616d0000b273c1a03fa6d1be3516e59d36a5) | Stickleback | [Nasti](https://open.spotify.com/track/3b6m0TTQTWIM9sWfPcnI02)
+![cover](https://i.scdn.co/image/ab67616d0000b2736ed172b2b91a59e3cc2ee811) | ellis | [Feel That Way](https://open.spotify.com/track/1qMak6TgZIdfcCzuGIAZyU)
+![cover](https://i.scdn.co/image/ab67616d0000b27364ba66f8a81c52364e55db50) | Jain | [Come](https://open.spotify.com/track/02R2z7JWV0G8VuU1xs58OB)
+![cover](https://i.scdn.co/image/ab67616d0000b2737cca4395c425dc79f33bcf87) | Rubik | [Sun's Eyes](https://open.spotify.com/track/6BSx590I5G70vsLSgUOtQK)
+![cover](https://i.scdn.co/image/ab67616d0000b273d37d023cf0ddb1440f659ee3) | TV On The Radio | [Quartz](https://open.spotify.com/track/0xXmPzAdGlPBaJ0csqYxYs)
+![cover](https://i.scdn.co/image/ab67616d0000b2735c2d2f43471655dbbf3d6284) | Air | [How Does It Make You Feel?](https://open.spotify.com/track/4IoqGTH2D6zMrGzg9gW0DL)
+![cover](https://i.scdn.co/image/ab67616d0000b273821a60729c6196cd2779989b) | Donovans | [Yo !](https://open.spotify.com/track/3aqo7jZDEYfdMf54batJE2)
+![cover](https://i.scdn.co/image/ab67616d0000b27329ea3bffb307b4e4e08d95df) | Donovans | [Rise & Fall](https://open.spotify.com/track/49063mI7ykBk32B7sc1JFg)
+![cover](https://i.scdn.co/image/ab67616d0000b273a558bba4e0ff7640173b6ee3) | gladde paling | [hap slik weg](https://open.spotify.com/track/0y002KpsM1aIDJALtmT7j7)
+![cover](https://i.scdn.co/image/ab67616d0000b2732d8a8343765a8bd1427955d5) | ratbag | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL)
+![cover](https://i.scdn.co/image/ab67616d0000b273311c63e970c5e1ba4b1d8f7d) | Cheese People | [Доля риска](https://open.spotify.com/track/0nPnpl0Y5h4tVdMylsXAPZ)
+![cover](https://i.scdn.co/image/ab67616d0000b2732cac6cdd00b2389aae3b99f0) | SWRSLT | [Pretty Cvnt](https://open.spotify.com/track/2CTcTL788DBaFLnc6QJSzv)
+![cover](https://i.scdn.co/image/ab67616d0000b2733162adab44a7b757b9a52be8) | GRiZ, Chrishira Perrier | [Feel It All](https://open.spotify.com/track/6bD33B9oE9ZtilNhHUpOBz)
+![cover](https://i.scdn.co/image/ab67616d0000b2731d6e42482766237da3c595c1) | KOAN Sound | [Liquid Levity](https://open.spotify.com/track/4GZlLTrZY7rU7iTaFkvBQi)
+![cover](https://i.scdn.co/image/ab67616d0000b27350e07370e79f30b0e76ab878) | The Cinematic Orchestra | [Ode To The Big Sea](https://open.spotify.com/track/7bRUWmwVk8zpZtWfER4DjW)
+![cover](https://i.scdn.co/image/ab67616d0000b273c2eef9f8d1212c80ed4ee399) | Hiatus Kaiyote | [Malika](https://open.spotify.com/track/1rFmHtg8I3YxF22TFkbOKP)
+![cover](https://i.scdn.co/image/ab67616d0000b273f4b7f65c78aa3618241c55db) | Amon Tobin | [Bridge](https://open.spotify.com/track/5OI6WSmcih616fK3njeXUJ)
+![cover](https://i.scdn.co/image/ab67616d0000b27340faefaf8ebe0e1564c60faa) | Men I Trust | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn)
+![cover](https://i.scdn.co/image/ab67616d0000b273b54ec40992b902c78cce6fc2) | Jaga Jazzist | [Airborne](https://open.spotify.com/track/60W51PvuIPnEZFeDxUQYvZ)
+![cover](https://i.scdn.co/image/ab67616d0000b2736ebeab4e72eaefa1b6c113a0) | The Flashbulb | [Morning Run](https://open.spotify.com/track/42ABM8zfyW0FAZiozJO5Dz)
+![cover](https://i.scdn.co/image/ab67616d0000b27300c1bd4d3221c1fa0755d37f) | Blockhead | [Carnivores Unite](https://open.spotify.com/track/56oUD9ZzgSSDFgvLHxoWyZ)
+![cover](https://i.scdn.co/image/ab67616d0000b273c2eef9f8d1212c80ed4ee399) | Hiatus Kaiyote | [Rainbow Rhodes](https://open.spotify.com/track/1VEJWBbeBbOX6N0UwXlM3x)
+![cover](https://i.scdn.co/image/ab67616d0000b273d70c7a9f3435163e3861d75d) | BADBADNOTGOOD, Leland Whitty | [Confessions (feat. Leland Whitty)](https://open.spotify.com/track/1K5RjfNOb6OLnQcAUv6M6b)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [Ashes in the Hudson](https://open.spotify.com/track/6IWLG6T4gRPxT8WQ1dS1F2)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [Lord of Them Thangs](https://open.spotify.com/track/1K7jVq5hzZBpMnIk0ptsFx)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [Boundary Issues](https://open.spotify.com/track/3MF02Y0lVDHnpmz3u0nlwQ)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [Greetings and Incelutations](https://open.spotify.com/track/7qF55f0MwuBq6UKuTlj7sH)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [The Candy Tangerine Man](https://open.spotify.com/track/0Vh6OLJT82qI74sD6ha38l)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [Let's Play the Feud!](https://open.spotify.com/track/4YNtqYKNGQnpSvAFLWyK6E)
+![cover](https://i.scdn.co/image/ab67616d0000b273a8268ac1aa5aea0a37b0b59e) | Blockhead | [Werewolves Love Astrology](https://open.spotify.com/track/6h5b7Xb7SZcdDhVRiEXUrK)
+![cover](https://i.scdn.co/image/ab67616d0000b27314b74358028a458cc883b8ef) | Amon Tobin | [Chocolate Lovely](https://open.spotify.com/track/4C8GnT67x8TIdU0WGBGMi8)
+![cover](https://i.scdn.co/image/ab67616d0000b273ee16233ff903986da09a898f) | The Cinematic Orchestra | [Man With The Movie Camera](https://open.spotify.com/track/5JB5F9iGwQqALGClKdeOky)
+![cover](https://i.scdn.co/image/ab67616d0000b2739d79304570739ac3a8c74bda) | Bill Laurance | [The Good Things](https://open.spotify.com/track/7drkN9v3cX4CqA8gTq3pPB)
+![cover](https://i.scdn.co/image/ab67616d0000b2736640b684d7477deec1fcb522) | Camo & Krooked, Mefjus, Sophie Lindinger | [No Tomorrow](https://open.spotify.com/track/4KaYnQBP5CUorQKKuKmRUO)
+![cover](https://i.scdn.co/image/ab67616d0000b2730914fd646d3e393d40ae2511) | Lemon Jelly | ['64 aka Go](https://open.spotify.com/track/6ycMDFsh41kYb20qMpcaYP)
+![cover](https://i.scdn.co/image/ab67616d0000b2736f3c3c8c677633eddf0517d6) | Dusty Brown | [This City Is Killing Me](https://open.spotify.com/track/1sIVrEY8WNhQNpON9BmXTd)
+![cover](https://i.scdn.co/image/ab67616d0000b273577f1941d32878bb27d968b0) | ALEPH | [R.E.M.](https://open.spotify.com/track/62eu93RUHKTIg9bm6VZ6WS)
+![cover](https://i.scdn.co/image/ab67616d0000b2733ed2040062461c6574ead4e9) | Telefon Tel Aviv | [When It Happens, It Moves All by Itself](https://open.spotify.com/track/3iWujTdDJSoD5szrWFGaRF)
+![cover](https://i.scdn.co/image/ab67616d0000b2739b5bdd9d727c80a7a27dbb20) | SOHN | [Life Behind Glass](https://open.spotify.com/track/6f9qcrWRocvwwCJmXTgrDb)
+![cover](https://i.scdn.co/image/ab67616d0000b273c380c82f7dfca69200a92dc2) | London Grammar | [Leave the War With Me](https://open.spotify.com/track/5TcC7QvyRQfoIImqtgkY6n)
+![cover](https://i.scdn.co/image/ab67616d0000b273279f543931f11336014c3c95) | phonon | [emme](https://open.spotify.com/track/3p15F46vmAIGEdwHEApt4i)
+![cover](https://i.scdn.co/image/ab67616d0000b273a1b384dcc5a0363318099e94) | Bear Ghost, Dan E.T. | [Rivers Is A Vampire](https://open.spotify.com/track/5Ej4QdOFpwulV2GPWbfp6T)
+![cover](https://i.scdn.co/image/ab67616d0000b2735779dc6da25c7d84dfcca2c9) | Alamaailman Vasarat | [Kebab Tai Henki!](https://open.spotify.com/track/4i80bt0e0qtfuYDUJe2mjG)
+![cover](https://i.scdn.co/image/ab67616d0000b27385acb5e0d6230859ff978b79) | Fiona Apple | [Waltz (Better Than Fine)](https://open.spotify.com/track/7neXV046ou4CNN9wyFAED6)
+![cover](https://i.scdn.co/image/ab67616d0000b2732668f40dbcf8d22c9050618e) | YACHT | [I Walked Alone](https://open.spotify.com/track/6kfSLLnpy0dADpQMYNRGBM)
+![cover](https://i.scdn.co/image/ab67616d0000b273827910beacaa1e8afeac2dad) | Daedelus | [Order of the Golden Dawn](https://open.spotify.com/track/35y3vuKI65sR7xDN1Bmms5)
+![cover](https://i.scdn.co/image/ab67616d0000b27355c36b119246303f8e3b7dc7) | Tomasz Stanko Quartet | [Kattorna](https://open.spotify.com/track/1ADj39oPKmDPh7jyXHexc5)
+![cover](https://i.scdn.co/image/ab67616d0000b273fb488cdc7e53268b2dcc3972) | Boom Bip | [The Use of Unacceptable Colours In Nature](https://open.spotify.com/track/40AV6TtV4wwy5SpC2pwue1)
+![cover](https://i.scdn.co/image/ab67616d0000b27319277ed7a3c1c687f78a3705) | Dave Brubeck | [40 Days](https://open.spotify.com/track/11lsAp77IGBuiBNiZXxG5K)
+![cover](https://i.scdn.co/image/ab67616d0000b27319991109309463c762c06f51) | Skalpel | [Sculpture](https://open.spotify.com/track/7sftbhGr5Zffdmfqc8Vn3r)
+![cover](https://i.scdn.co/image/ab67616d0000b273360fbcb4447bc276e7e088c5) | Clark | [Secret](https://open.spotify.com/track/21bLnN0PsCgWfXfNEQf70n)
+![cover](https://i.scdn.co/image/ab67616d0000b2731f2304d124b12c2a8ce32d4b) | Siriusmo | [Liu](https://open.spotify.com/track/3JFBwzNht1BKVJVJLG44Cm)
+![cover](https://i.scdn.co/image/ab67616d0000b2732a0dbc2e0ddf29a6ab9c5347) | Shigeto | [First Saturn Return](https://open.spotify.com/track/3tfnKNTdXxLzllMod7gDFN)
+![cover](https://i.scdn.co/image/ab67616d0000b2736178fb678abf4c167a6c4f8d) | The Cinematic Orchestra | [Flite](https://open.spotify.com/track/1g7bl2LDCom7jtX2EmHRSF)
+![cover](https://i.scdn.co/image/ab67616d0000b27336b0223c100bc8c704f006bf) | Savath & Savalas | [Te Quiero Pero Por Otro Lado…](https://open.spotify.com/track/2ihEokHX5A4ZSgEOJu7gky)
+![cover](https://i.scdn.co/image/ab67616d0000b2739ab9b4e0d804541ca54c3f6c) | Oliver Nelson | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG)
+![cover](https://i.scdn.co/image/ab67616d0000b2731954af81832fc1f4f7b03ed4) | Ibrahim Maalouf | [Will Soon Be a Woman (Live au Babylon Istanbul, 2013)](https://open.spotify.com/track/64xWIjAe9NhyJCSqQWzp9s)
+![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | [Ewà Inú](https://open.spotify.com/track/6dSoU34pWjbjZG2gt9gnqH)
+![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | [Dide O](https://open.spotify.com/track/7COHkKOtDI7qSl5tIBaZYN)
+![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | [Soul Searching](https://open.spotify.com/track/3N7ytAAHbxItaopO4YYULB)
+![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | [Those Good Times](https://open.spotify.com/track/2qXrlThrUo2ePdQ1KUHGiU)
+![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | [Interlude](https://open.spotify.com/track/7KPa4A0Lfo8AuxKhj2OBUi)
+![cover](https://i.scdn.co/image/ab67616d0000b27377d3373f3a1b49fdf3a170f3) | Kokoroko | [Something's Going On](https://open.spotify.com/track/7e9ReVRPkkpBGG4R1as4xI)
+![cover](https://i.scdn.co/image/ab67616d0000b273b95853b13f6e126ec9d60234) | Kokoroko | [Ti-de](https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf)
+![cover](https://i.scdn.co/image/ab67616d0000b273b95853b13f6e126ec9d60234) | Kokoroko | [Uman](https://open.spotify.com/track/6PcUrU7NeRBg7i1GPE1Wyu)
+![cover](https://i.scdn.co/image/ab67616d0000b273b9f03c795d66ad87e332b968) | João Donato | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht)
+![cover](https://i.scdn.co/image/ab67616d0000b273292018d60c3e04f17656657a) | Elis Regina, Antônio Carlos Jobim | [Só Tinha De Ser Com Você](https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt)
+![cover](https://i.scdn.co/image/ab67616d0000b273292018d60c3e04f17656657a) | Elis Regina, Antônio Carlos Jobim | [Fotografia](https://open.spotify.com/track/4O2tMlIxlgRwmNQDElwIq4)
+![cover](https://i.scdn.co/image/ab67616d0000b273467fd6c9ae12de0010c74442) | Antônio Carlos Jobim | [Children's Games](https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P)
+![cover](https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713) | beabadoobee | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a)
+![cover](https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345) | DOMi & JD BECK | [SMiLE](https://open.spotify.com/track/1HJXdfuWc6IlKBMLtITaHD)
+![cover](https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345) | DOMi & JD BECK | [WHATUP](https://open.spotify.com/track/4VOWwshTx9YrUpAGD9IzqA)
+![cover](https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345) | DOMi & JD BECK, Thundercat | [BOWLiNG (feat. Thundercat)](https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq)
+![cover](https://i.scdn.co/image/ab67616d0000b273c987f3065db2496cb4405c90) | Robert Glasper, Q-Tip, Esperanza Spalding | [Why We Speak [Feat. Q-Tip & Esperanza Spalding]](https://open.spotify.com/track/7tQESAjUFNA4vi6xVOTjoQ)
+![cover](https://i.scdn.co/image/ab67616d0000b273fb09059712b04a41041a5688) | All Day Breakfast Cafe | [What If Nile Rodgers And Fela Kuti Were Friends](https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA)
+![cover](https://i.scdn.co/image/ab67616d0000b27330af6692277dc63d50c176b4) | Camilla George, SANITY, Daru Jones | [Creation - Abasi and Atai](https://open.spotify.com/track/2Yjaf4MMGPFiEQgAO0WrQ0)
+![cover](https://i.scdn.co/image/ab67616d0000b2738ccf59dd549e90aad1bf5290) | The Comet Is Coming | [LUCID DREAMER](https://open.spotify.com/track/0mubGHecC0YHTmO2pp9EJ1)
+![cover](https://i.scdn.co/image/ab67616d0000b273308abb89edeb9f883a5ab3a9) | atlas, Flavors | [valentine (prod. flavors)](https://open.spotify.com/track/5mpv8gh1F6B7e2OdytGZ6l)
+![cover](https://i.scdn.co/image/ab67616d0000b2736212b9b52064b3b25f2594ec) | Haywyre | [Memory](https://open.spotify.com/track/7gOMB2W8ylgZkuQFagFsx2)
+![cover](https://i.scdn.co/image/ab67616d0000b2737eb10b2afaa6acf4f06d1fe9) | Haywyre, CoMa | [Time](https://open.spotify.com/track/1BjfvCbE0KIHenBZdd1Wxn)
+![cover](https://i.scdn.co/image/ab67616d0000b2737eb10b2afaa6acf4f06d1fe9) | Haywyre, Galimatias | [Voice of Reason](https://open.spotify.com/track/3NwRDwchI8iCk8Ru3gpUoV)
+![cover](https://i.scdn.co/image/ab67616d0000b273a2df9a029e51cfa5b753201f) | Moonchild | [The List](https://open.spotify.com/track/5mWh956KP56IWMbLBfxdqj)
+![cover](https://i.scdn.co/image/ab67616d0000b273c2eef9f8d1212c80ed4ee399) | Hiatus Kaiyote | [Mobius Streak](https://open.spotify.com/track/08o9yCplgxLM11ymhvkbl8)
+![cover](https://i.scdn.co/image/ab67616d0000b27376cdf64feeebb27ac290d498) | PJ Morton, Yebba | [How Deep Is Your Love (feat. Yebba) - Live](https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf)
+![cover](https://i.scdn.co/image/ab67616d0000b273adcbc39826f86b391921bdae) | Dana and Alden, quickly\, quickly | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh)
+![cover](https://i.scdn.co/image/ab67616d0000b2732df1aeeb5f869e571883f4ad) | Clara Mendes | [Útil Paisagem](https://open.spotify.com/track/4DuE8wVFGkhuA5GmZqkZcz)
+![cover](https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748) | Thundercat | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM)
+![cover](https://i.scdn.co/image/ab67616d0000b2731c0bcf8b536295438d26c70d) | Justice | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ)

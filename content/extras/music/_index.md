@@ -27,6 +27,7 @@ Character playlists are offered both to give a sense of the characters' moods wh
 
 * [A Finger Pointing](characters/a-finger-pointing) — ([Spotify](https://open.spotify.com/playlist/2QYpTCKwIgEsKdS2inwa40?si=2b6332ae2b5e456c))
 * [Always Be True](characters/always-be-true) — ([Spotify](https://open.spotify.com/playlist/6sZjQCew4KWDr2A5WH8GqY?si=e75f6ea9164a453f))
+* [Answers Will Not Help](characters/answers-will-not-help) — ([Spotify](https://open.spotify.com/playlist/0FzQ5SfYOAT9lnc25j59pA?si=5e8ca90ca46549fb))
 * [Beholden](characters/beholden) — ([Spotify](https://open.spotify.com/playlist/4Ss7qZaqKcHMKIyW6BDIOJ?si=2113e9d0038d4d54))
 * [Dry Grass](characters/dry-grass) — ([Spotify](https://open.spotify.com/playlist/50CL0FiPgekXLmL8482CNY?si=438bc6db1d0a4467))
 * [E.W.](characters/e.w.) — ([Spotify](https://open.spotify.com/playlist/1miAzrALWxOkGThXRWdcJv?si=d13cb68e2ca04e18))
@@ -40,4 +41,5 @@ Character playlists are offered both to give a sense of the characters' moods wh
 * [Warmth In Fire](characters/warmth-in-fire) — ([Spotify](https://open.spotify.com/playlist/0ibAeEhpT8z72TjY09b8E7?si=5680a91de60743fe))
 * [What Right Have I](characters/what-right-have-i) — ([Spotify](https://open.spotify.com/playlist/6PDUAk3udMZhPAWZXYRcfe?si=4ae948eeb7e946bb))
 * [When I Dream](characters/when-i-dream) — ([Spotify](https://open.spotify.com/playlist/6CaNEK3PFX0Yf13eU8eeBA?si=5e8ca36318894ff0))
+* [Why Ask Questions](characters/why-ask-questions) — ([Spotify](https://open.spotify.com/playlist/57rJvNrpPa3cdvP7uCHO3T?si=97c23893c9e74584))
 
