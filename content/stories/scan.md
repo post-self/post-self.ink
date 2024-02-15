@@ -12,7 +12,7 @@ main blockquote {
     text-indent: none;
 }
 
-main blockquote + p {
+main blockquote + p, main > p:first-of-type {
     text-indent: 2rem;
 }
 </style>
