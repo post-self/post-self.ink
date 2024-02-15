@@ -104,6 +104,13 @@ h2 {
 
     *CWs:* none.
 
+["Scan": <small><em>(no date info)</em></small>](/stories/scan)
+:   *Voksa*
+
+    *Scratch* — Something's gone wrong...
+
+    *CWs:* surgery, body horror.
+
 ["Shared Moment": <small>Ioan Bălan —  2326</small>](/stories/shared-moment)
 :   *Madison Scott-Clary*
 
