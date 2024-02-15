@@ -104,7 +104,7 @@ h2 {
 
     *CWs:* none.
 
-["Scan": <small>no date info</small>](/stories/scan)
+["Scan": <small><em>(no date info)</em></small>](/stories/scan)
 :   *Voksa*
 
     *Scratch* — Something's gone wrong...

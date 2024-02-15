@@ -11,6 +11,10 @@ main blockquote {
     margin: 1rem 0;
     text-indent: none;
 }
+
+main blockquote + p {
+    text-indent: 2rem;
+}
 </style>
 
 > *Scratch.*
