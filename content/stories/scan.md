@@ -1,6 +1,7 @@
 ---
 title: Scan
 author: Voksa
+cw: Surgery, mild body-horror
 type: story
 ---
 

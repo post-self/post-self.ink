@@ -109,7 +109,7 @@ h2 {
 
     *Scratch* — Something's gone wrong...
 
-    *CWs:* surgery, body horror.
+    *CWs:* surgery, mild body horror.
 
 ["Shared Moment": <small>Ioan Bălan —  2326</small>](/stories/shared-moment)
 :   *Madison Scott-Clary*
