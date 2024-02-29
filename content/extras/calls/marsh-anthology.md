@@ -12,7 +12,7 @@ Word count
 :   Approximately 2,000–5,000 (please ask if you are planning on writing more; I will likely say yes!)
 
 Payment
-:   Flat fee of $50 and a copy of the book if accepted for print. All stories, regardless of whether they are accepted, are eligible to be included on the site as canon so long as everyone agrees.
+:   Flat fee of $50+[^1] and a copy of the book if accepted for print. All stories, regardless of whether they are accepted, are eligible to be included on the site as canon so long as everyone agrees.
 
 Submission format
 :   MS Word, LibreOffice, or Google Docs — basically, anything I can comment on. If you want to submit LaTeX or Markdown, good on ya~
@@ -35,3 +35,4 @@ Consider joining
 Submit by
 :   DMing on either of the above platforms or by emailing <madison@makyo.ink>
 
+[^1]: The Kickstarter left a larger pool of money, which will be split evenly among authors.
