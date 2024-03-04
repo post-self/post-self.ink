@@ -67,6 +67,15 @@ h2 {
 
     *CWs:* none.
 
+["Hues": <small>True Name — 2350</small>](/stories/hues)
+:   *Madison Scott-Clary*
+
+    After so much trauma, True Name sees the world in new hues...
+
+    *CWs:* None
+
+    *Spoilers:* lots of *Mitzvot*.
+
 ["Meeting of One": <small>Ioan Bălan — 2309</small>](/stories/meeting-of-one)
 :   *Madison Scott-Clary*
 
