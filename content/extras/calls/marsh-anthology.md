@@ -2,7 +2,7 @@
 title: Call for submissions — Marsh anthology stories
 ---
 
-One of the stretch goals for [the *Marsh* Kickstarter](https://www.kickstarter.com/projects/drabmakyo/marsh) is to fund additional short stories surrounding the events of [*Marsh*](https://marsh.post-self.ink) written by authors interested in the Post-Self setting. These stories will be included alongside *Marsh* — or in a separate volume, depending on the response — published in a separate volume.
+One of the stretch goals for [the *Marsh* Kickstarter](https://www.kickstarter.com/projects/drabmakyo/marsh) is to fund additional short stories surrounding the events of [*Marsh*](https://marsh.post-self.ink) written by authors interested in the Post-Self setting. These stories will be included alongside *Marsh* or in a separate volume, depending on the response.
 
 To that end, I am soliciting stories surrounding the sudden downtime and disappearance of cladists across Lagrange on New Year's Eve, 2399.
 
