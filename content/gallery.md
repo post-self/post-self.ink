@@ -84,7 +84,7 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 </figure>
 <figure>
     <a href="/img/gallery/hadje.png"><img src="/img/gallery/thumbs/hadje.png"/></a>
-    <figcaption>Fan art by <a href="https://cohost.org/Amoni-The-Sabertooth">Amoni</a></figcaption>
+    <figcaption>Fan art by <a href="https://cohost.org/Amoni-The-Sabertooth">Nat</a></figcaption>
 </figure>
 
 ## *Nevi'im*

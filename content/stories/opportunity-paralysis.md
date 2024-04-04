@@ -91,7 +91,7 @@ I'm once again taken aback by the sheer reality of the place. The linen of my bl
 
 "Oh, uh, you can turn around," I say.
 
-Nodding, the woman turns, smiles, and bows deeply to me. "Welcome to Lagrange, Rena Hatch. You are in the orientation sim AetherBox#5287. Should you care about such, you are upload 38,529,358,059, but will ever be a unique and cherished soul aboard *et cetera, et cetera.*" She laughs. "The next step of the tutorial is to fork for the first time."
+Nodding, the woman turns, smiles, and bows deeply to me. "Welcome to Lagrange, Rena Hatch. You are in the orientation sim AetherBox#5287. Should you care about such, you are upload 21,529,358,059, but will ever be a unique and cherished soul aboard *et cetera, et cetera.*" She laughs. "The next step of the tutorial is to fork for the first time."
 
 "I...what?"
 

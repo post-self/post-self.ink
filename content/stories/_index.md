@@ -60,6 +60,22 @@ h2 {
 
     *CWs:* references to some of the grosser aspects of having a body.
 
+["For Old Times New": <small>Sierra — 2207</small>](/stories/for-old-times-new)
+:   *JL Conway*
+
+    From old body to new, from old life to now.
+
+    *CWs:* none.
+
+["Hues": <small>True Name — 2350</small>](/stories/hues)
+:   *Madison Scott-Clary*
+
+    After so much trauma, True Name sees the world in new hues...
+
+    *CWs:* None
+
+    *Spoilers:* lots of *Mitzvot*.
+
 ["Meeting of One": <small>Ioan Bălan — 2309</small>](/stories/meeting-of-one)
 :   *Madison Scott-Clary*
 
@@ -74,12 +90,42 @@ h2 {
 
     *CWs:* none.
 
+["The Party": <small>Scout At The Party III — 2323</small>](/stories/the-party)
+:   *Krzysztof "Tomash" Drewniak*
+
+    The Party *never* stops. There is a dog in this one~
+
+    *CWs:* none.
+    
+["Prophecies": <small>Slow Hours — 2401</small>](/stories/prophecies)
+:   *Madison Scott-Clary with No Longer Myself of [The Lament](https://cohost.org/hamratza)*
+
+    Slow Hours and If I Dream hunt down a missing cocladist, weeks after a loss.
+
+    *CWs:* discussions of suicide.
+
+    *Spoilers:* references to the plot hook of *Marsh*.
+
 ["Reading": <small>Rye — 2273</small>](/stories/reading)
 :   *Madison Scott-Clary*
 
     All readings are the same, as Dear The Wheat And Rye Under The Stars well knows...
 
     *CWs:* none.
+
+["Scan": <small><em>(no date info)</em></small>](/stories/scan)
+:   *Voksa*
+
+    *Scratch* — Something's gone wrong...
+
+    *CWs:* surgery, mild body horror.
+
+["Shared Moment": <small>Ioan Bălan —  2326</small>](/stories/shared-moment)
+:   *Madison Scott-Clary*
+
+    An exploration of the sensuality of sensorium play between skunks and Bălans.
+
+    *CWs:* vague description of sex.
 
 [*Unintended Tendencies*](https://jessfluf.itch.io/unintended-tendencies) — <small><em>available on Itch.io</em></small>
 :   *JL Conway*

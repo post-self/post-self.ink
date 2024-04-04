@@ -2,9 +2,14 @@
 title: Dramatis Personae
 ---
 
-As the Post-Self universe contains billions, you're perfectly free to create your own characters to live, work, love, and hate within the setting. The following are those included in the canon, which you are welcome to use.
+As the Post-Self universe contains billions, you're perfectly free to create your own characters to live, work, love, and hate within the setting. The following are those included in the canon.
 
 Spoilers for the Post-Self Cycle itself are marked as such: <span class="spoiler">Yikes!</span><i class="spoiler-warn"></i>. Hover to expose the spoiler.
+
+* [The Ode clade](#the-ode-clade)
+* [The Bălan clade](#the-bălan-clade)
+* [The Marsh clade](#the-marsh-clade)
+* [Additional characters](#additional-characters)
 
 ## RJ Brewster / AwDae (ey/em)
 
@@ -73,9 +78,35 @@ Another skunk-type Odist, Praiseworthy focused on shaping sentiment early on in 
 
 Commonly described as shitheads, Why Ask Questions and Answers Will Not Help shaped sentiment, with the former focusing on building camaraderie sys-side and the latter working via the text line to build support phys-side. Both are templated after the human Michelle rather than <span class="spoiler">the skunk Sasha</span><i class="spoiler-warn"></i>.
 
+### I Remember The Rattle Of Dry Grass
+
+An ex-systech who got tired of the politics involved, Dry Grass is a pretty standard human-type Odist. Hammered Silver's stanza focused on feelings of motherhood in all forms, which led to Dry Grass treating the whole of the System as her baby. She forked into In The Wind, who stayed on as a systech, and <span class="spoiler">was killed in the Century Attack in 2400</span><i class="spoiler-warn"></i>
+
 ### Time Is A Finger Pointing At Itself
 
-A Finger Pointing is human-type Odist who has devoted herself to theatre. She's described as a somewhat taller, somewhat more slender human Odist, dressing chic and modern, but with a simple desire to be everyone's friend.
+A Finger Pointing is human-type Odist who has devoted herself to theatre. She's described as a somewhat taller, somewhat more slender human Odist, dressing chic and modern, but with a simple desire to be everyone's friend. She is the executive director and administrator for Au Lieu Du Rêve, a theatre troupe that she started early on but which has grown to include several thousand members. Flamboyant and dramatic, she suffers from bouts of intense dissociation due to merging a crashing instance in the early 2300s. In a long-running relationship with Beholden, and one of Motes's two guardians.
+
+<figure style="text-align: center">
+<img src="/img/gallery/lounge.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">“...perhaps I hum little snippets of music to you, conducting with my finger as though that will better portray my intent.”</figcaption>
+</figure>
+
+### Where It Watches The Slow Hours Progress
+
+The clade's oracle and prophetess. Her predictions are less bound up in actual prophecy than the fact that, as Au Lieu Du Rêve's script manager, she has read a *lot* and can offer insights based on generalizations from those stories. Still, many come to her for advice and for her emotional openness.
+
+### And We Are The Motes In The Stage-Lights
+
+The babiest Odist, Motes has focused her existence on play, leading to her often appearing as a young skunk, anywhere from seven to twelve. This transgressive act has caused quite a bit of drama over the years. When she isn't little, she appears as a lithe twenty-something human, often in a flower crown and flowing skirt. Big flower-child energy. She treats A Finger Pointing and Beholden as her 'parents', calling them 'Ma' and 'Bee'.
+
+<figure style="text-align: center">
+<img src="/img/gallery/motes.png"/>
+<figcaption style="font-size: 60%; opacity: 0.8">“<em>Maaa~</em>” Motes whined. “I am a grown up!”</figcaption>
+</figure>
+
+### Beholden To The Heat Of The Lamps
+
+A skunk-type Odist who is a sound tech and musician for Au Lieu Du Rêve, A Finger Pointing's partner, and the other of Motes's two guardians. She's brash and snarky, and has trouble restraining the hotter emotions due to the way she engages with the System.
 
 ## The Bălan clade
 
@@ -110,33 +141,33 @@ An occasional instance inspired by Debarre's habit of keeping a fork for his rel
 ## The Marsh clade
 
 
-### Marsh (he/him)
+### Marsh (they/them)
 
-Having gotten sick of the process of transition and uploading in the early 2220s, Marsh Hanson quickly settled in on the system, forking three times over and largely living vicariously through his forks while he focused primarily on singing and enjoying the laid-back life with his partners. In a relationship with Vos and Pierre LaFontaine.
+Having gotten sick of the process of transition and uploading in the early 2220s, Marsh Hanson quickly settled in on the system, forking three times over and largely living vicariously through their forks while they focused primarily on singing and enjoying the laid-back life with their partners. In a relationship with Vos and Pierre LaFontaine. <span class="spoiler">They were killed in the Century Attack in 2400.</span><i class="spoiler-warn"></i>
 
 ### Reed (he/him)
 
-*Coming soon!* In a relationship with Hanne Marie.
+Marsh's first fork, remaining transmasc after Marsh had (at first) adopted a cis-male appearance. In a relationship with Hanne Marie.
 
 ### Lily (she/her)
 
-*Coming soon!*
+Marsh's second fork, who went back to cis-female. Kind of hates the Odists, tbh.
 
-### Cress (they/them)
+### Cress (it/its)
 
-*Coming soon!* In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Tule.
+Marsh's third fork, who gave gender a miss entirely. It has adopted the identity of the littlest Marshan, and is a bit of a gremlin. In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Tule.
 
-### Rush (ve/ver)
+### Rush (ve/ver/vis)
 
-*Coming soon!*
+One of Reed's two forks, Rush is keenly interested in sims and sim artistry, and quickly becomes friends with Serene.
 
-### Tule (she/her)
+### Tule (he/him)
 
-*Coming soon!* In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Cress.
+Sedge's up-tree, and a bit of a brat. He returned to a cis-masc identity. In a relationship with I Remember The Rattle Of Dry Grass of the Ode clade along with Cress.
 
-### Sedge (he/him)
+### Sedge (she/her)
 
-*Coming soon!*
+Reed's other fork, focused on people and society.
 
 ## Relationships
 
@@ -183,7 +214,7 @@ A 'net addict and DDR (Direct Democracy Representative) junkie from Addis Ababa,
 
 ### Sarah Genet (she/her)
 
-Sarah is a psychologist and one of the emissaries chosen to meet with the Artemisians. She later becomes a mentor for Codrin as ey works on moving towards psychology as a career. She's described as having short, gray hair and wearing business casual sorts of clothes.
+Sarah is a psychologist and one of the emissaries chosen to meet with the Artemisians. She later becomes a mentor for Codrin as ey works on moving towards psychology as a career. She's described as an indigenous Canadian woman, with long black-and-gray hair and darker skin, often wearing business casual, though she tends to meet with her clients with an appearance that matches their mode of interaction..
 
 ### Debarre (he/him)
 
