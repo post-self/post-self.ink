@@ -23,6 +23,9 @@ Submission Deadline
 Estimated publication date
 :   August 1, 2024
 
+Illustrations
+:   Also welcome! Pay is similarly TBD pending funding. 5.625" wide by 8.75" tall, 300dpi, black and white or color.
+
 Please include
 :   Your story and a short author bio
 

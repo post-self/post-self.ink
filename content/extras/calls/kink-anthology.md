@@ -26,6 +26,9 @@ Estimated publication date
 Please include
 :   Your story, a list of CWs, and a short author bio
 
+Illustrations
+:   Also welcome! Pay is similarly TBD pending funding. 5.625" wide by 8.75" tall, 300dpi, black and white or color.
+
 Please read
 :   The [What is Post-Self?](https://wiki.post-self.ink/wiki/What_is_Post-Self%3F) page, the [writing guide](https://wiki.post-self.ink/wiki/Writing_guide), and at least some of the Post-Self stories. Here are some recommendations: 
 
