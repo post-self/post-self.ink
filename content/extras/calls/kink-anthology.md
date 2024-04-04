@@ -2,7 +2,7 @@
 title: Call for submissions — Kink in the Post-Self Setting
 ---
 
-What avenues does the life sys-side open up for exploring kink? What does forking get you? How about endless memory? Sensorium messages? What new kinks form and what other kinks fade away?
+What avenues does life sys-side open up for exploring kink? What does forking get you? How about endless memory? Sensorium messages? What new kinks form and what other kinks fade away?
 
 We are looking to pull together a collection of short stories exploring specifically the ways in which kink changes after uploading one's consciousness. While kink often includes or is intertwined with sex, your story need not include any sex — and conversely, this is not simply an anthology of erotica, but an exploration of kink. Here is a chance to pull apart a kink, discover what makes it tick, and then put it together in this lovely setting where even the concept of self is challenged.
 
