@@ -35,4 +35,19 @@ Consider joining
 Submit by
 :   DMing on either of the above platforms or by emailing <marsh-anthology@makyo.ink>
 
+### Collaboration
+
+This is a collaborative anthology, following the pattern established by [The Furry Historical Fiction Society](https://fhfs.ink) and [*Clade*](https://clade.post-self.ink). As such, much of the discussion around the project will take place on Telegram and Discord, and organization will take place via Google Sheets. In the latter case, we are happy to help manage your information in the sheet if you do not have a Google account, but communication via one of the two chat outlets is required.
+
+The general outline of steps is as follows:
+
+1. Application and description — you will pick a topic for your story and fill in your information on the sheet.
+2. Writing — write your draft, keeping the other writers up to date on your progress via the chat and the sheet.
+3. Editing and reading — edit your story, ask for beta reads, get an editing pass from others, and so on.
+4. Typesetting — an order for the stories will be chosen and they will be typeset into a PDF for the paperback.
+5. Round-robin editing — once all stories are typeset, you will help do line- and copy-editing for the stories before and after your own on the final print PDF.
+6. Publication and marketing — help boost the visibility of the anthology on your socials!
+
+More information is available on request, and you can always feel free to ask questions of Madison.
+
 [^1]: The Kickstarter left a larger pool of money, which will be split evenly among authors.
