@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Gotu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
 
 body, main {
     font-family: "Gentium Plus", serif;
@@ -10,6 +10,11 @@ h1, h2, h3 {
 
 blockquote {
     overflow-wrap: break-word;
+}
+
+main.story .author, main.story .character, main.story h3 {
+    font-family: "Gotu", sans-serif !important;
+    text-align: center !important;
 }
 
 .spoiler {
@@ -30,18 +35,16 @@ ul {
     list-style-type: revert;
     padding-left: 2rem;
 }
-.nav-desktop {
-    display: block;
-}
-.nav-mobile {
-    display: none;
-}
 
 .hero {
     font-family: "Gentium Plus", serif;
     font-size: 18pt;
     line-height: 1.5;
     color: #444444;
+    margin-bottom: 1rem;
+    background: url(/img/hero-bg.png);
+    background-size: cover;
+    background-position: center;
     background-color: #fafafa;
 }
 
@@ -74,10 +77,10 @@ ul {
 }
 
 .carousel nav li {
-                display: inline-block;
-                margin: 0;
-                padding: 0.5rem;
-            }
+    display: inline-block;
+    margin: 0;
+    padding: 0.5rem;
+}
 
 .carousel nav li.on {
     background-color: #555;
@@ -97,6 +100,45 @@ ul {
 
 .carousel .carousel-item.on {
     display: block;
+}
+
+main.story .author, main.story .character, main.story h3 {
+    font-family: "Gotu", sans-serif !important;
+    text-align: center !important;
+}
+
+.cw {
+    border: 2px dotted red;
+    font-size: 14pt;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem;
+    color: darkred;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.cw:before {
+    display: block;
+    content: "⚠️ Content Warning";
+    font-weight: bold;
+}
+
+.spoiler-note {
+    border: 2px dotted blue;
+    font-size: 14pt;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem;
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.spoiler-note:before {
+    display: block;
+    content: "❗Spoiler Warning";
+    font-weight: bold;
 }
     
 @media only screen and (max-width: 960px) {

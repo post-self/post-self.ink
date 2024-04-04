@@ -3,24 +3,58 @@ title: Extras
 layout: single
 ---
 
-## Extra Stories
+<style>
+dd {
+    margin-bottom: 1rem;
+}
+dd:after {
+    content: '§';
+    color: #ccc;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+dd:last-of-type:after {
+    display: none;
+}
+dd p {
+    font-size: 16pt;
+    text-indent: 0;
+    margin-top: 0.5rem;
+}
+dd p:first-of-type {
+    font-size: 18pt;
+}
+h2 {
+    margin-top: 4rem;
+}
+</style>
 
-* ["Assignment"](assignment): Ioan Bălan — 2273
-* ["Meeting of One"](meeting-of-one): Ioan Bălan — 2309
-* ["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) (Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022)
+## Additional writing
 
-## Soundtracks
+[Post-Self stories](/stories)
+:   Stories of all sorts written by members of the Post-Self community.
 
-Each book within the Post-Self Cycle, as well as many of the other stories in the setting, was written with a song or playlist running on repeat — at least for the most part. Just a little something that helped the author set the mood. While these are hardly required to enjoy the writing, they're offered as a curiosity.
+[In-Character asks](ic-asks)
+:   *Authors include [@makyo](https://cohost.org/makyo), [@hamratza](https://cohost.org/hamratza), and [@CERESUltra](https://cohost.org/CERESUltra).*
 
-* [*Qoheleth and Gallery Exhibition*](https://open.spotify.com/playlist/5zRXvPUVxSuGjpzVu4N2Qw?si=8e5bdf5d974a4487) (Spotify)
-* [*Toledot*](https://open.spotify.com/playlist/0irVoAkYEVR7LBrI9M1q5Z?si=1525f4d1b2c24195) (Spotify)
-* [*Nevi'im*](https://open.spotify.com/playlist/5WqgcXtf6aIElLvwUskvAH?si=b6c7f22427044416) (Spotify)
-* [*Mitzvot*](https://open.spotify.com/playlist/57ltPyWR4rRB65MHabWxVA?si=af174d0a468442e5) (Spotify)
-* ["Selected Letters"](https://open.spotify.com/playlist/1QvvLpL09kGQMZnTstUD4f?si=b7637a76d39d43f7)
-* ["She Who Haunts the Storm"](https://www.youtube.com/watch?v=1lTYPvArbGo) (YouTube)
-* "Cowboy" - [1](https://open.spotify.com/track/62qiyZxpfg6wEIV6S5PE9y?si=1a6179b30b064d5a) (Spotify), [2](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc?si=9ee056fef66e491c) (Spotify)
-* ["Support Group for Anomalies in Forking"](https://youtu.be/J0taTmgq3qw) (YouTube)
+    Questions asked of various Post-Self characters, answered by the characters themselves. 
+
+### Other, sillier things
+
+["How to Upload Your Consciousness to Physical Infrastructure Using Docker Compose"](https://www.digitalocean.com/community/tutorials/how-to-upload-your-consciousness-to-physical-infrastructure-using-docker-compose) 
+:   *Madison Scott-Clary*
+
+    Non-canonical but heavily influenced 'tutorial' written for April Fool's Day 2022 
+
+## Materials
+
+[Nanon](nanon)
+:   The constructed language spoken by the Artemisians.
+
+[Music](music)
+:   Music that inspired or was inspired by Post-Self
+
 
 ## The Post-Anthropocene
 
