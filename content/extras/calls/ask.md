@@ -6,8 +6,6 @@ The response to the *Marsh* Kickstarter has been lovely, and so much has already
 
 Consider this, then, a **Call for Submissions** of questions for post-human skunks (and fennecs and panthers and...)! [The ask box is open](https://cohost.org/post-self/ask), and if you would like to see a sample of what we have so far,  you can check out the [IC Asks](https://post-self.ink/extras/ic-asks) that have already been answered. 
 
-*Edit:*  is a spoiler-free list of the Odists and their specialties.
-
 If you would like to *answer* a question, keep reading below!
 
 ### The Details

@@ -9,7 +9,7 @@ Of these personalities, we find ourselves with countless stories, and among thos
 ### The Details
 
 Word count
-:   Approximately 2,000–5,000 (please ask if you are planning on writing more; I will likely say yes!)
+:   Approximately 2,000–10,000 (please ask if you are planning on writing more; I will likely say yes!)
 
 Payment
 :   Flat fee, pending funding. All stories, regardless of whether they are accepted, are eligible to be included on the site as canon so long as everyone agrees.
