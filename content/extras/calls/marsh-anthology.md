@@ -33,6 +33,6 @@ Consider joining
 :   Either the Post-Self [Telegram Group](https://makyo.io/ps-telegram) or [Discord](https://makyo.io/ps-discord)
 
 Submit by
-:   DMing on either of the above platforms or by emailing <madison@makyo.ink>
+:   DMing on either of the above platforms or by emailing <marsh-anthology@makyo.ink>
 
 [^1]: The Kickstarter left a larger pool of money, which will be split evenly among authors.
