@@ -11,7 +11,7 @@
 
 The Post-Self universe is an open setting for exploring the ramifications of being able to create copies of oneself, of what it means to undergo individuation, of what it means to let memories build up and up and up within oneself. With five novels, four novellas, an anthology of short stories, and plenty more besides, there's story to explore spanning more than three centuries of history.
 
-Interested in a quick-start on the setting? Check out [What is Post-Self?](https://wiki.post-self.ink/wiki/What_is_Post-Self%3F) on the wiki!
+Interested in a quick-start on the setting? Check out [What is Post-Self?](https://wiki.post-self.ink/wiki/What_is_Post-Self%3F) on the wiki! Post-Self is an open setting, free for anyone to write in. If you are interested in creating art — whether it be written, visual, audio, interactive, or whatever — please feel free; there are also [calls for submissions](/extras/calls) if you need some inspiration. Many are paid markets depending on funding.
 
 <!--
 Alternately: "If I had a nickel for every time I accidentally wrote something with heavy plural undertones that I hadn't intended but nonetheless made me doubt my identity, I'd have two nickels! Which isn't a lot, but it is weird that it happened twice."
