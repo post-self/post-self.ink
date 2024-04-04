@@ -6,28 +6,34 @@ Launch. In 2325, two smaller versions of the Lagrange System, Castor and Pollux,
 
 Of these personalities, we find ourselves with countless stories, and among those stories, echoes of the past appear, all surrounding a group of friends. The legends of King Arthur play out once more.
 
-## Requirements
+### The Details
 
-* 2,000--10,000 words
-* Must be set in the Post-Self universe after 2325
-* Must follow one of the Arthurian legends from the Matter of Britain, *The Once and Future King*, and so on
-* This is an *aggressively* queer setting. While your story/characters don't need to be, any sentiment that goes against that will not be tolerated
-* While this is not a furry setting, furries — that is, members of the furry subculture who present as anthropomorphic animals sys-side — are more than welcome
-* Rather than submitting a story, you will apply to take part in the collaboration
+Word count
+:   Approximately 2,000–5,000 (please ask if you are planning on writing more; I will likely say yes!)
 
-### Arthurian legends
+Payment
+:   Flat fee, pending funding. All stories, regardless of whether they are accepted, are eligible to be included on the site as canon so long as everyone agrees.
 
-The following legends have been claimed
+Submission format
+:   MS Word, LibreOffice, or Google Docs — basically, anything I can comment on. If you want to submit LaTeX or Markdown, good on ya~
 
-* "Sir Gawain and the Green Knight" — Madison Scott-Clary
-* "The Questing Beast" — J.S. Hawthorne
-* "Morgan le Fey" — Rob MacWolf
-* "Tristan and Iseult" — Faux
-* "The Sword Excalibur" — Michael Miele
+Submission Deadline
+:   Soft deadline: April 30, 2024 / Hard deadline: May 31, 2024
 
-As more legends are claimed via applications, they will be added to this list. If any are relinquished by the author, the list will be updated to reflect that.
+Estimated publication date
+:   August 1, 2024
 
-More information on how the legends fit within the Post-Self universe will be available soon, so feel free to join the Telegram or Discord chats to learn more, even if you do not decide to write for the anthology.
+Please include
+:   Your story and a short author bio
+
+Please read
+:   The [What is Post-Self?](https://wiki.post-self.ink/wiki/What_is_Post-Self%3F) page, the [writing guide](https://wiki.post-self.ink/wiki/Writing_guide), and at least [the synopsis of *Marsh*](/extras/summaries). I will also provide the current draft of the book if you get in touch.
+
+Consider joining
+:   Either [Discord](https://makyo.io/ps-discord) or the Post-Self [Telegram Group](https://makyo.io/ps-telegram).
+
+Submit by
+:   DMing on either of the above platforms or by emailing <post-self-arthur@makyo.ink>
 
 ### Collaboration
 
