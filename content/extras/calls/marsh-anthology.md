@@ -27,10 +27,10 @@ Please include
 :   Your story and a short author bio
 
 Please read
-:   The [What is Post-Self?](https://wiki.post-self.ink/wiki/What_is_Post-Self%3F) page, the [writing guide](https://wiki.post-self.ink/wiki/Writing_guide), and at least [the synopsis of *Marsh*](/extras/summaries). I will also provide the current draft of the book if you get in touch.
+:   The [What is Post-Self?](https://wiki.post-self.ink/wiki/What_is_Post-Self%3F) page, the [writing guide](https://wiki.post-self.ink/wiki/Writing_guide), and at least [the synopsis of *Marsh*](https://wiki.post-self.ink/wiki/Marsh/synopsis). I will also provide the current draft of the book if you get in touch.
 
 Consider joining
-:   Either the Post-Self [Telegram Group](https://makyo.io/ps-telegram) or [Discord](https://makyo.io/ps-discord)
+:   Either [Discord](https://makyo.io/ps-discord) or the Post-Self [Telegram Group](https://makyo.io/ps-telegram).
 
 Submit by
 :   DMing on either of the above platforms or by emailing <marsh-anthology@makyo.ink>
