@@ -2,7 +2,7 @@
 title: Calls for Submissions
 ---
 
-Here are the open calls for submissions in the Post-Self setting. All are open for both written and visual work — though if you are interested in incidental music or video submissions, we can make that work~
+Here are the open calls for submissions in the Post-Self setting. All are open for both written and visual work — though if you are interested in incidental music or video submissions, we can make that work~ We all keep up on [Discord](https://makyo.io/ps-discord) and [Telegram](https://makyo.io/ps-telegram), feel free to join!
 
 ## [The *Marsh* anthology](marsh-anthology)
 
