@@ -1,5 +1,6 @@
 ---
 title: Call for submissions — Kink in the Post-Self Setting
+type: page
 ---
 
 What avenues does life sys-side open up for exploring kink? What does forking get you? How about endless memory? Sensorium messages? What new kinks form and what other kinks fade away?
