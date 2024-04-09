@@ -2,9 +2,7 @@
 title: 'Call for submissions: Arthurian anthology'
 ---
 
-Launch. In 2325, two smaller versions of the Lagrange System, Castor and Pollux, were launched in opposite directions on a one-way trip out of the Solar System. Aboard are only uploaded minds, each able to fork, creating copies of themselves at will, and merge back down to share their separate memories.
-
-Of these personalities, we find ourselves with countless stories, and among those stories, echoes of the past appear, all surrounding a group of friends. The legends of King Arthur play out once more.
+Lagrange — a half-kilometer cylinder of computronium idling out near the moon. Aboard are only uploaded minds, each able to fork, creating copies of themselves at will, and merge back down to share their separate memories. Of these personalities, we find ourselves with countless stories, and among those stories, echoes of the past appear, all surrounding a group of friends. The legends of King Arthur play out once more.
 
 ### The Details
 

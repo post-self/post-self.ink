@@ -30,8 +30,6 @@ We are looking to pull together a collection of short stories exploring specific
 
 ## [As yet untitled Arthurian legend anthology](arthur)
 
-Launch. In 2325, two smaller versions of the Lagrange System, Castor and Pollux, were launched in opposite directions on a one-way trip out of the Solar System. Aboard are only uploaded minds, each able to fork, creating copies of themselves at will, and merge back down to share their separate memories.
-
-Of these personalities, we find ourselves with countless stories, and among those stories, echoes of the past appear, all surrounding a group of friends. The legends of King Arthur play out once more.
+Lagrange — a half-kilometer cylinder of computronium idling out near the moon. Aboard are only uploaded minds, each able to fork, creating copies of themselves at will, and merge back down to share their separate memories. Of these personalities, we find ourselves with countless stories, and among those stories, echoes of the past appear, all surrounding a group of friends. The legends of King Arthur play out once more.
 
 (2,000–10,000 words; TBD flat fee pending funding, plus a copy of the book)
