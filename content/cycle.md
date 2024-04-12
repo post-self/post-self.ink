@@ -31,6 +31,12 @@ And, nearly a century on, society still struggles with the ramifications of thos
 
 Features the bonus novella *Gallery Exhibition: A Love Story*.
 
+<p class="buy">
+<a href="https://makyo.itch.io/qoheleth" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/qoheleth/7" target="_blank">Order paperback</a> 
+<a href="https://qoheleth.post-self.ink">Read for free online</a>
+</p>
+
 ## [Book II --- Toledot](https://toledot.post-self.ink)
 
 [![Toledot](/img/toledot.png)](https://toledot.post-self.ink)
@@ -40,6 +46,12 @@ Features the bonus novella *Gallery Exhibition: A Love Story*.
 No longer bound to the physical, what lengths should one go to in a virtual world to ensure the continuity of one's existence?
 
 Secession. Launch. Two separations from two societies, two hundred years apart. And through it all, so many parallels run on so many levels that it can be dizzying just keeping up. The more Ioan and Codrin Bălan learn, the more it calls into question the motivations of even those they hold most dear.
+
+<p class="buy">
+<a href="https://makyo.itch.io/toledot" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/toledot/11" target="_blank">Order paperback</a> 
+<a href="https://toledot.post-self.ink">Read for free online</a>
+</p>
 
 ## [Book III --- Nevi'im](https://neviim.post-self.ink)
 
@@ -55,6 +67,12 @@ When faced with eternity in a new kind of digital world, however, old traumas co
 
 Growth is colliding with memory, and the cracks are showing.
 
+<p class="buy">
+<a href="https://makyo.itch.io/neviim" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/neviim/12" target="_blank">Order paperback</a> 
+<a href="https://neviim.post-self.ink">Read for free online</a>
+</p>
+
 ## [Book IV --- Mitzvot](https://mitzvot.post-self.ink)
 
 [![Mitzvot](/img/mitzvot.png)](https://mitzvot.post-self.ink)
@@ -67,6 +85,12 @@ One of the most well-known names from one of the most well-known clades on the S
 
 Features the bonus novella *Selected Letters*.
 
+<p class="buy">
+<a href="https://makyo.itch.io/mitzvot" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/mitzvot/14" target="_blank">Order paperback</a> 
+<a href="https://mitzvot.post-self.ink">Read for free online</a>
+</p>
+
 ## Bonus Novella: [Motes Played](https://motes-played.post-self.ink)
 
 Motes played.
@@ -78,3 +102,9 @@ She played with fire.
 Motes played, because how could she not?
 
 ***Coming soon!***
+
+<p class="buy">
+<a href="https://makyo.itch.io/motes-played" target="_blank">Pre-order ebook</a>
+<a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Pre-order paperback</a> 
+<a href="https://motes-played.post-self.ink">Read for free online (soon)</a>
+</p>
