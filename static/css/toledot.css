@@ -140,6 +140,23 @@ main.story .author, main.story .character, main.story h3 {
     content: "❗Spoiler Warning";
     font-weight: bold;
 }
+
+.canon-note {
+    border: 2px dotted goldenrod;
+    font-size: 14pt;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem;
+    color: darkgoldenrod;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.canon-note:before {
+    display: block;
+    content: "❓ Canon Note";
+    font-weight: bold;
+}
     
 @media only screen and (max-width: 960px) {
     .carousel nav {

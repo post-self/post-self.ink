@@ -7,6 +7,7 @@
     <h2 class="character">{{ .Params.character }}</h2>
     {{ if .Params.cw }}<div class="cw">{{ .Params.cw }}</div>{{ end }}
     {{ if .Params.spoiler }}<div class="spoiler-note">{{ .Params.spoiler | markdownify }}</div>{{ end }}
+    {{ if .Params.canonNote }}<div class="canon-note">{{ .Params.canonNote | markdownify }}</div>{{ end }}
 
     {{ .Content }}
   </main>
