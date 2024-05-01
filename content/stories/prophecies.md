@@ -8,7 +8,7 @@ cw: Discussion of suicide
 type: story
 ---
 
-To step into The Bean Cycle was to be immediately assailed by sound. There was, as to be expected, the muted howl of steam wands bringing milk up to temperature, but mixed in was the clatter and clicking of work being done on bicycles. Wheels were spun, chain was dragged through derailleurs, tires were changed. Milk was steamed, espresso was made, names were hollered out.
+To step into The Bean Cycle was to be immediately assailed by sound. There was, as to be expected, the clink of glasses and muted howl of steam wands bringing milk up to temperature, but mixed in was the clatter and clicking of work being done on bicycles. Wheels were spun, chain was dragged through derailleurs, tires were changed. Milk was steamed, espresso was made, names were hollered out.
 
 It was not the type of din that Slow Hours expected for the one she and If I Dream were looking for. It was too uneven, this wall of sound. Too unpredictable. The steam wands were too piercing and the occasional clang of a wrench or raucous laughter over some story of a crash too jarring.
 
@@ -30,7 +30,7 @@ Still frowning, Slow Hours allowed herself to be guided down the counter to wait
 
 If I Dream nodded. "Yes, quite sure. Hasher was the one who tipped me off, and I...have seen her outside."
 
-"You are already watching her, then, yes?"
+"You are already watching her, then?"
 
 The panther smiled faintly, gave an even fainter shrug. "I am nothing if not myself."
 
@@ -56,11 +56,11 @@ The panther laughed once more. "Well, I was going to say the story, but the coff
 
 It was only another minute or two of waiting before Hasher waved to get their attention, gesturing to three paper cups sitting on the bar, ready for them. Slow Hours dropped the cone of silence and winced at the sudden barrage of sounds that followed. She turned her hearing down a few ticks. "Thank you," she said, bowing. "By the way, we were hoping to meet up with a cocladist of ours. She is a skunk, a furry, built rather like myself." She gestured down at herself — human, instead, with pale skin and curly black hair tied up in a messy bun, but stocky and short. "Black fur, white stripe, a little jumpy. Have you seen her around?"
 
-Wiping their hands on a towel hooked into the strings of their apron, Hasher nodded, tilting their head over toward the couch full of robots. "The one who was sleeping there the last few weeks, I'm guessing?"
+Wiping their hands on a towel hooked into the strings of their apron, Hasher nodded, tilting their head over toward the couch full of robots. "The one who was sleeping there the last few days, I'm guessing?"
 
 "Sleeping?" Slow Hours asked, frowning.
 
-"Yeah. She would just kind of curl up at one end for a few hours and nap. No biggie, of course, and we all liked her. She only ever slept while things were slow, and she'd always move when asked." They broke out into a grin again, shrugging. "Or when it got too loud. Or when it got too quiet. Or just every now and then for no reason we could figure out, but she was always very polite about it."
+"Yeah. She would just kind of curl up at one end for a few hours and nap. No biggie, of course, and we all liked her. She only ever slept while things were slow, and she'd always move when asked." They broke out into a grin again, shrugging. "Or when it got too loud. Or when it got too quiet. Or just every now and then for no reason we could figure out — very stimmy type — but she was always very polite about it."
 
 "Yes, that would be her," she said, smiling. "Well, thank you very much. Did she leave recently?"
 
@@ -80,11 +80,11 @@ Lining either side of the street were entrances to cafes. Cafes, coffee shops, d
 
 She had no clue how it worked, if it really was that big, but the sheer size of the System had been driven home quite effectively over the last few weeks — 23 *billion* dead! The number remained surreal — so she was hopeful that there were no tricks involved, no attempts to make it look bigger than it was.
 
-She was hopeful that all of these people here on this relatively crowded street were real. She hoped they found coffee and friends and loved ones and long-lost selves.
+She was hopeful that all of these people here on this relatively crowded street were real, not constructs or illusions. She hoped they found coffee and friends and loved ones and long-lost selves.
 
 A gentle touch to her shoulder brought her back to the present. She looked over to If I Dream, then followed her gaze to the center of the thoroughfare.
 
-There, in the middle of the path, stood a skunk. She looked much like others in her clade, with white-striped black fur, tapered snout, cookie ears poking out from an unruly mane, and where she differed, it mostly came down to clothing. She wore a linen tunic in pale yellow, cinched around the waist with a leather belt, and a pair of loose, woolen trousers in a dusty brown. Her mane was tied back with a kerchief of some sort, a pastel triangle fully visible to them as she stood stock still and stared straight up to the arch above.
+There, in the middle of the path, stood a skunk. She looked much like others in her clade, with white-striped black fur, tapered snout, cookie ears poking out from an unruly mane, and where she differed, it mostly came down to clothing. She wore a linen tunic in dandelion yellow, cinched around the waist with a leather belt, and a pair of loose, woolen trousers in a dusty brown. Her mane was tied back with a kerchief of some sort, a pastel triangle fully visible to them as she stood stock still and stared straight up to the arch above.
 
 Slow Hours felt concern tugging at her cheeks, while a glance at If I Dream showed only curiosity.
 
@@ -108,7 +108,7 @@ With that, she began to pace in an abbreviated line before them, alternating bet
 
 Slow Hours looked to If I Dream for help, and the panther stepped forward silently and wrapped her arms around the skunk from behind.
 
-At first, she thought this would be a prelude to them stepping from the sim together, or perhaps some affectionate bear hug, though this did not fit what she knew of their casual acquaintanceship.
+At first, she thought this would be a prelude to them stepping from the sim together, or perhaps some affectionate bear hug, though this did not fit what she knew of their faint acquaintanceship.
 
 Instead, though, If I Dream simply squeezed around the skunk and stood still. There was a squeak and a tense-looking squirm from What Right Have I at first, but in surprisingly short order, her breathing fell under her control and she slouched against her cocladist, looking as close to relaxed as Slow Hours had ever seen her.
 
@@ -152,7 +152,7 @@ She nodded. "She told me she just wanted...ah, she requested "a bit more proof t
 
 "Is that what you have been doing during the day?"
 
-"I..." She trailed off, scrubbing her paws against her thighs. "Some, perhaps. A little. We are still in *shloshim,* but I cannot...ah, I am not focused."
+"I..." She trailed off, scrubbing her paws against her thighs. "Some, perhaps. A little. We are still in *Shloshim,* but I cannot...ah, I am not focused."
 
 "You will have to forgive me for being a bit blunt," Slow Hours said gently. "But are you overflowing?"
 
@@ -214,7 +214,7 @@ Slow Hours laughed. "My little predictions are not prophecies. They are just tha
 
 "Tell us...ah, I mean, will you tell us some of what you dreamed?"
 
-"Yes. It has happened four times. Only those four, though." She held up her hand with that many fingers raised as she explained. "Perhaps Lagrange got hit by a stray cosmic ray or some other fancy particle and it flipped a bit inside the portion that contained me, and I was given some premonition. Smacked upside the head by Apollo, yes? Or, in your terms, visited by the angel of the Lord who gave me a honeyed scroll to eat."
+"Yes. It has happened four times. Only those four, though." She held up her hand with as many fingers raised as she explained. "Perhaps Lagrange got hit by a stray cosmic ray or some other fancy particle and it flipped a bit inside the portion that contained me, and I was given some premonition. Smacked upside the head by Apollo, yes? Or, in your terms, visited by the angel of the Lord who gave me a honeyed scroll to eat."
 
 She tapped one finger. "The first was about Qoheleth and his little...adventure. Some two decades before, I had the same dream five nights in a row, of him standing in his robes, arms raised to the heavens, and then crumbling down into sand. At the time, I did not even realize that it was him. I had not seen him in more than a century, and when I had, he was dressed like a natty old college professor."
 
@@ -226,17 +226,17 @@ There was a moment of silence as she considered the fourth and how best to descr
 
 What Right Have I listened attentively to Slow Hours's description of her prophecies, or at least prophetic dreams. As she spoke, her cocladist's expression darkened, until by the end, she was scowling. "I am no Daniel," the skunk said once she had finished. "I will not scry your *mene, mene, tekel, parsin.* But if you had foreknowledge of Michelle's suicide or the Century Attack, why did you not say anything? Who might we be if Michelle still lived? Might Lagrange be unharmed if we but knew this?" 
 
-By the end, she was nearly growling.
+By the end, she was nearly growling, so many of her verbal tics melting away as that emotion rose.
 
 If I Dream lifted her snout from where her gaze had drifted. "Did she know, my dear? Or did she only have a recurring anxious nightmare? Do we not all have a hundred recurring anxious nightmares a year?"
 
-The skunk glowered. "And? If that is–" A tic briefly interrupted her, and this time she really did growl, though it appeared to be more at herself than anything. "If that is so, then why were these  not known?"
+The skunk glowered. "And? If that is–" A tic briefly interrupted her, a jerk of the head to the side, and this time she really did growl, though it appeared to be more at herself than anything. "If that is so, then why were these  not known?"
 
 Slow Hours straightened up. "I apologize if that came off as in any way glib, What Right Have I, or as though I could have done anything about them. I did try to get in touch with Michelle after those nights of dreams, but she only smiled and reassured me that she would "live on". It was not until after she quit that those words had any import." 
 
 What Right Have I's shoulders sagged, though she was clearly still gritting her teeth.
 
-She sighed, continuing, "And perhaps it is as If I Dream says. They were anxious nightmares. However, they still bore the acrid tang of ill omens to me. There was a scent of premonition, and so I have slotted them neatly into that category, even if they were only caused by anxiety."
+She sighed, continuing, "And perhaps it is as If I Dream says. They were anxious nightmares. However, they still bore the acrid tang of ill omens to me. There was a scent of premonition, and so I have slotted them neatly into that category, even if they *were* only caused by anxiety."
 
 There followed a long moment while the skunk processed this. She seemed to be running down a mental checklist, as her rapid breathing shifted almost immediately into something deeper and more even, her posture straightened from a wary hunch as though ready to bolt, and her expression settled into a rather stiff half-smile. All spoke of various bits of therapy Slow Hours remembered from centuries back.
 
@@ -274,7 +274,7 @@ Alarmed at the sudden shift in demeanor, Slow Hours scooted a few inches closer 
 
 She accepted with a grateful — if still wan — smile.
 
-Slow Hours returned that smile, saying quietly, "That was the dream I had, you know. The premonition. An upwelling of joy and then an overflowing. She looked up to the sun, up to RJ, and then they were one and the same, and it was all joy."
+Slow Hours returned that smile, saying quietly, "That was the dream I had, you know. The premonition. An upwelling of joy and then an overflowing. She looked up to the sun, and the sun was RJ, and then they were one and the same, and it was all joy."
 
 At this, What Right Have I burst into tears. She did not cry prettily, but very few people did. It was a brief cry, however, and soon after she scooted back to the furthest limit of the cone of silence and drew her legs up onto the couch with her, growling as she did, "Slow Hours, you are the fucking worst."
 
@@ -282,4 +282,4 @@ At this, What Right Have I burst into tears. She did not cry prettily, but very 
 
 "They both deserve to be together. I hope that that is what No Longer Myself has obtained. What all of those lost have," If I Dream sighed.
 
-"I think...ah, I hope your dreams were true, in the end," What Right Have I said after a long silence between the three of them, after each had fallen merely to sniffles. "I hope that they *were* prophecies, whether or not you knew."
+"I think...ah, I hope your dreams were true, in the end," What Right Have I said after a long silence between the three of them, after each had fallen merely to sniffles. "I hope that they *were* prophecies, whether or not you knew. If only for that one, I hope that they were true."
