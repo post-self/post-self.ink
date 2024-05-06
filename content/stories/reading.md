@@ -1,7 +1,7 @@
 ---
 title: Reading
 character: "Rye — 2273"
-author: "Madison Scott-Clary"
+author: "Madison Rye Progress"
 type: story
 ---
 

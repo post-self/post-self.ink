@@ -1,7 +1,7 @@
 ---
 title: Prophecies
-author: "[Madison Scott-Clary](https://makyo.ink) and No Longer Myself of [The Lament](https://cohost.org/hamratza)"
-plainAuthor: "Madison Scott-Clary and The Lament"
+author: "[Madison Rye Progress](https://makyo.ink) and No Longer Myself of [The Lament](https://cohost.org/hamratza)"
+plainAuthor: "Madison Rye Progress and The Lament"
 character: Slow Hours — 2401
 spoiler: "*Marsh:* medium"
 cw: Discussion of suicide

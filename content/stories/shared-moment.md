@@ -1,6 +1,6 @@
 ---
 title: Shared Moment
-author: Madison Scott-Clary
+author: Madison Rye Progress
 character: Ioan Bălan — 2326
 cw: Vague description of sex
 type: story

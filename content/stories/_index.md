@@ -31,7 +31,7 @@ h2 {
 </style>
 
 ["Assignment": <small>Ioan Bălan — 2273</small>](/stories/assignment)
-:   *Madison Scott-Clary*
+:   *Madison Rye Progress*[^1]
 
     Ioan Bălan, tasked with investigating a flash-cult, tries to figure out what the heck just happened.
 
@@ -68,7 +68,7 @@ h2 {
     *CWs:* none.
 
 ["Hues": <small>True Name — 2350</small>](/stories/hues)
-:   *Madison Scott-Clary*
+:   *Madison Rye Progress*
 
     After so much trauma, True Name sees the world in new hues...
 
@@ -77,14 +77,14 @@ h2 {
     *Spoilers:* lots of *Mitzvot*.
 
 ["Meeting of One": <small>Ioan Bălan — 2309</small>](/stories/meeting-of-one)
-:   *Madison Scott-Clary*
+:   *Madison Rye Progress*
 
     Quakers? In space? It's more likely than you think.
 
     *CWs:* none.
 
 ["Opportunity Paralysis": <small>Rena Hatch — 2368</small>](/stories/opportunity-paralysis)
-:   *Madison Scott-Clary*
+:   *Madison Rye Progress*
 
     Uploading to transition is not at all uncommon. What you do when you get there, though, is a story you will have to live.
 
@@ -98,7 +98,7 @@ h2 {
     *CWs:* none.
     
 ["Prophecies": <small>Slow Hours — 2401</small>](/stories/prophecies)
-:   *Madison Scott-Clary with No Longer Myself of [The Lament](https://cohost.org/hamratza)*
+:   *Madison Rye Progress with No Longer Myself of [The Lament](https://cohost.org/hamratza)*
 
     Slow Hours and If I Dream hunt down a missing cocladist, weeks after a loss.
 
@@ -107,9 +107,16 @@ h2 {
     *Spoilers:* references to the plot hook of *Marsh*.
 
 ["Reading": <small>Rye — 2273</small>](/stories/reading)
-:   *Madison Scott-Clary*
+:   *Madison Rye Progress*
 
     All readings are the same, as Dear The Wheat And Rye Under The Stars well knows...
+
+    *CWs:* none.
+
+["Regret of Potential": <small>Unknown — 2258</small>](/stories/regret-of-potential)
+:   *Madison Rye Progress*
+
+    Cladist who regrets.
 
     *CWs:* none.
 
@@ -121,7 +128,7 @@ h2 {
     *CWs:* surgery, mild body horror.
 
 ["Shared Moment": <small>Ioan Bălan —  2326</small>](/stories/shared-moment)
-:   *Madison Scott-Clary*
+:   *Madison Rye Progress*
 
     An exploration of the sensuality of sensorium play between skunks and Bălans.
 
@@ -142,3 +149,5 @@ h2 {
     There was no dearth of proxmity with Ioan, but still there was a lack...
 
     *CWs:* none.
+
+[^1]: *née* Scott-Clary

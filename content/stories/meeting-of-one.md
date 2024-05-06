@@ -1,6 +1,6 @@
 ---
 title: Meeting of One
-author: Madison Scott-Clary
+author: Madison Rye Progress
 character: Ioan Bălan — 2309
 type: story
 ---

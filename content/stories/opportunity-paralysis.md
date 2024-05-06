@@ -1,6 +1,6 @@
 ---
 title: Opportunity Paralysis
-author: Madison Scott-Clary
+author: Madison Rye Progress
 character: Rena Hatch — 2368
 type: story
 ---

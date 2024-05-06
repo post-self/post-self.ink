@@ -1,6 +1,6 @@
 ---
 title: Assignment
-author: Madison Scott-Clary
+author: Madison Rye Progress
 character: Ioan Bălan — 2273
 cw: Brief violence
 type: story

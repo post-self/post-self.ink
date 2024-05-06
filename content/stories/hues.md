@@ -1,7 +1,7 @@
 ---
 title: Hues
-author: "[Madison Scott-Clary](https://makyo.ink)"
-plainAuthor: "Madison Scott-Clary"
+author: "[Madison Rye Progress](https://makyo.ink)"
+plainAuthor: "Madison Rye Progress"
 character: "True Name — 2350"
 spoiler: "*Mitzvot:* high"
 type: story

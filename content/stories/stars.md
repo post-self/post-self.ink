@@ -1,7 +1,7 @@
 ---
 title: Stars
-author: "[Madison Scott-Clary](https://makyo.ink)"
-plainAuthor: "Madison Scott-Clary"
+author: "[Madison Rye Progress](https://makyo.ink)"
+plainAuthor: "Madison Rye Progress"
 character: "Sasha — 2404"
 spoiler: "*Mitzvot:* medium"
 canonNote: The canonicity of this story has not been decided yet!
