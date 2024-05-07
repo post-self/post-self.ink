@@ -48,12 +48,23 @@ ul {
     background-color: #fafafa;
 }
 
+body.dark-mode .hero {
+    background: url(/img/hero-bg-invert.png);
+    background-size: cover;
+    background-position: center;
+    background-color: #282828;
+}
+
 .hero ul {
     font-size: 20pt;
     list-style-type: none;
     text-align: center;
     margin: 0;
     padding: 1rem;
+}
+
+body.dark-mode .hero * {
+    background-color: transparent;
 }
 
 .hero ul li {
