@@ -5,6 +5,33 @@ character: Tomash — 2299
 type: story
 ---
 
+<style>
+figure {
+    display: block;
+    max-width: 40%;
+    float: right;
+    padding: 0.25rem;
+    margin: 0 0 0 1rem;
+    border: 1px solid #ccc;
+}
+
+figure:after {
+    display: block;
+    clear: both;
+}
+
+@media (max-width: 1000px) {
+    figure {
+        position: relative;
+        float: none;
+        max-width: 100%;
+        width: 100%;
+        margin: 1rem 0;
+        text-align: auto;
+    }
+}
+</style>
+
 There were places in the System that the newly-uploaded tended to wander into, thanks to the self-reinforcing nature of “X Best Sims To Check Out When You’re New” articles and the finite set of recommendations the default tutorial constructs drew from. 
 
 This led to the System Emergency Response Group doing their collective best to have someone hovering around the newbie hotspots. They weren’t necessarily full perisystem technicians, with all the rights and privileges etc etc, but could talk people through fixing “Help, I forked weird!” or “Help, everything’s black and white!” or the like, and someone really new might not know they could call SERG or think to do it.
@@ -12,6 +39,11 @@ This led to the System Emergency Response Group doing their collective best to h
 Currently, Tomash was watching the Alley Cat. He’d taken a small table near the middle of the indoor seating and had draped his vest — the token he put on to activate his systech powers — over the back of the chair. He alternated between reading a book (the report on a gravity shatter incident from six months back) and munching on a croissant. This wasn’t one of his usual haunts, as he still wasn’t much of a coffee person, but he’d offered to take the watch over because he didn’t have a lot of other plans that evening.
 
 It was a nice, quiet day. The conversation around Tomash was a low buzz of noise. Suddenly, his ears twitched towards a loud crack, followed by the hiss of steam. Then, a scream.
+
+<figure>
+    <a href="/img/gallery/coffee-leak.png"><img alt="Art by Roxannarachnid" src="/img/gallery/coffee-leak.png"></a>
+    <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
+</figure>
 
 Tomash’s gaze followed his ears. With a thought, his vest undraped itself from his chair and put itself on, its side buckles closing automagically. The world began to shimmer, each object before him hinting at the existence of debugging information hiding just below the surface if he needed it.
 
@@ -43,9 +75,9 @@ No immediate response. Still, the safeties hadn’t kicked in, so he had to at l
 
 Dr. Rodriguez looked confused.
 
-“Ok, so, think about there being another copy of you, your fork, standing next to me. They’re unhurt, but, other than that, they’re you like you are right now.”
+“Okay, so, think about there being another copy of you, your fork, standing next to me. They’re unhurt, but, other than that, they’re you like you are right now.”
 
-“Ok…?”
+“Okay…?”
 
 “In a moment, I’ll need you to breathe in deep and start really thinking about a reality where that fork exists, holding it in your mind as best you can. Then, I’ll count you down from three. Once I’m done counting, you’ll breathe out, and, as you do that, you’ll make that world where you’re forked happen. Can you do that?”
 
@@ -73,7 +105,7 @@ The rootward Dr. Rodriguez didn’t need much prompting. He remembered how quitt
 
 “_I’d_ like to know what happened, so sure!”
 
-“Ok, Perisystem Ops#Debrief 23, please,” Tomash said before he disappeared.
+“Okay, Perisystem Ops#Debrief 23, please,” Tomash said before he disappeared.
 
 Diego followed a moment later, after he’d remembered that he just had to say he wanted to go there with intention. The room was a wide space, filled with a collection of chairs, desks, and couches all arranged to face towards a large window that faced out into a black nothing. Tomash had seated himself at a central desk, and Diego sank into a nearby recliner.
 
