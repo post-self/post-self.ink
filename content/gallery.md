@@ -16,7 +16,7 @@ figure, img {
 }
 .merge img {
     position: relative;
-    filter: url(#pixelate);
+    filter: url(#pixelate) !important;
 }
 .merge span {
     width: 80%;
