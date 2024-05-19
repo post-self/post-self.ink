@@ -19,10 +19,10 @@ Submission format
 :   MS Word, LibreOffice, or Google Docs — basically, anything I can comment on. If you want to submit LaTeX or Markdown, good on ya~
 
 Submission Deadline
-:   Soft deadline: October 1, 2024 / Hard deadline: November 1, 2024
+:   Tentative: Soft deadline: October 1, 2024 / Hard deadline: November 1, 2024
 
 Estimated publication date
-:   January 15, 2024
+:   Tentative: January 15, 2025
 
 Please include
 :   Your story, a list of CWs, and a short author bio
