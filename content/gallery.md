@@ -125,6 +125,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
+    <a href="/img/gallery/sasha-seþþe.png"><img src="/img/gallery/thumbs/sasha-seþþe.png"/></a>
+    <figcaption>Fan art by <a href="https://meemu.org/@seyye">Seþþe</a></figcaption>
+</figure>
+<figure>
     <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/thumbs/full-of-skunks.png"/></a>
     <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
 </figure>
