@@ -53,6 +53,7 @@ body.dark-mode .hero {
     background-size: cover;
     background-position: center;
     background-color: #282828;
+    color: #eee;
 }
 
 .hero ul {
