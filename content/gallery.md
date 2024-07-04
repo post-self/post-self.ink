@@ -40,143 +40,145 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 ## *Qoheleth and Gallery Exhibition*
 
 <figure>
-    <a href="/img/gallery/qoheleth-front.png"><img src="/img/gallery/thumbs/qoheleth-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/qoheleth-front.png"><img src="/gallery/thumbs/qoheleth-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/awdae-1.png"><img src="/img/gallery/thumbs/awdae-1.png" alt="Art by Cadmium Tea"/></a>
+    <a href="/gallery/awdae-1.png"><img src="/gallery/thumbs/awdae-1.png" alt="Art by Cadmium Tea"/></a>
     <figcaption>Art by <a href="https://www.brushandtea.com/" target="blank">Julian Norwood</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/awdae-2.png"><img src="/img/gallery/thumbs/awdae-2.png" alt="Art by Cadmium Tea"/></a>
+    <a href="/gallery/awdae-2.png"><img src="/gallery/thumbs/awdae-2.png" alt="Art by Cadmium Tea"/></a>
     <figcaption>Art by <a href="https://www.brushandtea.com/" target="blank">Julian Norwood</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/dear.png"><img src="/img/gallery/thumbs/dear.png" alt="Art by johnny d."/></a>
+    <a href="/gallery/dear.png"><img src="/gallery/thumbs/dear.png" alt="Art by johnny d."/></a>
     <figcaption>Art by <a href="http://dumpstercryptid.carrd.co/" target="blank">johnny d.</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/qoheleth-back.png"><img src="/img/gallery/thumbs/qoheleth-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/qoheleth-back.png"><img src="/gallery/thumbs/qoheleth-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 
 ## *Toledot*
 
 <figure>
-    <a href="/img/gallery/toledot-front.png"><img src="/img/gallery/thumbs/toledot-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/toledot-front.png"><img src="/gallery/thumbs/toledot-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/shove.png"><img src="/img/gallery/thumbs/shove.png" alt="Art by Kris Weaver"/></a>
+    <a href="/gallery/shove.png"><img src="/gallery/thumbs/shove.png" alt="Art by Kris Weaver"/></a>
     <figcaption>Art by Kris Weaver</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/cairns.png"><img src="/img/gallery/thumbs/cairns.png" alt="Art by JAIYANDT"/></a>
+    <a href="/gallery/cairns.png"><img src="/gallery/thumbs/cairns.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by <a href="https://linktr.ee/cupsofjade" target="blank">Jade</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/dandelions.png"><img src="/img/gallery/thumbs/dandelions.png" alt="Art by Kris Weaver"/></a>
+    <a href="/gallery/dandelions.png"><img src="/gallery/thumbs/dandelions.png" alt="Art by Kris Weaver"/></a>
     <figcaption>Art by Kris Weaver</figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/toledot-back.png"><img src="/img/gallery/thumbs/toledot-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/toledot-back.png"><img src="/gallery/thumbs/toledot-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/hadje.png"><img src="/img/gallery/thumbs/hadje.png"/></a>
+    <a href="/gallery/hadje.png"><img src="/gallery/thumbs/hadje.png"/></a>
     <figcaption>Fan art by <a href="https://cohost.org/Amoni-The-Sabertooth">Nat</a></figcaption>
 </figure>
 
 ## *Nevi'im*
 
 <figure>
-    <a href="/img/gallery/neviim-front.png"><img src="/img/gallery/thumbs/neviim-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/neviim-front.png"><img src="/gallery/thumbs/neviim-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/awnh.png"><img src="/img/gallery/thumbs/awnh.png" alt="Art by johnny d."/></a>
+    <a href="/gallery/awnh.png"><img src="/gallery/thumbs/awnh.png" alt="Art by johnny d."/></a>
     <figcaption>Art by <a href="http://dumpstercryptid.carrd.co/" target="blank">johnny d.</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/stolon.png"><img src="/img/gallery/thumbs/stolon.png" alt="Art by JAIYANDT"/></a>
+    <a href="/gallery/stolon.png"><img src="/gallery/thumbs/stolon.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by <a href="https://linktr.ee/cupsofjade" target="blank">Jade</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/neviim-back.png"><img src="/img/gallery/thumbs/neviim-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/neviim-back.png"><img src="/gallery/thumbs/neviim-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 
 ## *Mitzvot and Selected Letters*
 
 <figure>
-    <a href="/img/gallery/mitzvot-front.png"><img src="/img/gallery/thumbs/mitzvot-front.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/mitzvot-front.png"><img src="/gallery/thumbs/mitzvot-front.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/monologue.png"><img src="/img/gallery/thumbs/monologue.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/monologue.png"><img src="/gallery/thumbs/monologue.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a class="merge" href="/img/gallery/merge.png"><img alt="Art by Iris Jay" src="/img/gallery/thumbs/merge.png" /><span>Spoiler</span></a>
+    <a class="merge" href="/gallery/merge.png"><img alt="Art by Iris Jay" src="/gallery/thumbs/merge.png" /><span>Spoiler</span></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/mitzvot-back.png"><img src="/img/gallery/thumbs/mitzvot-back.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/mitzvot-back.png"><img src="/gallery/thumbs/mitzvot-back.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/sasha-seþþe.png"><img src="/img/gallery/thumbs/sasha-seþþe.png"/></a>
+    <a href="/gallery/sasha-seþþe.png"><img src="/gallery/thumbs/sasha-seþþe.png"/></a>
     <figcaption>Fan art by <a href="https://meemu.org/@seyye">Seþþe</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/full-of-skunks.png"><img src="/img/gallery/thumbs/full-of-skunks.png"/></a>
+    <a href="/gallery/full-of-skunks.png"><img src="/gallery/thumbs/full-of-skunks.png"/></a>
     <figcaption>Fan art by <a href="https://vulpine.club/@fudge_the_sphinx">Fudge</a></figcaption>
+</figure>
+
+## *Motes Played*
+
+<figure>
+    <a href="/gallery/motes-played.png"><img src="/gallery/thumbs/motes-played.png"/></a>
+    <figcaption>Art by <a href="https://roots.works">B. Root</a></figcaption>
 </figure>
 
 ## Additional art
 
 <figure>
-    <a href="/img/gallery/dear-ref.png"><img src="/img/gallery/thumbs/dear-ref.png" alt="Art by Iris Jay"/></a>
+    <a href="/gallery/dear-ref.png"><img src="/gallery/thumbs/dear-ref.png" alt="Art by Iris Jay"/></a>
     <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/writerskunk.png"><img src="/img/gallery/thumbs/writerskunk.png" alt="Art by JAIYANDT"/></a>
+    <a href="/gallery/writerskunk.png"><img src="/gallery/thumbs/writerskunk.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by <a href="https://linktr.ee/cupsofjade" target="blank">Jade</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/ref-3.png"><img src="/img/gallery/thumbs/ref-3.png" alt="Art by JAIYANDT"/></a>
+    <a href="/gallery/ref-3.png"><img src="/gallery/thumbs/ref-3.png" alt="Art by JAIYANDT"/></a>
     <figcaption>Art by <a href="https://linktr.ee/cupsofjade" target="blank">Jade</a></figcaption>
 </figure>
 <figure>
-    <a class="merge" href="/img/gallery/ref.png"><img alt="Art by JAIYANDT" src="/img/gallery/thumbs/ref.png" /><span>Artistic<br>nudity</span></a>
+    <a class="merge" href="/gallery/ref.png"><img alt="Art by JAIYANDT" src="/gallery/thumbs/ref.png" /><span>Artistic<br>nudity</span></a>
     <figcaption>Art by <a href="https://linktr.ee/cupsofjade" target="blank">Jade</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/lounge.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/lounge.png"></a>
+    <a href="/gallery/lounge.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/lounge.png"></a>
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/what_right_have_i.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/what_right_have_i.png"></a>
+    <a href="/gallery/what_right_have_i.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/what_right_have_i.png"></a>
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/motes.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/motes.png"></a>
+    <a href="/gallery/motes.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/motes.png"></a>
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 <figure>
-    <a href="/img/gallery/coffee-leak.png"><img alt="Art by Roxannarachnid" src="/img/gallery/thumbs/coffee-leak.png"></a>
+    <a href="/gallery/coffee-leak.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/coffee-leak.png"></a>
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 
-<!--<figure>
-    <a href="/img/gallery/no_longer_myself.png"><img alt="Art by mischa" src="/img/gallery/thumbs/no_longer_myself.png"></a>
-    <figcaption><a href="https://picrew.me/en/image_maker/644129">Picrew</a> by mischa</figcaption>
-</figure>-->
-        
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
 document.querySelectorAll('a').forEach(link => {
-    if (link.attributes.href.textContent.substring(0,4) === '/img') {
+    if (link.attributes.href.textContent.substring(0,4) === '') {
         link.setAttribute('target', '_blank');
     }
 });
