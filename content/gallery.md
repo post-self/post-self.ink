@@ -139,6 +139,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/gallery/motes-played.png"><img src="/gallery/thumbs/motes-played.png"/></a>
     <figcaption>Art by <a href="https://roots.works">B. Root</a></figcaption>
 </figure>
+<figure>
+    <a href="/gallery/mp_all.png"><img src="/gallery/thumbs/mp_all.png"/></a>
+    <figcaption>Art by <a href="https://roots.works">B. Root</a></figcaption>
+</figure>
 
 ## Additional art
 
