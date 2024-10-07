@@ -3,22 +3,15 @@ title: Toledot playlist
 ---
 
 <style>
-thead th {
-    text-align: center;
-}
 tbody td {
     text-justify: none;
     vertical-align: middle;
     padding: 0.25rem;
-    border: 2px solid white;
 }
 tbody td img {
     max-width: 100px;
     display: block;
     margin: 0;
-}
-tbody tr:nth-of-type(odd) td {
-    background-color: #ddd;
 }
 </style>
 

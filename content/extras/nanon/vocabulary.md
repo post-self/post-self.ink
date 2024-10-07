@@ -4,13 +4,6 @@ title: Vocabulary
 ---
 
 <style>
-tbody tr:nth-of-type(odd) td {
-    background-color: #eee;
-}
-tbody td {
-    padding: 0.5rem;
-    border: 1px solid white;
-}
 tbody tr td:first-child {
     font-weight: bolder;
 }

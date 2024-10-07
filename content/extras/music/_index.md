@@ -22,7 +22,7 @@ Beyond those, ["Getting Lost"](/getting-lost.mp3) is a piece of music written a 
 
 ## Characters
 
-Character playlists are offered both to give a sense of the characters' moods when writing, but also, as many are constructed by fictive headmates, they give a sense of how the headmates fit into the system. Note that the pages are generated via an export tool, so the playlists themselves on Spotify may differ.
+Character playlists are offered both to give a sense of the characters' moods when writing, but also, as many are constructed by fictive headmates, they give a sense of how the headmates fit into the system. Note that the pages are generated via an export tool, so the playlists themselves on Spotify may differ, because it is a pain in the ass to update them.
 
 
 * [A Finger Pointing](characters/a-finger-pointing) — ([Spotify](https://open.spotify.com/playlist/2QYpTCKwIgEsKdS2inwa40?si=2b6332ae2b5e456c))
