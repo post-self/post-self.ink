@@ -97,7 +97,7 @@ h2 {
 
     *CWs:* none.
     
-["To — in the days after her death": <small>█████ — 2306</small>](/stories/to---in-the-days-after-her-death)
+["To — in the days after her death": <small>██ — 2306</small>](/stories/to---in-the-days-after-her-death)
 :   *Madison Rye Progress*
 
     And I, Atropos to such dreams as these, find shears on golden thread...

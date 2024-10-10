@@ -1,7 +1,7 @@
 ---
 title: To — in the days after her death
 author: Madison Rye Progress
-character: "█████ — 2306"
+character: "██ — 2306"
 type: story
 cw: Reference to suicide
 ---
