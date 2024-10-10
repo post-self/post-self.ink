@@ -129,6 +129,9 @@ main.story .author, main.story .character, main.story h3 {
     text-align: center;
     margin-bottom: 2rem;
 }
+.dark-mode .cw {
+    color: red;
+}
 
 .cw:before {
     display: block;
@@ -145,6 +148,9 @@ main.story .author, main.story .character, main.story h3 {
     color: darkblue;
     text-align: center;
     margin-bottom: 2rem;
+}
+.dark-mode .spoiler-note {
+    color: lightblue;
 }
 
 .spoiler-note:before {

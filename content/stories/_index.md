@@ -97,6 +97,13 @@ h2 {
 
     *CWs:* none.
     
+["To — in the days after her death": <small>█████ — 2306</small>](/stories/to---in-the-days-after-her-death)
+:   *Madison Rye Progress*
+
+    And I, Atropos to such dreams as these, find shears on golden thread...
+
+    *CWs:* reference to suicide.
+    
 ["Prophecies": <small>Slow Hours — 2401</small>](/stories/prophecies)
 :   *Madison Rye Progress with No Longer Myself of [The Lament](https://cohost.org/hamratza)*
 
