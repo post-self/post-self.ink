@@ -178,6 +178,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/gallery/coffee-leak.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/coffee-leak.png"></a>
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
+<figure>
+    <a href="/gallery/witchy-motes.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/witchy-motes.png"></a>
+    <figcaption>Art by goop</figcaption>
+</figure>
 
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
