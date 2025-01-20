@@ -41,7 +41,7 @@ Currently, Tomash was watching the Alley Cat. He’d taken a small table near th
 It was a nice, quiet day. The conversation around Tomash was a low buzz of noise. Suddenly, his ears twitched towards a loud crack, followed by the hiss of steam. Then, a scream.
 
 <figure>
-    <a href="/img/gallery/coffee-leak.png"><img alt="Art by Roxannarachnid" src="/img/gallery/coffee-leak.png"></a>
+    <a href="/gallery/coffee-leak.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/coffee-leak.png"></a>
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 
