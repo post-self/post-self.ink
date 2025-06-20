@@ -143,6 +143,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/gallery/mp_all.png"><img src="/gallery/thumbs/mp_all.png"/></a>
     <figcaption>Art by <a href="https://roots.works">B. Root</a></figcaption>
 </figure>
+<figure>
+    <a href="/gallery/motes-skateboard.jpg"><img src="/gallery/thumbs/motes-skateboard.png"/></a>
+    <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
+</figure>
 
 ## Additional art
 
