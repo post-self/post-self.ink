@@ -144,8 +144,8 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Art by <a href="https://roots.works">B. Root</a></figcaption>
 </figure>
 <figure>
-    <a href="/gallery/motes-skateboard.jpg"><img src="/gallery/thumbs/motes-skateboard.png"/></a>
-    <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
+    <a href="/gallery/mp_bonus.png"><img src="/gallery/thumbs/mp_bonus.png"/></a>
+    <figcaption>Bonus art by <a href="https://roots.works">B. Root</a></figcaption>
 </figure>
 
 ## Additional art
@@ -183,9 +183,18 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Art by <a href="http://cohost.org/roxannarachnid" target="blank">Roxanna</a></figcaption>
 </figure>
 <figure>
-    <a href="/gallery/witchy-motes.png"><img alt="Art by Roxannarachnid" src="/gallery/thumbs/witchy-motes.png"></a>
-    <figcaption>Art by goop</figcaption>
+    <a href="/gallery/chalk.png"><img alt="Art by ashenwhiskers" src="/gallery/thumbs/chalk.png"/></a>
+    <figcaption>Art by <a href="https://furaffinity.net/user/thayrustback">ashenwhiskers</a></figcaption>
 </figure>
+<figure>
+    <a href="/gallery/skateboard.png"><img alt="Fan art by biddyfox" src="/gallery/thumbs/skateboard.png"/></a>
+    <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
+</figure>
+<figure>
+    <a href="/gallery/witchy-motes.png"><img alt="Art by goop" src="/gallery/thumbs/witchy-motes.png"></a>
+    <figcaption>Fan art by goop</figcaption>
+</figure>
+
 
 <script type="text/javascript">
 // There has to be a better way to do this with markdown :P
