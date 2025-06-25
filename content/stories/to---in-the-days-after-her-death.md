@@ -28,5 +28,5 @@ by the call of death — supposedly ended.
 So, she is gone and now our lives are darker for it,
 and now this world is where the shadows lie,
 and all the light that still remains is forfeit,
-and so much green still stabs towards the sky,
+but so much green still stabs towards the sky,
 and yellowed teeth of lions still snap at the air.{{% /verse %}}

@@ -90,21 +90,3 @@ Features the bonus novella *Selected Letters*.
 <a href="https://makyo-ink.square.site/product/mitzvot/14" target="_blank">Order paperback</a> 
 <a href="https://mitzvot.post-self.ink">Read for free online</a>
 </p>
-
-## Bonus Novella: [Motes Played](https://motes-played.post-self.ink)
-
-Motes played.
-
-She played because she was play. She played because that was her role in life, because that is just who she was. She played with color, played with life, played with death.
-
-She played with fire.
-
-Motes played, because how could she not?
-
-***Coming soon!***
-
-<p class="buy">
-<a href="https://makyo.itch.io/motes-played" target="_blank">Pre-order ebook</a>
-<a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Pre-order paperback</a> 
-<a href="https://motes-played.post-self.ink">Read for free online (soon)</a>
-</p>

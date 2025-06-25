@@ -9,12 +9,17 @@
     </ul>
 </div>
 
-The Post-Self universe is an open setting for exploring the ramifications of being able to create copies of oneself, of what it means to undergo individuation, of what it means to let memories build up and up and up within oneself. With five novels, four novellas, an anthology of short stories, and plenty more besides, there's story to explore spanning more than three centuries of history.
-
-Interested in a quick-start on the setting? Check out [What is Post-Self?](https://wiki.post-self.ink/wiki/What_is_Post-Self%3F) on the wiki! Post-Self is an open setting, free for anyone to write in. If you are interested in creating art — whether it be written, visual, audio, interactive, or whatever — please feel free; there are also [calls for submissions](/extras/calls) if you need some inspiration. Many are paid markets depending on funding.
+The Post-Self universe is an *open setting* for exploring the ramifications of being able to create copies of oneself, of what it means to undergo individuation, of what it means to let memories build up and up and up within oneself. With five novels, four novellas, dozens of short stories, and plenty more besides, there's story to explore spanning more than three centuries of history.
 
 <!--
 Alternately: "If I had a nickel for every time I accidentally wrote something with heavy plural undertones that I hadn't intended but nonetheless made me doubt my identity, I'd have two nickels! Which isn't a lot, but it is weird that it happened twice."
 -->
-<h2 id="home">Updates</h2>
-<iframe style="width: 100%; height: 75vh" src="https://cohost.org/post-self"></iframe>
+
+<p class="buy">
+<a href="https://wiki.post-self.ink/wiki/What_is_Post-Self%3F">What is Post-Self?</a>
+<a href="/books">Books</a>
+<a href="/stories">Stories</a>
+<a href="https://wiki.post-self.ink">The Post-Self Wiki</a>
+<a href="https://wiki.post-self.ink/wiki/The_Post-Self_community">The Post-Self Community</a>
+</p>
+
