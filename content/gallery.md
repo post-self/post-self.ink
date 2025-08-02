@@ -191,7 +191,7 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
 </figure>
 <figure>
-    <a href="/gallery/lonely-heart.png"><img alt="Fan art by biddyfox" src="/gallery/thumbs/lonely-heart.png"/></a>
+    <a href="/gallery/lonely-hunter.png"><img alt="Fan art by biddyfox" src="/gallery/thumbs/lonely-hunter.png"/></a>
     <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
 </figure>
 <figure>
