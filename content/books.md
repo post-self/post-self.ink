@@ -88,6 +88,45 @@ Features the bonus novella *Selected Letters*.
 <a href="https://mitzvot.post-self.ink">Read for free online</a>
 </p>
 
+## The HaShichzur Collection
+
+### [Marsh](https://marsh.post-self.ink)
+
+[![Marsh](/img/marsh.png)](https://marsh.post-self.ink)
+
+> “I am seeing quiet chaos. I am seeing most of my sims emptying out. The ones that are not empty, however, remain dreadfully quiet. Most of those who are out and about have set up over themselves cones of silence. Those who have not, though, are decidedly not quiet. More than one silence has been broken by weeping and wailing.”
+Marsh
+
+New Year's Eve, 2399, and Lagrange is celebrating almost three centuries of relative peace. Yes, there have been surprises, there has been drama and political intrigue, but life has, by and large, been quite good for those who have chosen to upload their consciousnesses. The celebrate birthdays and anniversaries. They fall in and out of love. They fork, creating copies of themselves to accomplish tasks or live out their own independent lives. Their memories build up and up forever within them.
+
+And then, without warning, everything comes grinding to a halt. The internal clock of the System hits one second before midnight, December 31, 2399, and then it hits midnight, February 11, 2401. One year, one month, and eleven days have gone missing.
+
+And so has one percent of the population of Lagrange. 23 billion souls lost.
+
+Reed and the rest of his cocladists, fellow instances forked from the original uploaded mind of Marsh, must strive to discover what has happened and where Marsh has gone, rendering them unmoored, five unconnected instances with no root to connect them.
+
+What happened? A crash? Where has time gone? Where have those billions of minds gone? And why is Earth being so cagey?
+
+### [Idumea](https://idumea.post-self.ink)
+
+[![Idumea](/img/idumea.png)](https://idumea.post-self.ink)
+
+> The Woman was too present. She was too much herself, too human, too embodied within her vessel as it spiraled out of control, too stuck in her mind as it twisted in on itself.
+> 
+> Readers, you must understand that she was in so many ways whole still!
+>
+> I think that The Woman would say, however, that she was too whole. I think she would say that she was too full, too much, too alive. I think she would say that almost three hundred years of a life that was lived as hers was too much life. I think she would laugh that hoarse, dry laugh that always sounded like tears were on the way and say that thirty years was probably too much for her.
+>
+> But me, friends? What will become of me?
+
+<p style="text-align: center; text-indent: 0">A tale of the escape from suffering in a digital world — and the effects of trauma on the functionally immortal.</p>
+
+<p class="buy">
+<a href="https://makyo.itch.io/idumea" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/idumea/21" target="_blank">Order paperback</a> 
+<a href="https://idumea.post-self.ink/read">Read in the browser</a>
+</p>
+
 ## [Clade — A Post-Self Anthology](https://clade.post-self.ink)
 
 [![Clade](/img/clade.png)](https://clade.post-self.ink)
@@ -131,38 +170,3 @@ This is the story of one soul, shortly after upload to a vast digital world, exp
 <a href="https://motes-played.post-self.ink/read">Read in the browser</a>
 <a href="https://motes-played.post-self.ink/thoughts-on-motes">Thoughts on Motes</a>
 </p>
-
-## [Idumea](https://idumea.post-self.ink)
-
-[![Idumea](/img/idumea.png)](https://idumea.post-self.ink)
-
-> The Woman was too present. She was too much herself, too human, too embodied within her vessel as it spiraled out of control, too stuck in her mind as it twisted in on itself.
-> 
-> Readers, you must understand that she was in so many ways whole still!
->
-> I think that The Woman would say, however, that she was too whole. I think she would say that she was too full, too much, too alive. I think she would say that almost three hundred years of a life that was lived as hers was too much life. I think she would laugh that hoarse, dry laugh that always sounded like tears were on the way and say that thirty years was probably too much for her.
->
-> But me, friends? What will become of me?
-
-<p style="text-align: center; text-indent: 0">A tale of the escape from suffering in a digital world — and the effects of trauma on the functionally immortal.</p>
-
-<p class="buy">
-<a href="https://makyo.itch.io/idumea" target="_blank">Order ebook</a>
-<a href="https://makyo-ink.square.site/product/idumea/21" target="_blank">Order paperback</a> 
-<a href="https://idumea.post-self.ink/read">Read in the browser</a>
-</p>
-
-## [Marsh](https://marsh.post-self.ink)
-
-> “I am seeing quiet chaos. I am seeing most of my sims emptying out. The ones that are not empty, however, remain dreadfully quiet. Most of those who are out and about have set up over themselves cones of silence. Those who have not, though, are decidedly not quiet. More than one silence has been broken by weeping and wailing.”
-Marsh
-
-New Year's Eve, 2399, and Lagrange is celebrating almost three centuries of relative peace. Yes, there have been surprises, there has been drama and political intrigue, but life has, by and large, been quite good for those who have chosen to upload their consciousnesses. The celebrate birthdays and anniversaries. They fall in and out of love. They fork, creating copies of themselves to accomplish tasks or live out their own independent lives. Their memories build up and up forever within them.
-
-And then, without warning, everything comes grinding to a halt. The internal clock of the System hits one second before midnight, December 31, 2399, and then it hits midnight, February 11, 2401. One year, one month, and eleven days have gone missing.
-
-And so has one percent of the population of Lagrange. 23 billion souls lost.
-
-Reed and the rest of his cocladists, fellow instances forked from the original uploaded mind of Marsh, must strive to discover what has happened and where Marsh has gone, rendering them unmoored, five unconnected instances with no root to connect them.
-
-What happened? A crash? Where has time gone? Where have those billions of minds gone? And why is Earth being so cagey?
