@@ -187,6 +187,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Art by <a href="https://furaffinity.net/user/thayrustback">ashenwhiskers</a></figcaption>
 </figure>
 <figure>
+    <a href="/gallery/witchy-motes.png"><img alt="Art by goop" src="/gallery/thumbs/witchy-motes.png"></a>
+    <figcaption>Fan art by goop</figcaption>
+</figure>
+<figure>
     <a href="/gallery/skateboard.png"><img alt="Fan art by biddyfox" src="/gallery/thumbs/skateboard.png"/></a>
     <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
 </figure>
@@ -197,10 +201,6 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 <figure>
     <a href="/gallery/may-true-name.png"><img alt="Fan art by biddyfox" src="/gallery/thumbs/may-true-name.png"/></a>
     <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
-</figure>
-<figure>
-    <a href="/gallery/witchy-motes.png"><img alt="Art by goop" src="/gallery/thumbs/witchy-motes.png"></a>
-    <figcaption>Fan art by goop</figcaption>
 </figure>
 
 
