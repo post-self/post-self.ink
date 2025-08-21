@@ -21,7 +21,7 @@ tbody tr td:first-child {
     <tbody id="vocab-list"></tbody>
 </table>
 
-<script src="/sql.js"></script>
+<script src="/js/sql.js"></script>
 <script type="text/javascript">
     var xhr = new XMLHttpRequest();
     xhr.open('GET', '/extras/nanon/vocabulary.sqlite3', true);

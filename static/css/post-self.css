@@ -175,7 +175,31 @@ main.story .author, main.story .character, main.story h3 {
     content: "❓ Canon Note";
     font-weight: bold;
 }
-    
+
+#feed article h2 {
+    text-align: left;
+    opacity: 0.9;
+    margin: 0;
+}
+
+#feed article:after {
+    display: block;
+    width: 100%;
+    text-align: center;
+    content: '§';
+}
+
+#feed article .pub-date {
+    font-size: 90%;
+    opacity: 0.9;
+}
+
+#feed article li {
+    text-align: left;
+    list-style-type: disc;
+    margin-left: 1.5rem;
+}
+
 @media only screen and (max-width: 960px) {
     .carousel nav {
             display: none;
