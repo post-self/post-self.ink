@@ -20,6 +20,7 @@ Each book within the Post-Self Cycle, as well as many of the other stories in th
 * The HaShichzur Collection
     * [*Marsh*](https://www.tunemymusic.com/share/a9QUDwSJy9)
     * [*Idumea*](https://www.tunemymusic.com/share/IdtdVFlXAy) (plus an [older take](https://www.tunemymusic.com/share/dH6hB7Mzqw))
+    * [*Kaddish*](https://www.tunemymusic.com/share/vXigkMqEOn)
 * [*Motes Played*](https://www.tunemymusic.com/share/gQyWrM24t4)
 * ["She Who Haunts the Storm"](https://www.youtube.com/watch?v=1lTYPvArbGo) (YouTube)
 * "Cowboy" - [1](https://open.spotify.com/track/62qiyZxpfg6wEIV6S5PE9y?si=1a6179b30b064d5a) (Spotify), [2](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc?si=9ee056fef66e491c) (Spotify)
