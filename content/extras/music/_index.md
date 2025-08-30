@@ -26,8 +26,6 @@ Each book within the Post-Self Cycle, as well as many of the other stories in th
 * "Cowboy" - [1](https://open.spotify.com/track/62qiyZxpfg6wEIV6S5PE9y?si=1a6179b30b064d5a) (Spotify), [2](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc?si=9ee056fef66e491c) (Spotify)
 * ["Support Group for Anomalies in Forking"](https://youtu.be/J0taTmgq3qw) (YouTube)
 
-Beyond those, 
-
 ## Characters
 
 Character playlists are offered both to give a sense of the characters' moods when writing, but also, as many are constructed by fictive headmates, they give a sense of how the headmates fit into the system. Note that the pages are generated via an export tool, so the playlists themselves on Spotify may differ, because it is a pain in the ass to update them.
