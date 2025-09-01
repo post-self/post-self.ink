@@ -1,5 +1,6 @@
-
-# The Post-Self Cycle
+---
+title: The Post-Self Cycle
+---
 
 > And thus grew a new world, a world that was not built for death...
 
