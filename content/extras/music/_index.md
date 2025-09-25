@@ -17,7 +17,7 @@ Each book within the Post-Self Cycle, as well as many of the other stories in th
     * [*Nevi'im*](https://www.tunemymusic.com/share/9EBKWPuA3g)
     * [*Mitzvot*](https://www.tunemymusic.com/share/W1CIDpFLUF)
     * ["Selected Letters"](https://www.tunemymusic.com/share/JDVhXkORYH)
-* The HaShichzur Collection
+* Stories of Restoration
     * [*Marsh*](https://www.tunemymusic.com/share/a9QUDwSJy9)
     * [*Idumea*](https://www.tunemymusic.com/share/IdtdVFlXAy) (plus an [older take](https://www.tunemymusic.com/share/dH6hB7Mzqw))
     * [*Kaddish*](https://www.tunemymusic.com/share/vXigkMqEOn)
