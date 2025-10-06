@@ -12,6 +12,9 @@ title: Systime
     margin: 0.5rem 0;
     text-align: center;
 }
+#output {
+    font-color: #eaa;
+}
 </style>
 
 You can use this form to convert to/from [systime](https://wiki.post-self.ink/wiki/Systime). This also includes dates in the Hebrew calendar, given their use in a few Post-Self projects.
@@ -26,6 +29,7 @@ You can use this form to convert to/from [systime](https://wiki.post-self.ink/wi
     <input type="button" id="convertDate" value="Convert date..." />
     <hr>
     <input type="text" id="hebrew" value="16 Shevat, 5885" />
+    <div id="output" />
 </div>
 
 <script type="text/javascript">
@@ -44,7 +48,7 @@ You can use this form to convert to/from [systime](https://wiki.post-self.ink/wi
         fetch(`https://systime.post-self.ink/api/1/date/${document.getElementById('date').value}`)
             .then((response) => {
                 if (!response.ok) {
-                    document.getElementById('output').innerHTML = `Error converting systime`;
+                    document.getElementById('output').innerHTML = `Error converting date`;
                     throw new Error(response.status);
                 }
                 return response.json();
@@ -52,6 +56,7 @@ You can use this form to convert to/from [systime](https://wiki.post-self.ink/wi
             .then(display);
     });
     function display(json) {
+        document.getElementById('output').innerHTML = ``;
         document.getElementById('systime').value = json.systime.string;
         document.getElementById('date').value = json.gregorian.string;
         document.getElementById('hebrew').value = json.hebrew.string;
