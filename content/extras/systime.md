@@ -59,7 +59,9 @@ You can use this form to convert to/from [systime](https://wiki.post-self.ink/wi
         document.getElementById('output').innerHTML = ``;
         document.getElementById('systime').value = json.systime.string;
         document.getElementById('date').value = json.gregorian.string;
-        document.getElementById('hebrew').value = json.hebrew.string;
+        document.getElementById('hebrew').value = json.hebrew.string
+            + (json.hebrew.holiday !== null ? ' — ' + json.hebrew.holiday : '')
+            + (json.hebrew.shabbat ? ' (Shabbat)' : '');
     }
 </script>
 
