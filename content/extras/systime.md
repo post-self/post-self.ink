@@ -2,16 +2,32 @@
 title: Systime
 ---
 
+<style>
+.systime-form {
+    text-align: center;
+}
+.systime-form input {
+    font-family: Gotu, sans-serif;
+    font-size: 20pt;
+    margin: 0.5rem 0;
+    text-align: center;
+}
+</style>
+
 You can use this form to convert to/from [systime](https://wiki.post-self.ink/wiki/Systime). This also includes dates in the Hebrew calendar, given their use in a few Post-Self projects.
 
-<div style="text-align: center;">
+-----
+
+<div class="systime-form" style="text-align: center;">
     <input type="text" id="systime" value="systime 1+21" /><br>
     <input type="button" id="convertSystime" value="Convert systime..." />
     <hr>
-    <input type="text" id="date" value="2125-01-21" /><br>
+    <input type="date" id="date" value="2125-01-21" /><br>
     <input type="button" id="convertDate" value="Convert date..." />
+    <hr>
+    <input type="text" id="hebrew" value="16 Shevat, 5885" />
 </div>
-<div id="output" />
+
 <script type="text/javascript">
     document.getElementById('convertSystime').addEventListener("click", (ev) => {
         fetch(`https://systime.post-self.ink/api/1/systime/${document.getElementById('systime').value}`)
@@ -36,15 +52,9 @@ You can use this form to convert to/from [systime](https://wiki.post-self.ink/wi
             .then(display);
     });
     function display(json) {
-        document.getElementById('output').innerHTML = `
-        <dl>
-            <dt>Systime</dt>
-            <dd>${json.systime.string}</dd>
-            <dt>Gregorian</dt>
-            <dd>${json.gregorian.string}</dd>
-            <dt>Hebrew</dt>
-            <dd>${json.hebrew.string}</dd>
-        </dl>`;
+        document.getElementById('systime').value = json.systime.string;
+        document.getElementById('date').value = json.gregorian.string;
+        document.getElementById('hebrew').value = json.hebrew.string;
     }
 </script>
 
