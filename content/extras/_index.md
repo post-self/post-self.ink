@@ -55,6 +55,9 @@ h2 {
 [Music](music)
 :   Music that inspired or was inspired by Post-Self
 
+[Systime](systime)
+:   A converter for the [systime](https://wiki.post-self.ink/wiki/Systime) date format
+
 
 ## The Post-Anthropocene
 
