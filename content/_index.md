@@ -17,12 +17,12 @@ Alternately: "If I had a nickel for every time I accidentally wrote something wi
 
 <p class="buy">
 <a href="https://wiki.post-self.ink/wiki/What_is_Post-Self%3F">What is Post-Self?</a>
-<a href="https://read.post-self.ink/post-self">Blog</a>
 <br>
 <a href="/books">Books</a>
 <a href="/stories">Stories</a>
 <a href="/gallery">Art</a>
-<a href="/extras">Extras
+<a href="https://read.post-self.ink/post-self">Blog</a>
+<a href="/extras">Extras</a>
 <br>
 <a href="https://wiki.post-self.ink">The Post-Self Wiki</a>
 <a href="https://wiki.post-self.ink/wiki/The_Post-Self_community">The Post-Self Community</a>
