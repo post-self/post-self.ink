@@ -186,6 +186,9 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/gallery/chalk.png"><img alt="Art by ashenwhiskers" src="/gallery/thumbs/chalk.png"/></a>
     <figcaption>Art by <a href="https://furaffinity.net/user/thayrustback">ashenwhiskers</a></figcaption>
 </figure>
+
+## Fan art
+
 <figure>
     <a href="/gallery/witchy-motes.png"><img alt="Art by goop" src="/gallery/thumbs/witchy-motes.png"></a>
     <figcaption>Fan art by goop</figcaption>
@@ -204,7 +207,7 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
 </figure>
 <figure>
     <a href="/gallery/pain.png"><img alt="Fan art by Engineerisengideer" src="/gallery/thumbs/pain.png"/></a>
-    <figcaption>Fan art byEngineerisengideer</figcaption>
+    <figcaption>Fan art by Engineerisengideer</figcaption>
 </figure>
 
 
