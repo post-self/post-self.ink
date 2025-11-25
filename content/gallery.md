@@ -202,6 +202,10 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <a href="/gallery/may-true-name.png"><img alt="Fan art by biddyfox" src="/gallery/thumbs/may-true-name.png"/></a>
     <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
 </figure>
+<figure>
+    <a href="/gallery/pain.png"><img alt="Fan art by Engineerisengideer" src="/gallery/thumbs/pain.png"/></a>
+    <figcaption>Fan art byEngineerisengideer</figcaption>
+</figure>
 
 
 <script type="text/javascript">
