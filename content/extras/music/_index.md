@@ -3,11 +3,16 @@ title: Playlists and music
 layout: single
 ---
 
-There is one piece of music written for the Post-Self setting (so far!): ["Getting Lost"](/getting-lost.mp3) is a piece tied to the "RJ getting lost" scene in *Qoheleth*.
+## Canon music
 
-However, there is also a lot of music that is *associated* with the works and characters in the universe. These playlists are provided as TuneMyMusic links, which will allow you to open them in most common streaming services.
+* ["Getting Lost"](/getting-lost.mp3) by Madison Rye Progress is a piece tied to the "RJ getting lost" scene in *Qoheleth*.
+* ["Neon Rave"](/neon-rave.mp3) by John Carey is a piece associated with The Party.
 
-## Canon
+## Associated music
+
+There is also a lot of music that is *associated* with the works and characters in the universe. These playlists are provided as TuneMyMusic links, which will allow you to open them in most common streaming services.
+
+### Canon
 
 Each book within the Post-Self Cycle, as well as many of the other stories in the setting, was written with a song or playlist running on repeat — at least for the most part. Just a little something that helped the author set the mood. While these are hardly required to enjoy the writing, they're offered for completion's sake.
 
@@ -26,7 +31,7 @@ Each book within the Post-Self Cycle, as well as many of the other stories in th
 * "Cowboy" - [1](https://open.spotify.com/track/62qiyZxpfg6wEIV6S5PE9y?si=1a6179b30b064d5a) (Spotify), [2](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc?si=9ee056fef66e491c) (Spotify)
 * ["Support Group for Anomalies in Forking"](https://youtu.be/J0taTmgq3qw) (YouTube)
 
-## Characters
+### Characters
 
 Character playlists are offered both to give a sense of the characters' moods when writing, but also, as many are constructed by fictive headmates, they give a sense of how the headmates fit into the system. Note that the pages are generated via an export tool, so the playlists themselves on Spotify may differ, because it is a pain in the ass to update them.
 
