@@ -148,6 +148,21 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Bonus art by <a href="https://roots.works">B. Root</a></figcaption>
 </figure>
 
+## *Marsh*
+
+<figure>
+    <a href="/gallery/marsh-front.png"><img src="/gallery/thumbs/marsh-front.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
+</figure>
+<figure>
+    <a href="/gallery/marsh-back.png"><img src="/gallery/thumbs/marsh-back.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
+</figure>
+<figure>
+    <a href="/gallery/marsh-characters.png"><img src="/gallery/thumbs/marsh-characters.png" alt="Art by Iris Jay"/></a>
+    <figcaption>Art by <a href="https://irisjay.net" target="blank">Iris Jay</a></figcaption>
+</figure>
+
 ## Additional art
 
 <figure>
@@ -206,8 +221,12 @@ Over the course of publication and as funded by the backers of the *Mitzvot* Kic
     <figcaption>Fan art by <a href="https://www.tumblr.com/biddyfox">biddyfox</a></figcaption>
 </figure>
 <figure>
-    <a href="/gallery/pain.png"><img alt="Fan art by Engineerisengideer" src="/gallery/thumbs/pain.png"/></a>
-    <figcaption>Fan art by Engineerisengideer</figcaption>
+    <a href="/gallery/ranger.png"><img alt="Fan art by enbydergstrous.bsky.social" src="/gallery/thumbs/ranger.png"/></a>
+    <figcaption>Fan art by <a href="https://bsky.app/profile/enbydergstrous.bsky.social">enbydergstrous.bsky.social</a></figcaption>
+</figure>
+<figure>
+    <a href="/gallery/pain.png"><img alt="Fan art by enbydergstrous.bsky.social" src="/gallery/thumbs/pain.png"/></a>
+    <figcaption>Fan art by <a href="https://bsky.app/profile/enbydergstrous.bsky.social">enbydergstrous.bsky.social</a></figcaption>
 </figure>
 
 
