@@ -193,6 +193,29 @@
   description: This is the story of one soul, shortly after upload to a vast digital world, exploring themself and their identity. Checking the boundaries of who and what they are, peeling back the layers of gender, self, and species. All the while discovering the fractures that lay beneath along with the trauma carried from the years before upload as they grapple with their own life, past, and future in the unlimited world of the System.
   cw: transphobia, PTSD, and visceral descriptions of panic
 
+- title: When the Bough Breaks
+  url: https://read.post-self.ink/redcedars/when-the-bough-breaks
+  authors:
+  - Sheridan & Ovid Redcedar
+  type: short story
+  years:
+  - 2392
+  characters:
+  - Meristem
+  description: A root instance addresses her eldest daughter syndrome.
+
+- title: A letter to Meristem's up-trees
+  url: https://read.post-self.ink/redcedars/a-letter-to-meristems-up-trees-systime-268-222
+  parent: When the Bough Breaks
+  authors:
+  - Sheridan & Ovid Redcedar
+  type: short story
+  years:
+  - 2392
+  characters:
+  - Haustor
+  description: Reality and Truth are siblings, not the same.
+
 - title: Wrigglings Toward
   url: /stories/wrigglings-toward
   authors:
