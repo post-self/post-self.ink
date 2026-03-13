@@ -4,4 +4,4 @@ layout: single
 aliases: [stories]
 ---
 
-{{< works >}}
+{{< works corpus="works" collections="collections" creators="creators" >}}

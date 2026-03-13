@@ -1,128 +1,22 @@
-{{- with hugo.Data.works }}
-{{- $works := . }}
+{{- $works := index hugo.Data (.Get "corpus") }}
+{{- $collections := index hugo.Data (.Get "collections") }}
+{{- $creators := index hugo.Data (.Get "creators") }}
 <section class="works">
 
     <dl>
         {{- range $work := sort (where (where $works "collection" nil) "parent" nil) "title" "asc" }}
-        <dt><a href="{{ $work.url }}">{{ $work.title }}</a> <span class="author">by 
-                {{ range $k, $author := $work.authors }}
-                {{- if index hugo.Data.creators $author }}<a href="{{ index hugo.Data.creators $author }}" target="_blank">{{ $author | markdownify }}</a>{{ else }}{{ $author | markdownify }}{{ end }}
-                {{- if ne (add $k 1) ($work.authors | len) }}, {{ end }}
-                {{- end }}
-                {{- range $contributor := $work.contributors }},
-                {{ if index hugo.Data.creators $contributor }}<a href="{{ index hugo.Data.creators $contributor }}" target="_blank">{{ $contributor | markdownify }}</a>{{ else }}{{ $contributor | markdownify }}{{ end }}
-                <small>(contributor)</small>
-                {{- end }}    
-            </span></dt>
-        <dd>
-            {{ $work.description | markdownify }}
-            <ul class="meta">
-                <li><em>Type:</em> {{ $work.type }}</li>
-                <li><em>Characters and dates:</em>
-                    {{- range $k, $v := $work.years }}
-                    {{ index $work.characters $k }} — {{ $v }}
-                    {{- if ne (add $k 1) ($work.years | len) }}, {{- end }}
-                    {{- end }}</li>
-                {{- if $work.cw }}<li><em>CWs:</em> {{ $work.cw }}</li>{{- end }}
-                {{- if $work.spoilers }}<li><em>Spoilers:</em> {{ $work.spoilers | markdownify }}</li>{{- end }}
-            </ul>
-            {{- $subworks := where $works "parent" "eq" $work.title }}
-            {{- if gt (len $subworks) 0 }}
-                <h3>Associated works</h3>
-                <dl>
-                {{- range $subwork := where $works "parent" "eq" $work.title }}
-                    <dt><a href="{{ $subwork.url }}">{{ $subwork.title }}</a> <span class="author">by
-                            {{ range $k, $author := $subwork.authors }}
-                            {{- if index hugo.Data.creators $author }}<a href="{{ index hugo.Data.creators $author }}" target="_blank">{{ $author | markdownify }}</a>{{ else }}{{ $author | markdownify }}{{ end }}
-                            {{- if ne (add $k 1) ($work.authors | len) }}, {{ end }}
-                            {{- end }}
-                            {{- range $contributor := $subwork.contributors }},
-                            {{ if index hugo.Data.creators $contributor }}<a href="{{ index hugo.Data.creators $contributor }}" target="_blank">{{ $contributor | markdownify }}</a>{{ else }}{{ $contributor | markdownify }}{{ end }}
-                            <small>(contributor)</small>
-                            {{- end }}
-                        </span></dt>
-                    <dd>
-                        {{ $subwork.description | markdownify }}
-                        <ul class="meta">
-                            <li><em>Type:</em> {{ $subwork.type }}</li>
-                            <li><em>Characters and dates:</em> <ul>
-                                {{- range $k, $v := $subwork.years }}
-                                <li>{{ index $subwork.characters $k }} — {{ $v }}</li>
-                                {{- end }}
-                            </ul></li>
-                            {{- if $subwork.cw }}<li><em>CWs:</em> {{ $subwork.cw }}</li>{{- end }}
-                            {{- if $subwork.spoilers }}<li><em>Spoilers:</em> {{ $subwork.spoilers | markdownify }}</li>{{- end }}
-                        </ul>
-                    </dd>
-                {{- end }}
-                </dl>
-            {{- end }}
-        </dd>
+        {{ partial "work.html" (dict "work" $work "works" $works "creators" $creators) }}
         {{- end }}
     </dl>
 
-    {{- range $collection := hugo.Data.collections }}
+    {{- range $collection := $collections }}
     <h2>{{ $collection.title }}</h2>
 
     <dl>
         {{- range $work := where $works "collection" $collection.id }}
-        <dt><a href="{{ $work.url }}">{{ $work.title }}</a> <span class="author">by 
-                {{ range $k, $author := $work.authors }}
-                {{- if index hugo.Data.creators $author }}<a href="{{ index hugo.Data.creators $author }}" target="_blank">{{ $author | markdownify }}</a>{{ else }}{{ $author | markdownify }}{{ end }}
-                {{- if ne (add $k 1) ($work.authors | len) }}, {{ end }}
-                {{- end }}
-                {{- range $contributor := $work.contributors }},
-                {{ if index hugo.Data.creators $contributor }}<a href="{{ index hugo.Data.creators $contributor }}" target="_blank">{{ $contributor | markdownify }}</a>{{ else }}{{ $contributor | markdownify }}{{ end }}
-                <small>(contributor)</small>
-                {{- end }}    
-            </span></dt>
-        <dd>
-            {{ $work.description | markdownify }}
-            <ul class="meta">
-                <li><em>Type:</em> {{ $work.type }}</li>
-                <li><em>Characters and dates:</em>
-                    {{- range $k, $v := $work.years }}
-                    {{ index $work.characters $k }} — {{ $v }}
-                    {{- if ne (add $k 1) ($work.years | len) }}, {{- end }}
-                    {{- end }}</li>
-                {{- if $work.cw }}<li><em>CWs:</em> {{ $work.cw }}</li>{{- end }}
-                {{- if $work.spoilers }}<li><em>Spoilers:</em> {{ $work.spoilers | markdownify }}</li>{{- end }}
-            </ul>
-            {{- $subworks := where $works "parent" "eq" $work.title }}
-            {{- if gt (len $subworks) 0 }}
-                <h3>Associated works</h3>
-                <dl>
-                {{- range $subwork := where $works "parent" "eq" $work.title }}
-                    <dt><a href="{{ $subwork.url }}">{{ $subwork.title }}</a> <span class="author">by
-                            {{ range $k, $author := $subwork.authors }}
-                            {{- if index hugo.Data.creators $author }}<a href="{{ index hugo.Data.creators $author }}" target="_blank">{{ $author | markdownify }}</a>{{ else }}{{ $author | markdownify }}{{ end }}
-                            {{- if ne (add $k 1) ($work.authors | len) }}, {{ end }}
-                            {{- end }}
-                            {{- range $contributor := $subwork.contributors }},
-                            {{ if index hugo.Data.creators $contributor }}<a href="{{ index hugo.Data.creators $contributor }}" target="_blank">{{ $contributor | markdownify }}</a>{{ else }}{{ $contributor | markdownify }}{{ end }}
-                            <small>(contributor)</small>
-                            {{- end }}
-                        </span></dt>
-                    <dd>
-                        {{ $subwork.description | markdownify }}
-                        <ul class="meta">
-                            <li><em>Type:</em> {{ $subwork.type }}</li>
-                            <li><em>Characters and dates:</em> <ul>
-                                {{- range $k, $v := $subwork.years }}
-                                <li>{{ index $subwork.characters $k }} — {{ $v }}</li>
-                                {{- end }}
-                            </ul></li>
-                            {{- if $subwork.cw }}<li><em>CWs:</em> {{ $subwork.cw }}</li>{{- end }}
-                            {{- if $subwork.spoilers }}<li><em>Spoilers:</em> {{ $subwork.spoilers | markdownify }}</li>{{- end }}
-                        </ul>
-                    </dd>
-                {{- end }}
-                </dl>
-            {{- end }}
-        </dd>
+        {{ partial "work.html" (dict "work" $work "works" $works "creators" $creators) }}
         {{- end }}
     </dl>
     {{- end }}
 
 </section>
-{{- end }}
