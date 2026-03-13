@@ -200,6 +200,35 @@ main.story .author, main.story .character, main.story h3 {
     margin-left: 1.5rem;
 }
 
+.works dt {
+    background: rgba(127, 127, 127, 0.2);
+    background: linear-gradient(135deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) top left;
+    margin: 0;
+    padding: 0 0 0.25rem 1rem;
+    text-decoration: none;
+    position: relative;
+}
+.works .author {
+    font-size: 14pt;
+    font-style: italic;
+}
+.works dd {
+    background-color: rgba(127, 127, 127, 0.1);
+    background: linear-gradient(315deg, transparent 0.5rem, rgba(127, 127, 127, 0.1) 0) bottom right;
+    margin: 0 0 2rem 0;
+    padding: 0.25rem 1rem 0.25rem 2rem;
+    text-align: left;
+    font-size: 16pt;
+}
+.works h2 {
+    margin-top: 4rem;
+}
+.works .meta {
+    font-size: 14pt;
+    list-style-type: none;
+    padding-top: 0.5rem;
+}
+
 @media only screen and (max-width: 960px) {
     .carousel nav {
             display: none;

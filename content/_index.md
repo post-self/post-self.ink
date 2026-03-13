@@ -29,7 +29,7 @@ Alternately: "If I had a nickel for every time I accidentally wrote something wi
 </p>
 
 <div id="feed">
-    <h1>Updates</h1>
+    <h1><a href="https://read.post-self.ink/post-self/" target="_blank">Updates</a></h1>
 </div>
 <script src="/js/rss.js"></script>
 

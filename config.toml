@@ -6,7 +6,7 @@ paginatePath = ""
 disablePathToLower = true
 
 [permalinks]
-    post = '/:filename/'
+    post = '/:contentbasename/'
 
 [params]
     # author = 'Madison Scott-Clary'
