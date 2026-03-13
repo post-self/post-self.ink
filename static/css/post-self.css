@@ -200,6 +200,9 @@ main.story .author, main.story .character, main.story h3 {
     margin-left: 1.5rem;
 }
 
+.works {
+  text-align: left;
+}
 .works dt {
     background: rgba(127, 127, 127, 0.2);
     background: linear-gradient(135deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) top left;
@@ -211,13 +214,13 @@ main.story .author, main.story .character, main.story h3 {
 .works .author {
     font-size: 14pt;
     font-style: italic;
+    opacity: 0.75;
 }
 .works dd {
     background-color: rgba(127, 127, 127, 0.1);
     background: linear-gradient(315deg, transparent 0.5rem, rgba(127, 127, 127, 0.1) 0) bottom right;
     margin: 0 0 2rem 0;
     padding: 0.25rem 1rem 0.25rem 2rem;
-    text-align: left;
     font-size: 16pt;
 }
 .works h2 {

@@ -27,7 +27,7 @@
 - title: Coffee Leak
   url: /stories/coffee-leak
   authors:
-  - Krzystof "Tomash" Drewniak
+  - Krzysztof "Tomash" Drewniak
   type: short story
   years:
   - 2299
@@ -135,7 +135,7 @@
   - 2323
   characters:
   - Scout At The Party III
-  description: The Party *never* stops. Therei s a dog in this one~
+  description: The Party *never* stops. There is a dog in this one~
 
 - title: To — in the days after her death
   url: /stories/to---in-the-days-after-her-death
@@ -340,6 +340,7 @@
   - 2346–2355
   characters:
   - The Bălan clade
+  description: Selected correspondences of the Bălan clade systime 222–232.
 
 ##############
 # Motes Played
@@ -434,8 +435,9 @@
   collection: hashichzur
   authors:
   - Madison Rye Progress
-  - Samantha Yule Fireheart (contributor)
-  - Krzysztof "Tomash" Drewniak (contributor)
+  contributors:
+  - Samantha Yule Fireheart
+  - Krzysztof "Tomash" Drewniak
   type: novel
   years:
   - 2403
@@ -476,7 +478,8 @@
   collection: hashichzur
   authors:
   - Madison Rye Progress
-  - Samantha Yule Fireheart (contributor)
+  contributors:
+  - Samantha Yule Fireheart
   type: novel
   years:
   - 2401
@@ -572,7 +575,7 @@
   - 2401
   characters:
   - Scout At The Party V
-  decription: It may stumble, but nothing stops The Party.
+  description: It may stumble, but nothing stops The Party.
 
 - title: A Well-Trained Eye
   url: https://marsh.post-self.ink/stories/a-well-trained-eye/
