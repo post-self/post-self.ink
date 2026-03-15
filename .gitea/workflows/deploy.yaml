@@ -9,6 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     container:
+      image: ubuntu:latest
       volumes:
         - ${{ vars.DESTINATION }}:${{ vars.DESTINATION }}
     env:
