@@ -16,3 +16,4 @@ jobs:
 
       - name: Build site
         run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }} --destination ${{ vars.DESTINATION }}
+        shell: sh
