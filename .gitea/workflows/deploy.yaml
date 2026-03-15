@@ -34,4 +34,6 @@ jobs:
           && sass --embedded --version
 
       - name: Build site
-        run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }} --destination ${{ vars.DESTINATION }}
+        run: |
+          echo -e "BASE_URL: ${{ vars.BASE_URL }}\\n DESTINATION ${{ vars.DESTINATION }}"
+          hugo build --gc --minify --baseURL ${{ vars.BASE_URL }} --destination ${{ vars.DESTINATION }}
