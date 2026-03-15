@@ -7,13 +7,19 @@ on:
 
 jobs:
   deploy:
-    runs-on: hugo
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@v6
         with:
           submodules: 'true'
 
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.157.0'
+          extended: true
+
+
       - name: Build site
-        run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }} --destination ${{ vars.DESTINATION }}
-        shell: sh
+        run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }}
