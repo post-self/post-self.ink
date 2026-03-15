@@ -8,6 +8,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      DART_SASS_VERSION: 1.98.0
     steps:
       - name: Check out repo
         uses: actions/checkout@v6
@@ -21,7 +23,12 @@ jobs:
           extended: true
 
       - name: Install Dart Sass
-        run: sudo snap install dart-sass && sudo snap alias dart-sass sass
+        run: |
+          curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz \
+          && tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz \
+          && cp -r dart-sass/* /usr/local/bin \
+          && rm -rf dart-sass* \
+          && sass --embedded --version
 
       - name: Build site
         run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }}
