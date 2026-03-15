@@ -11,7 +11,7 @@ jobs:
     container:
       image: docker.gitea.com/runner-images:ubuntu-latest
       volumes:
-        - ${{ vars.DESTINATION }}:${{ vars.DESTINATION }}
+        - /opt/hugo/post-self.ink:/opt/hugo/post-self.ink
     env:
       DART_SASS_VERSION: 1.98.0
     steps:
@@ -36,5 +36,4 @@ jobs:
 
       - name: Build site
         run: |
-          echo -e "BASE_URL: ${{ vars.BASE_URL }}\\n DESTINATION ${{ vars.DESTINATION }}"
-          hugo build --gc --minify --baseURL ${{ vars.BASE_URL }} --destination ${{ vars.DESTINATION }}
+          hugo build --gc --minify --baseURL https://post-self.ink --destination /opt/hugo/post-self.ink
