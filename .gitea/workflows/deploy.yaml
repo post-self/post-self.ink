@@ -8,6 +8,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    container:
+      volumes:
+        - ${{ vars.DESTINATION }}:${{ vars.DESTINATION }}
     env:
       DART_SASS_VERSION: 1.98.0
     steps:
@@ -31,4 +34,4 @@ jobs:
           && sass --embedded --version
 
       - name: Build site
-        run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }}
+        run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }} --destiation ${{ vars.DESTINATION }}
