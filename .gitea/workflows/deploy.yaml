@@ -20,8 +20,8 @@ jobs:
           hugo-version: '0.157.0'
           extended: true
 
-      - name: Install dart-sass
-        uses: dw-labs-org/dart-sass-gha@v1
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass && sudo snap alias dart-sass sass
 
       - name: Build site
         run: hugo build --gc --minify --baseURL ${{ vars.BASE_URL }}
