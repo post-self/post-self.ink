@@ -37,3 +37,6 @@ jobs:
       - name: Build site
         run: |
           hugo build --gc --minify --baseURL https://post-self.ink --destination /opt/hugo/post-self.ink
+
+      - name: Set permissions
+        run: chown -R www-data:www-data /opt/hugo/post-self.ink
