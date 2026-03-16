@@ -6,3 +6,29 @@
 
 - id: clade
   title: Clade
+
+- id: qoheleth
+  title: "[*Qoheleth and Gallery Exhibition*](https://qoheleth.post-self.ink)"
+
+- id: toledot
+  title: "[*Toledot*](https://toledot.post-self.ink)"
+
+- id: neviim
+  title: "[*Nevi’im*](https://neviim.post-self.ink)"
+
+- id: mitzvot
+  title: "[*Mitzvot and Selected Letters*](https://mitzvot.post-self.ink)"
+
+- id: motes-played
+  title: "[*Motes Played*](https://motes-played.post-self.ink)"
+
+- id: marsh
+  title: "[*Marsh and Stories From After*](https://marsh.post-self.ink)"
+
+- id: additional-art
+  title: Additional Art
+  description: Additional art that was specifically commissioned of characters from Post-Self or the stories they feature in.
+
+- id: fan-art
+  title: Fan Art
+  description: Art created by fans and offered for display here.
