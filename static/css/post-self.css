@@ -218,6 +218,11 @@ main.story .author, main.story .character, main.story h3 {
     background: linear-gradient(315deg, transparent 0.5rem, rgba(127, 127, 127, 0.1) 0) bottom right;
 }
 
+.works > nav .active {
+    background-color: transparent !important;
+    background: linear-gradient(135deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) top left;
+}
+
 @media only screen and (max-width: 960px) {
     .carousel nav {
             display: none;
