@@ -12,6 +12,17 @@ blockquote {
     overflow-wrap: break-word;
 }
 
+nav details summary::marker,
+:is(::-webkit-details-marker) {
+    content: "+ ";
+    font-family: monospace;
+    font-weight: bold;
+}
+
+nav details[open]:first-of-type summary::marker {
+    content: "− ";
+}
+
 main.story .author, main.story .character, main.story h3 {
     font-family: "Gotu", sans-serif !important;
     text-align: center !important;
