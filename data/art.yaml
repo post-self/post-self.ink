@@ -281,6 +281,14 @@
   url: /gallery/what_right_have_i.png
   description: What Right Have I in the midst of some dance or another.
 
+- title: What Write Have I
+  collection: additional-art
+  authors:
+  - Lunegrimm
+  image: /gallery/thumbs/what_write_have_i.png
+  url: /gallery/what_write_have_i.png
+  description: Okay, bad joke. Still, skunks do a write.
+
 - title: Beat Saber v49
   collection: additional-art
   authors:
@@ -304,6 +312,25 @@
   image: /gallery/thumbs/chalk.png
   url: /gallery/chalk.png
   description: Motes's favorite pastime.
+
+- title: Seras Frame
+  collection: additional-art
+  authors:
+  - Roxanna
+  image: /gallery/thumbs/seras.png
+  url: /gallery/seras.png
+  description: Train skunk also likes planes, turns out! Seras makes an appearance in ["A Well-Trained Eye"](https://marsh.post-self.ink/stories/a-well-trained-eye/).
+
+- title: Skeletal flower
+  collection: additional-art
+  authors:
+  - Voksa
+  image: /gallery/thumbs/flower.png
+  url: /gallery/flower.png
+  description: |
+    > "And Warmth In Fire came over, too, so that it could sit at our table and weep rather than eat. Ey wept, and then asked to retreat, and we guided her up to Should We Forget's room so that they could lay in her bed for a while in silence. When it came back downstairs, ey thanked us kindly and left, and when we went back upstairs to look, there was a flower wrought out of some subtly glowing metal left on Should We Forget's pillow. It lays there still."
+
+    As seen in [*Idumea*](https://idumea.post-self.ink)
 
 #########
 # Fan art
@@ -379,7 +406,7 @@
   - enbydergstrous
   image: /gallery/thumbs/bad-day.png
   url: /gallery/bad-day.png
-  description: True Name having a rough one.
+  description: True Name having a rough one. A bit of art that led to the drabble ["Meeting"](/stories/meeting).
 
 - title: What's inside?
   collection: fan-art

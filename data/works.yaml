@@ -26,6 +26,7 @@
 
 - title: Coffee Leak
   url: /stories/coffee-leak
+  image: /gallery/thumbs/coffee-leak.png
   authors:
   - Krzysztof "Tomash" Drewniak
   type: short story
@@ -72,6 +73,7 @@
 
 - title: For Old Times New
   url: /stories/for-old-times-new
+  image: /gallery/thumbs/sierra.png
   authors:
   - JL Conway
   type: short story
@@ -103,6 +105,18 @@
   characters:
   - Scout By The Washes-Away-Paintings Beach
   description: Wherein the bacon lady goes missing, is found, and embarks on a quest.
+
+- title: Meeting
+  url: /stories/meeting
+  image: /gallery/thumbs/bad-day.png
+  authors:
+  - Madison Rye Progress
+  type: short story
+  years:
+  - 2326
+  characters:
+  - True Name
+  description: Even if only for a moment, after that meeting, True Name finally, *finally* stopped.
 
 - title: Meeting of One
   url: /stories/meeting-of-one
@@ -232,6 +246,7 @@
 
 - title: Qoheleth
   url: https://qoheleth.post-self.ink
+  image: /gallery/thumbs/qoheleth-front.png
   collection: cycle
   authors:
   - Madison Rye Progress
@@ -257,6 +272,7 @@
 
 - title: "Gallery Exhibition: A Love Story"
   url: https://qoheleth.post-self.ink/gallery-exhibition
+  image: /gallery/thumbs/dear.png
   parent: Qoheleth
   authors:
   - Madison Rye Progress
@@ -278,6 +294,7 @@
 
 - title: Toledot
   url: https://toledot.post-self.ink
+  image: /gallery/thumbs/toledot-front.png
   collection: cycle
   authors:
   - Madison Rye Progress
@@ -308,6 +325,7 @@
 
 - title: Nevi'im
   url: https://neviim.post-self.ink
+  image: /gallery/thumbs/neviim-front.png
   collection: cycle
   authors:
   - Madison Rye Progress
@@ -336,6 +354,7 @@
 
 - title: Mitzvot
   url: https://mitzvot.post-self.ink
+  image: /gallery/thumbs/mitzvot-front.png
   collection: cycle
   authors:
   - Madison Rye Progress
@@ -370,6 +389,7 @@
 
 - title: Motes Played
   url: https://motes-played.post-self.ink
+  image: /gallery/thumbs/motes-played.png
   authors:
   - Madison Rye Progress
   - Samantha Yule Fireheart
@@ -406,6 +426,7 @@
 
 - title: In it for the long haul
   url: https://motes-played.post-self.ink/long-haul
+  image: /gallery/thumbs/skateboard.png
   parent: Motes Played
   authors:
   - Madison Rye Progress
@@ -455,6 +476,7 @@
 
 - title: Idumea
   url: https://idumea.post-self.ink
+  image: /gallery/thumbs/flower.png
   collection: hashichzur
   authors:
   - Madison Rye Progress
@@ -498,6 +520,7 @@
 
 - title: Marsh
   url: https://marsh.post-self.ink
+  image: /gallery/thumbs/marsh-front.png
   collection: hashichzur
   authors:
   - Madison Rye Progress
