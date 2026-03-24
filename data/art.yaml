@@ -273,6 +273,25 @@
   url: /gallery/lounge.png
   description: After a night on the town, Beholden and A Finger Pointing relax together.
 
+- title: What Right Have I
+  collection: additional-art
+  authors:
+  - Zinya
+  image: /gallery/thumbs/wrhi-portrait.png
+  url: /gallery/lounge.png
+  description: The professional portrait What Right Have I has in all of her publications.
+
+- title: Also What Right Have I
+  collection: additional-art
+  authors:
+  - goatygoats
+  image: /gallery/thumbs/aaaaa.png
+  url: /gallery/aaaaa.png
+  description: |
+    How What Right Have I usually looks.
+
+    Alternate caption: "None of these thoughts are in the Torah..."
+
 - title: Dancing
   collection: additional-art
   authors:
