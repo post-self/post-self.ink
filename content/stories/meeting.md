@@ -46,9 +46,9 @@ The more serious they got, these two people scattered across however many indivi
 
 Such was the way of the world.
 
-Sometime in there, Zacharias joined, as well. He, too, became a force to be reckoned with, just as had True Name and Jonas. He, too, flowed like water.
-
 As Jonas, True Name, and their ilk — the Jonas clade, the eighth stanza and the first and second, some select few others — became a force to be reckoned with, they grew from a stream to a wide, wide river. A slow moving river, but one with such power. Working groups were carved out into oxbow lakes. Reservoirs of committees formed. Meetings and meetings...
+
+Sometime in there, Zacharias joined, as well. He, too, became a force to be reckoned with, just as had True Name and Jonas. He, too, flowed like water.
 
 But always, True Name and Zacharias flowed. They, more than anything to do with work, anything with Jonas, with the three of them together, with all of the eighth stanza, with all of their combined clades, resisted the idea of stopping.
 
