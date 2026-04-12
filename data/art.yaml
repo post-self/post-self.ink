@@ -273,6 +273,17 @@
   url: /gallery/lounge.png
   description: After a night on the town, Beholden and A Finger Pointing relax together.
 
+- title: True Name in Spring
+  collection: additional-art
+  authors:
+  - Mot
+  image: /gallery/thumbs/true-name-spring.png
+  url: /gallery/true-name-spring.png
+  description: |
+    She do she best.
+
+    (Alternate: [True Name in Autumn](/gallery/true-name-autumn.png))
+
 - title: What Right Have I
   collection: additional-art
   authors:
