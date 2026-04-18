@@ -445,3 +445,12 @@
   image: /gallery/thumbs/pain.png
   url: /gallery/pain.png
   description: Pain.
+
+- title: Après un rêve
+  collection: fan-art
+  authors:
+  - Mel
+  image: /gallery/thumbs/apres-un-reve.png
+  url: /gallery/apres-un-reve.png
+  description: |
+    Some fan art inspired by the story [Après un rêve](https://clade.post-self.ink/apres-un-reve).
