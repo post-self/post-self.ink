@@ -365,6 +365,13 @@
 #########
 # Fan art
 
+- title: Dear, Also, The Tree That Was Felled
+  collection: fan-art
+  authors:
+  - Iris Jay
+  image: /gallery/thumbs/dear-ref.png
+  url: /gallery/dear-ref.png
+  description: The very first bit of fan art, which led to Iris working on the covers for five of the Post-Self books.
 
 - title: Douglas
   collection: fan-art
