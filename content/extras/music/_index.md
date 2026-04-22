@@ -33,7 +33,7 @@ Each book within the Post-Self Cycle, as well as many of the other stories in th
 
 ### Characters
 
-Character playlists are offered both to give a sense of the characters' moods when writing, but also, as many are constructed by fictive headmates, they give a sense of how the headmates fit into the system. Note that the pages are generated via an export tool, so the playlists themselves on Spotify may differ, because it is a pain in the ass to update them.
+Character playlists are offered both to give a sense of the characters' moods when writing, but also, as many are constructed by fictive headmates, they give a sense of how the headmates fit into the system.
 
 
 * <s>[A Finger Pointing](https://www.tunemymusic.com/share/QLN2mlRpjP)</s> (Link temporarily broken)
