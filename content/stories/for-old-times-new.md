@@ -104,7 +104,7 @@ This is a unique sensation. I can feel my fingers and my toes, there are no dead
 
 "This is fairly new to me, if I'm being honest. I haven't been able to stand up straight in almost a decade. I thought the upload process brought all your flaws along and you had to learn your way out of them."
 
-"In many cases it does, but your nervous system was so damaged we were lucky to get a successful scan. It doesn't make any sense to bring someone right back into their suffering, but we've been doing this for a few hundred years so it only took a bit of time to do some remodeling before you were dropped in."
+"In many cases it does, but your nervous system was so damaged we were lucky to get a successful scan. It doesn't make any sense to bring someone right back into their suffering, but we've been doing this for almost a hundred years so it only took a bit of time to do some remodeling before you were dropped in."
 
 "That would explain the momentary limbo."
 
@@ -435,7 +435,7 @@ She's amazingly patient as I spread my palms and feel the way her snout runs off
 
 "Barrel chest, brother. Lots of neck. You'll get there. Big hooves too, start working on those." She holds her hand up to mine. "You should be bigger and rougher than me, I'm a quarter horse mix and you're a damn draft jack."
 
-Keep forking, lose the boots. The transition from feet to big heavy hooves is a little jarring, but the shape change forces my body to rebuild the shape from the thighs down and it changes the musculature all the way up my back. My ears come up, my hands get thicker, my everything gets thicker. I picture it in my mind. Not steps any more. Just picture the whole guy, the entire jack. The big \`ole boy. Hold it, hold him in my mind. Be him. The next fork is a big leap, I stumble back and lean against the wall. My old self even looks surprised.
+Keep forking, lose the boots. The transition from feet to big heavy hooves is a little jarring, but the shape change forces my body to rebuild the shape from the thighs down and it changes the musculature all the way up my back. My ears come up, my hands get thicker, my everything gets thicker. I picture it in my mind. Not steps any more. Just picture the whole guy, the entire jack. The big 'ole boy. Hold it, hold him in my mind. Be him. The next fork is a big leap, I stumble back and lean against the wall. My old self even looks surprised.
 
 "Hot damn, you did it. I did it. Well, I guess you did it. You get what I mean."
 
