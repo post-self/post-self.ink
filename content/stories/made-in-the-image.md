@@ -27,7 +27,7 @@ I shake my head, but the movement still feels out of place on this body, and so 
 
 "Mm. You depart for a middle ground?"
 
-This time, I avoid the impulse to shake my head. "No. I think that it might actually work to balance out the...ah, the sense of smell, yes? Were it to stay sharp, I think that I might wind up more easily overwhelmed, yes? I feel I am already making...mm, perhaps making a concession by retaining the ability to speak, but I will need such still. I would rather not concede on that which I do not need to."
+This time, I avoid the impulse to shake my head. "No. I think that it might actually work to balance out the...ah, the sense of smell, yes? Were it to stay sharp, I think that I might wind up more easily overwhelmed. I feel I am already making...mm, perhaps making a concession by retaining the ability to speak, but I will need such still. I would rather not concede on that which I do not need to."
 
 "Mm." They sound drowsy. I *feel* drowsy. I want to be under something. I want to be under the ground or under my desk or curled up, my face under the tip of my tail to block out the light. I want to rest.
 
@@ -37,7 +37,7 @@ Within a week, I was just...a skunk.
 
 Just a skunk. I walk on all fours. I wear nothing. I have thick fur, yes, but it is a bit coarse like a dog's, and my tail has fur that is long but almost wispy, spreading out like a peacock's feather when I hike it.
 
-I have lived in this sim the last week, the sim where Roots lives with the others in their stanza. So many of them live in a set of town-houses with a well-manicured park just outside, but across the road, ever empty, lies a vast open space, a buffalo grass prairie full of banked snow in winter and the rattle-clatter of grasshoppers in summer.
+I have lived in this sim the last week and a half, the sim where Roots lives with the others in their stanza. So many of them live in a set of town-houses with a well-manicured park just outside, but across the road, ever empty, lies a vast open space, a buffalo grass prairie full of banked snow in winter and the rattle-clatter of grasshoppers in summer.
 
 I have slept under the stars — so many stars, more than we have back at Beth Tikvah — and through the hottest parts of the day. I have explored the playground in the park at dusk and dug in the dirt at dawn.
 
@@ -61,13 +61,13 @@ I nod — or perhaps practice nodding; a rearing back of the head and a bobbing 
 
 "The Odists move where they dally still, yes?" they continue. "Michelle Hadje uploaded and then made herself ten. Ten made themselves one hundred. We continue more than a thousand of us now, all stemming from one mind.
 
-"Some of those thousand leave behind new instances of themselves to individuate and make their own selves over the years, and others hardly fork at all. Even within our very own clade, we bear the clade's spectrum of post-humanity. We remain all of us post-Michelle. You embody post-From Whence, who in turn embodies post-Oh, But To Whom."
+"Some of those thousand leave behind new instances of themselves to individuate and make their own selves over the years, and others hardly fork at all. Even within our very own clade, we bear the spectrum of post-humanity. We remain all of us post-Michelle. You embody post-From Whence, who in turn embodies post-Oh, But To Whom."
 
 "I do not know that...ah, that either of them have considered a life such as this," I muse, scuffing at the dirt with a pawful of long, dull claws.
 
 "You flower with different petals. You stem from them, yes; you *shared* their roots and stalks, but you grow differently. You blossomed your own person decades back."
 
-"More than a century," I muse. "Is it wrong of me, then, to wonder if Michelle had this in her?"
+"More than a century," I muse. "Is it wrong of me, then, to wonder if Michelle had this in her? Before uploading, that is."
 
 Roots rolls onto their side and curls around to face me, making it far easier to focus on them. "This more skunkly identity? Becoming an animal? A creature? A *critter?*" They waggle their forepaws at me.
 
@@ -87,7 +87,7 @@ I am...
 
 "It was...ah, well, I told her that I would come back looking quite a bit different than I did, yes? I told her that...ah, that I was visiting you to look to change the way I engaged with the world. She knows vaguely what, but...ah, but not why," I say, my stammer picking up in my defensiveness. "You remember when I arrived; I was...ah, I was not even sure what I wanted then, other than to try something non-anthropomorphic."
 
-We stand in silence for a few seconds before they let their tail droop again. "I step too fast. I apologize, What Right Have I. Your heart seeks this joy, and my heart compels me and I aid your joy into this world, but this joy withers if it eludes those you hold close. Share it before surprise shares odd guests all its own."
+We stand in silence for a few seconds before they let their tail droop again. "I step too fast. I apologize, What Right Have I. Your heart seeks this joy, and my heart compels me that I aid your joy into this world, but this joy withers if it eludes those you hold close. Share it before surprise shares odd guests all its own."
 
 It takes me a moment to parse the strange and immediate way in which they speak, but I have been getting used to their speech patterns of late. I have my own patterns, after all, picked up over many years, and so it is not so surprising.
 
@@ -183,7 +183,7 @@ Another nod.
 
 "But–"
 
-"What Right Have I," she interrupts again, laughing, "if you apologize again for being less able to do the things a human does while being not-a-human, I will pull your tail and call you names."
+"What Right Have I," she interrupts again, laughing, "if you apologize again for being less able to do the things a human being does while being not-a-human, I will pull your tail and call you names."
 
 I lower my head to rest my chin on the cool wood of her desk. Something about her words catches at me. They pull at my identity, tugging and nudging and pressing. I feel the ways in which this little experiment has changed me already set in stark contrast to what I had expected.
 
@@ -201,7 +201,7 @@ My days pick up before long the flavor of routine.
 
 Rav and I decide that first day that I will stay with her rather than return to my little apartment further down the hill, at least for the time being. Not only will it save me the trouble of walking quite so far on stubby little legs, but my apartment is largely just a library of books that I can no longer read in such a form. That I happen to sleep there as well is ancillary to its primary purpose.
 
-So it is that I wake early in the morning at first light, lift my snout to silently say the *shema,* spend a while grooming while curled at the foot of Rav's bed, and then scratch at the door to be let out. We both suggest at one point installing a dog-door type entrance for me, and each time, we decide against it for the time being. In her case, she feels that this is a small service that she can offer me, that it keeps us tied together in a way that our frequent conversations used to.
+So it is that I wake early in the morning at first light, lift my snout to silently say *Modah Ani*, then cover my face with my paws to say the *Shema.* I spend a while grooming while curled at the foot of Rav's bed, marveling at my new form, and then scratch at the door to be let out. We both suggest at one point installing a dog-door type entrance for me, and each time, we decide against it for the moment. In her case, she feels that this is a small service that she can offer me, that it keeps us tied together in a way that our frequent conversations used to.
 
 In my case, though, I have found that it is a way for me to lean harder into this sense of animalism, of being a creature not built for a world with doors and handles, that I did not expect when first picking up this project.
 
@@ -249,7 +249,7 @@ This may sound like some sort of grand internal argument, that there is a fricti
 
 I do not feel stress, I feel invigoration.
 
-I feel invigorated that I can now trundle around the grounds and root about in the grass or beneath the hedges. I can sleep beneath benches or stomp my feet at someone who startles me. I can scratch at doors and eat from a bowl raw egg yolk and fish.
+I feel invigorated that I can now trundle around the grounds and root about in the grass or beneath the hedges. I can sleep beneath benches or stomp my paws at someone who startles me. I can scratch at doors and eat from a bowl raw egg yolk and fish.
 
 I feel invigorated that I can do all of these things that make me feel more like a skunk than I ever had before while still being myself. I can set aside vast swaths of humanity, and it will all still be okay. Rav will still love me, and my days will still be spent in words and contemplation, and I will still wrap myself up in my inherited faith in God, but I will be this new thing and that will be okay.
 
@@ -259,7 +259,7 @@ Only, I wonder...
 
 "I have...ah, I have been experiencing doubt," I say.
 
-Roots has invited me back to the sim in which they live to speak about my first month as a skunk has gone. It is as lovely as I remember here, and Roots is as kind as ever. We had spent the morning talking over my experiences, incorporating small changes at their suggestion: claws a little shorter after I complained about them twisting my digits, a gentle tweak to my ankles to make them more flexible, and so on.
+Roots has invited me back to the sim in which they live to speak about how my first month as a skunk has gone. It is as lovely as I remember here, and Roots is as kind as ever. We had spent the morning talking over my experiences, incorporating small changes at their suggestion: claws a little shorter after I complained about them twisting my digits, a gentle tweak to my ankles to make them more flexible, and so on.
 
 Now, however, we have trundled our way down from the road through the prairie to the little pond that lays at the base of the hill upon which the townhouses sit. We drink from the water there, fresh and cool, and then squeeze our way under the root of a willow that stands awkwardly at the bank. It is cool and it is dark. It is a good place, in my mind, to speak of feelings.
 
@@ -297,7 +297,7 @@ The resemblance is clear: she is nearly the same height, the same pudgy build. W
 
 The white skunk beside me asks, "And forking requires rescinding?"
 
-At this the human really *does* tic, an uncomfortable-sounding squeak that comes with a flush of color to her cheeks. Unable to stand against her discomfort, she quits. She disappears and her memories merging back down into mine. I can feel the shame that she felt burn still.
+At this the human really *does* tic, an uncomfortable-sounding squeak that comes with a flush of color to her cheeks. Unable to stand against her discomfort, she quits. She disappears and her memories merge back down into mine. I can feel the shame that she felt burn still.
 
 *Shame.*
 
@@ -315,7 +315,7 @@ I nod.
 
 "I–"
 
-"Not if you looked human. Not if you performed humanity. Whether you *were human.*"
+"I ask not if you looked human. Not if you performed humanity. Whether you *were human.*"
 
 I buy time to think about this while scratching my snout — kicking myself in the face to scratch an itch has taken much getting used to — before I say, "That is...ah, that is a surprisingly difficult question to answer."
 
@@ -351,7 +351,7 @@ I nod.
 
 I do not laugh.
 
-"Apologies, my dear. I know that it complicates beyond that. However, I trust that you understand that I have not returned to live so wholeheartedly into the faith of our ancestors as you and yours have. These questions fit better directed to From Whence or Oh, But To Whom if you cannot provide the answers yourself."
+"Apologies, my dear. I know that it complicates beyond that. However, I trust that you understand that *I* have not returned to live so wholeheartedly into the faith of our ancestors as you and yours have. These questions fit better directed to From Whence or Oh, But To Whom if you cannot provide the answers yourself."
 
 "I understand, yes," I say, and do my best to keep all petulance out of my voice.
 
@@ -377,7 +377,7 @@ Instead, I slip the rest of the way from beneath the covers and pace along the e
 
 Which, I realize, I have.
 
-I turn around, then, and walk back up to where Rav is swinging her legs out of the bed and paw at her arm.
+I turn around, then, and slink back up to where Rav is swinging her legs out of the bed and paw at her arm.
 
 "Carry?"
 
@@ -435,13 +435,13 @@ She shakes her head. "We are not the only animals that speak, yes?"
 
 "We are certainly not the only species that cares, nor that has emotions."
 
-"Indeed," I say, raising my head and pulling words from a book I had recently reread. "Even...ah, even Maimonides says such: "There is no difference in this case between the pain of man and the pain of other living beings, since...ah, since the love and tenderness of the mother for her young ones is not produced by reasoning, but by imagination, and this faculty exists not only in man but...ah, but in most living beings.""
+"Indeed," I say, raising my head and pulling words from a book I had recently reread. "Even...ah, even Maimonides says such: "There is no difference in this case between the pain of man and the pain of other living beings, since the love and tenderness of the mother for her young ones is not produced by reasoning, but by imagination, and this faculty exists not only in man but in most living beings.""
 
 "Of *course* you have a quote," she says, laughing fondly. "I love you dearly. Please be ever yourself."
 
 I manage a weak smile. "That is the rub, yes?"
 
-"Yes. Of course, my dear. I apologize if that came off as insensitive." She smiles down to me, brushing her finger gently under my snout from chin to chest. "Perhaps it is the ability to teach, or to learn. Not just individually, but on a societal, generational scale."
+"Yes. Of course, my dear. I apologize if that came off as insensitive." She smiles down to me, brushing her finger gently under my snout from chin to chest. "Perhaps instead it is the ability to teach, or to learn. Not just individually, but on a societal, generational scale."
 
 I keep my snout lifted for the touch, and stay quiet to mull over these words.
 
@@ -487,7 +487,7 @@ We linger then in silence long enough that she dozes off once more, and I simply
 
 When, at last, her personal alarm goes off, nudging her awake with a gentle shift in simulated hormones, I have had time to think of what our conversation might be, what our morning and day and future might look like.
 
-For now, though, the important thing for me is to fall back into all of those habits that we have formed. I say the *shema* silently to myself, face buried against my paws, and then I wiggle from her grasp and trundle over to the foot of the bed so that I can make my way down the set of steps made of stacked siddurim to scratch at the door.
+For now, though, the important thing for me is to fall back into all of those habits that we have formed. I say my morning prayers silently to myself, face buried against my paws, and then I wiggle from her grasp and trundle over to the foot of the bed so that I can make my way down the set of steps made of stacked siddurim to scratch at the door.
 
 Rav follows more sedately and opens the door for me, padding to the kitchen where she can see to coffee and our breakfasts. She murmurs blessings to herself as she goes, while within my head echo my own.
 
@@ -535,7 +535,7 @@ I know this story well, and it makes my heart swell to hear her tell it.
 
 She gets her paws beneath my chest and belly and lifts me up. Instinctively my four legs splay out to the sides, hunting for purchase.
 
-"The man smiled to the rabbi and said calmly, "I do not know. Perhaps you can go and tell the Artisan who made me: how *ugly* is the vessel you have made.""
+"The man smiled to the rabbi and said calmly, "I do not know. Perhaps you can go and tell the Artisan who made me: how *ugly* is the vessel You have made.""
 
 As she speaks, she carries me over to the lectern and sets me down gently on its surface. It is tilted back slightly, and slippery besides, so it feels dreadfully precarious, but she stays close enough so that there is no drop behind me, only her solid form.
 
