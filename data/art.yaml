@@ -432,7 +432,7 @@
 - title: Ranger
   collection: fan-art
   authors:
-  - enbydergstrous
+  - PlayingTarot
   image: /gallery/thumbs/ranger.png
   url: /gallery/ranger.png
   description: End Waking and a night stalker from Fallout in an uneasy truce.
@@ -440,15 +440,23 @@
 - title: A Bad Day
   collection: fan-art
   authors:
-  - enbydergstrous
+  - PlayingTarot
   image: /gallery/thumbs/bad-day.png
   url: /gallery/bad-day.png
   description: True Name having a rough one. A bit of art that led to the drabble ["Meeting"](/stories/meeting).
 
+- title: Overdressed for the occasion
+  collection: fan-art
+  authors:
+  - PlayingTarot
+  image: /gallery/thumbs/overdressed-for-the-occasion.png
+  url: /gallery/overdressed-for-the-occasion.png
+  description: "Codrin Bălan and Dear, Also, The Tree That Was Felled: two critters who habitually overdress."
+
 - title: What's inside?
   collection: fan-art
   authors:
-  - enbydergstrous
+  - PlayingTarot
   image: /gallery/thumbs/pain.png
   url: /gallery/pain.png
   description: Pain.
