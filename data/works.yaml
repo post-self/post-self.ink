@@ -182,6 +182,14 @@
   description: "*Scratch* — something's gone wrong..."
   cw: surgery, mild body horror
 
+- title: Sensorium Ping
+  url: https://bsky.app/profile/sensorium-ping.bsky.social
+  authors:
+  - The Stardust clade
+  - The Moonrise clade
+  type: microfiction
+  description: "Various microfictions."
+
 - title: Shared Moment
   url: /stories/shared-moment
   authors:
