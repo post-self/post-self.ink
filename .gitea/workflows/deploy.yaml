@@ -8,8 +8,6 @@ on:
 jobs:
   deploy:
     runs-on: host
-    env:
-      DART_SASS_VERSION: 1.98.0
     steps:
       - name: Check out repo
         uses: actions/checkout@v6
@@ -22,17 +20,6 @@ jobs:
           hugo-version: '0.157.0'
           extended: true
 
-      - name: Install Dart Sass
-        run: |
-          curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz \
-          && tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz \
-          && cp -r dart-sass/* /usr/local/bin \
-          && rm -rf dart-sass* \
-          && sass --embedded --version
-
       - name: Build site
         run: |
           hugo build --gc --minify --baseURL https://post-self.ink --destination /opt/hugo/post-self.ink
-
-      - name: Set permissions
-        run: chown -R www-data:www-data /opt/hugo/post-self.ink
