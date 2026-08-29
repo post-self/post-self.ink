@@ -7,11 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-    container:
-      image: docker.gitea.com/runner-images:ubuntu-latest
-      volumes:
-        - /opt/hugo/post-self.ink:/opt/hugo/post-self.ink
+    runs-on: host
     env:
       DART_SASS_VERSION: 1.98.0
     steps:
