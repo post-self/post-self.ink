@@ -1,6 +1,7 @@
 ---
 extraClass: idumea
 title: Idumea
+layout: single
 ---
 
 <nav class="sidebar sticky">

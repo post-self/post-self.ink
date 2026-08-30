@@ -1,5 +1,6 @@
 ---
 title: Books
+layout: single
 ---
 
 <style>
@@ -16,9 +17,9 @@ blockquote {
 
 ## The Post-Self Cycle
 
-### [Book I --- Qoheleth](https://qoheleth.post-self.ink)
+### [Book I --- Qoheleth](/books/qoheleth)
 
-[![Qoheleth](/img/qoheleth.png)](https://qoheleth.post-self.ink)
+[![Qoheleth](/img/qoheleth.png)](/books/qoheleth)
 
 > "All artists search. I search for stories, in this post-self age.  What happens when you can no longer call yourself an individual, when  you have split your sense of self among several instances? How do you  react? Do you withdraw into yourself, become a hermit? Do you expand  until you lose all sense of identity? Do you fragment? Do you go about  it deliberately, or do you let nature and chance take their course?"
 
@@ -31,12 +32,12 @@ Features the bonus novella *Gallery Exhibition: A Love Story*.
 <p class="buy">
 <a href="https://makyo.itch.io/qoheleth" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/qoheleth/7" target="_blank">Order paperback</a> 
-<a href="https://qoheleth.post-self.ink">Read for free online</a>
+<a href="/books/qoheleth">Read for free online</a>
 </p>
 
-### [Book II --- Toledot](https://toledot.post-self.ink)
+### [Book II --- Toledot](/books/toledot)
 
-[![Toledot](/img/toledot.png)](https://toledot.post-self.ink)
+[![Toledot](/img/toledot.png)](/books/toledot)
 
 > *"I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."*
 
@@ -47,12 +48,12 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 <p class="buy">
 <a href="https://makyo.itch.io/toledot" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/toledot/11" target="_blank">Order paperback</a> 
-<a href="https://toledot.post-self.ink">Read for free online</a>
+<a href="/books/toledot">Read for free online</a>
 </p>
 
-### [Book III --- Nevi'im](https://neviim.post-self.ink)
+### [Book III --- Nevi'im](/books/neviim)
 
-[![Nevi'im](/img/neviim.png)](https://neviim.post-self.ink)
+[![Nevi'im](/img/neviim.png)](/books/neviim)
 
 > *"Do you know how old I am, Dr. Brahe? I am 222 years old, a fork of an individual who is...who would be 259 years old. I am no longer the True Name of 2124. Even remembering her feels like remembering an old friend. I remember her perfectly, and yet I do not remember how to be earnest. I do not know how to simply **be**."*
 
@@ -67,12 +68,12 @@ Growth is colliding with memory, and the cracks are showing.
 <p class="buy">
 <a href="https://makyo.itch.io/neviim" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/neviim/12" target="_blank">Order paperback</a> 
-<a href="https://neviim.post-self.ink">Read for free online</a>
+<a href="/books/neviim">Read for free online</a>
 </p>
 
-### [Book IV --- Mitzvot](https://mitzvot.post-self.ink)
+### [Book IV --- Mitzvot](/books/mitzvot)
 
-[![Mitzvot](/img/mitzvot.png)](https://mitzvot.post-self.ink)
+[![Mitzvot](/img/mitzvot.png)](/books/mitzvot)
 
 > *"To be built to love is to be built to dissolve. It is to be built to unbecome. It is to have the sole purpose of falling apart all in the name of someone else."*
 
@@ -85,14 +86,14 @@ Features the bonus novella *Selected Letters*.
 <p class="buy">
 <a href="https://makyo.itch.io/mitzvot" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/mitzvot/14" target="_blank">Order paperback</a> 
-<a href="https://mitzvot.post-self.ink">Read for free online</a>
+<a href="/books/mitzvot">Read for free online</a>
 </p>
 
 ## The HaShichzur Collection
 
-### [Marsh](https://marsh.post-self.ink)
+### [Marsh](/books/marsh)
 
-[![Marsh](/img/marsh.png)](https://marsh.post-self.ink)
+[![Marsh](/img/marsh.png)](/books/marsh)
 
 > “I am seeing quiet chaos. I am seeing most of my sims emptying out. The ones that are not empty, however, remain dreadfully quiet. Most of those who are out and about have set up over themselves cones of silence. Those who have not, though, are decidedly not quiet. More than one silence has been broken by weeping and wailing.”
 Marsh
@@ -107,9 +108,9 @@ Reed and the rest of his cocladists, fellow instances forked from the original u
 
 What happened? A crash? Where has time gone? Where have those billions of minds gone? And why is Earth being so cagey?
 
-### [Idumea](https://idumea.post-self.ink)
+### [Idumea](/books/idumea)
 
-[![Idumea](/img/idumea.png)](https://idumea.post-self.ink)
+[![Idumea](/img/idumea.png)](/books/idumea)
 
 > The Woman was too present. She was too much herself, too human, too embodied within her vessel as it spiraled out of control, too stuck in her mind as it twisted in on itself.
 > 
@@ -124,12 +125,12 @@ What happened? A crash? Where has time gone? Where have those billions of minds 
 <p class="buy">
 <a href="https://makyo.itch.io/idumea" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/idumea/21" target="_blank">Order paperback</a> 
-<a href="https://idumea.post-self.ink/read">Read in the browser</a>
+<a href="/books/idumea/read">Read in the browser</a>
 </p>
 
-## [Clade — A Post-Self Anthology](https://clade.post-self.ink)
+## [Clade — A Post-Self Anthology](/books/clade)
 
-[![Clade](/img/clade.png)](https://clade.post-self.ink)
+[![Clade](/img/clade.png)](/books/clade)
 
 > **Clade** *(n)* – <span class="ipa">/kleɪd/</span> – *post-self theory*  
 > A group of individuals patterned off a single root consciousness, formed through branching expansion of the forking of its constituent members.  
@@ -141,7 +142,7 @@ To split oneself among however many individuals, to let the mind drift and diver
 <p class="buy">
 <a href="https://makyo-ink.square.site/product/clade-a-post-self-anthology/15?cp=true&sa=true&sbp=false&q=false" target="_blank">Order paperback</a>
 <a href="https://makyo.itch.io/clade">Order ebook</a>
-<a href="https://clade.post-self.ink">Read for free online</a>
+<a href="/books/clade">Read for free online</a>
 </p>
 
 ## [Unintended Tendencies](https://jessfluf.itch.io/unintended-tendencies)
@@ -152,9 +153,9 @@ This is the story of one soul, shortly after upload to a vast digital world, exp
 <a href="https://jessfluf.itch.io/unintended-tendencies" target="_blank">Order ebook</a>
 </p>
 
-## [Motes Played](https://motes-played.post-self.ink)
+## [Motes Played](/books/motes-played)
 
-[![Motes Played](/img/motes-played.png)](https://motes-played.post-self.ink)
+[![Motes Played](/img/motes-played.png)](/books/motes-played)
 
 > Motes played.
 > 
@@ -167,6 +168,6 @@ This is the story of one soul, shortly after upload to a vast digital world, exp
 <p class="buy">
 <a href="https://makyo.itch.io/motes-played" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Order paperback</a> 
-<a href="https://motes-played.post-self.ink/read">Read in the browser</a>
-<a href="https://motes-played.post-self.ink/thoughts-on-motes">Thoughts on Motes</a>
+<a href="/books/motes-played/read">Read in the browser</a>
+<a href="/books/motes-played/thoughts-on-motes">Thoughts on Motes</a>
 </p>

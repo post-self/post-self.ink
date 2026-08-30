@@ -1,4 +1,6 @@
 ---
+title: Clade
+layout: single
 ---
 
 ![Clade cover](/img/clade.png)

@@ -1,3 +1,8 @@
+---
+title: Marsh
+layout: single
+---
+
 <nav class="sidebar sticky">
     <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
     <ul>

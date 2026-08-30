@@ -1,6 +1,7 @@
 ---
 title: Motes Played
 extraClass: motes-played
+layout: single
 ---
 
 ![A little book for little skunks](/img/motes-played.png)

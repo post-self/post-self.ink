@@ -1,6 +1,7 @@
 ---
 title: Kaddish
 extraClass: kaddish
+layout: single
 ---
 
 <nav class="sidebar sticky">

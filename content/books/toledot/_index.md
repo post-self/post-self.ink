@@ -1,46 +1,51 @@
+---
+title: Toledot
+layout: single
+---
+
 <nav class="sidebar sticky">
     <h3>The Post-Self Cycle<br><small>by Madison Rye Progress</small></h3>
     <ul>
         <li><a href="/books/qoheleth"><em>Qoheleth</em></a></li>
-        <li><a href="/books/toledot"><em>Toledot</em></a></li>
-        <li class="active"><a href="/books/neviim"><em>Nevi'im</em></a></li>
+        <li class="active"><a href="/books/toledot"><em>Toledot</em></a></li>
+        <li><a href="/books/neviim"><em>Nevi'im</em></a></li>
         <li><a href="/books/mitzvot"><em>Mitzvot</em></a></li>
     </ul>
 </nav>
 
-![Nevi'im cover](/img/neviim.png)
+![Toledot cover](/img/toledot.png)
 
 <p class="buy">
-<a href="https://makyo.itch.io/neviim" target="_blank">Order ebook</a>
-<a href="https://makyo-ink.square.site/product/post-self-3-neviim/12" target="_blank">Order paperback</a> 
+<a href="https://makyo.itch.io/toledot" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/post-self-2-toledot/11" target="_blank">Order paperback</a> 
 <a href="read">Read in the browser</a>
 </p>
 
-> *“Do you know how old I am, Dr. Brahe? I am 222 years old, a fork of an individual who is...who would be 259 years old. I am no longer the True Name of 2124. Even remembering her feels like remembering an old friend..."*
+> "I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."
 
-The cracks are showing.
+No longer bound to the physical, what lengths should one go to in a virtual world to ensure the continuity of one's existence?
 
-Someone picked up on the broadcast from the Dreamer Module and as the powers that be rush to organize a meeting between races, Dr. Tycho Brahe is caught up in a whirlwind of activity. And as always, when the drama goes down, there is Codrin Bălan to witness it.
+Secession. Launch. Two separations from two societies, two hundred years apart. And through it all, so many parallels run on so many levels that it can be dizzying just keeping up. The more Ioan and Codrin Bălan learn, the more it calls into question the motivations of even those they hold most dear.
 
-When faced with eternity in a new kind of digital world, however, old traumas come to roost, and those who were once powerful are brought to their knees.
-
-Growth is colliding with memory, and the cracks are showing.
+*Nominated for Best Novel in the Ursa Major Awards, as well as for a Leo Literary Award.*
 
 -----
 
+<p class="buy">Also available at several fine independent booksellers (and many much larger ones).</p>
 <p class="buy">Strapped for cash? <a href="read">Read online for free!</a></p>
-<p class="buy">Still need to read the first two books? Read <a href="https://qoheleth.post-self.ink"><em>Qoheleth</em></a> and <a href="https://toledot.post-self.ink"><em>Toledot</em></a>.</p>
-<p class="buy">Ready to move on to book IV? Read <a href="https://mitzvot.post-self.ink"><em>Mitzvot</em></a>.</p>
+<p class="buy">Still need to read book I? <a href="https://qoheleth.post-self.ink">Read <em>Qoheleth</em>.</a></p>
+<p class="buy">Ready to move on to book III? <a href="https://neviim.post-self.ink">Read <em>Nevi'im</em>.</a></p>
 
-### Advance Praise for *Nevi'im*
 
-> These characters are so well realized, so fleshed out, that I can’t help but to gush about how their interactions with each other inform the central plot of the book.
+## Advance Praise
 
---- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/4700857305)
+> Madison Scott-Clary . . . trusts her readers to be able to understand a completely different culture and existence than our own, and makes it compelling to do so.
 
-> . . . [The characters] really drew me into the book, and helped me ask—and answer—questions that I never even knew I needed to ask.
+--- [Payson R. Harris](https://www.goodreads.com/review/show/4376557723)
 
---- [Payson R.](https://www.goodreads.com/review/show/4705644411)
+> \[Toledot is\] one of the best explanations of the old saying "I contain multitudes'' in that it explores how one person through various stimuli, experiences, and trauma can become a completely different being.
+
+--- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/4389421663)
 
 -----
 

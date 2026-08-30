@@ -1,3 +1,8 @@
+---
+title: Qoheleth
+layout: single
+---
+
 <nav class="sidebar sticky">
     <h3>The Post-Self Cycle<br><small>by Madison Rye Progress</small></h3>
     <ul>
