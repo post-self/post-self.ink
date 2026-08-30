@@ -21,5 +21,6 @@ jobs:
           extended: true
 
       - name: Build site
+        # XXX removed --minify until https://github.com/gohugoio/hugo/issues/15257 is addressed
         run: |
-          hugo build --gc --minify --baseURL https://post-self.ink --destination /opt/hugo/post-self.ink
+          hugo build --gc --baseURL https://post-self.ink --destination /opt/hugo/post-self.ink
