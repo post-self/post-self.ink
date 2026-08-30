@@ -1,0 +1,116 @@
+#######
+# Clade
+
+- title: Sufficiently Advanced
+  url: /books/clade/sufficiently-advanced/
+  authors:
+  - Rob MacWolf
+  type: short story
+  years:
+  - 2343
+  characters:
+  - Theodred
+  description: Sometimes, conversing with oneself can lead to unexpected changes.
+
+- title: Genre Clade
+  url: /books/clade/genre-clade/
+  authors:
+  - Nathan "Domus Vocis" Hopp
+  type: short story
+  years:
+  - 2251
+  characters:
+  - Dante
+  description: Writing is a fantastic way to explore oneself, as Dante learns well.
+
+- title: Après un rêve
+  url: /books/clade/apres-un-reve/
+  image: /gallery/thumbs/apres-un-reve.png
+  authors:
+  - Madison Rye Progress
+  years:
+  - 2196
+  characters:
+  - Sylvie
+  description: Uploading to meet one's love once again comes with high stakes.
+  cw: surgery, death
+
+- title: Support Group for Anomalies in Forking
+  url: /books/clade/sgaf/
+  authors:
+  - Michael Miele
+  type: short story
+  years:
+  - 2328
+  characters:
+  - Ernie
+  description: Forking is not always so easy as they say...
+  cw: alcohol abuse, body horror, a car accident and injuries, and medical debt
+
+- title: Cowboy
+  url: /books/clade/cowboy/
+  authors:
+  - Alexandria Christina Leal
+  years:
+  - 2200
+  characters:
+  - Peace System
+  description: Life sys-side wreaks havoc with the walls of dissociation for the Peace system.
+  cw: manipulation, cPTSD, emotional flashbacks, a severe panic attack, and mentions parental death
+
+- title: True Love Lies Within and Without
+  url: /books/clade/true-love-lies-within-and-without/
+  authors:
+  - Thomas "Faux" Steele
+  type: short story
+  years:
+  - 2286
+  characters:
+  - Caspian Sunspear
+  description: So much in life is easier, sys-side, but finding love remains as difficult as ever.
+
+- title: The Big O
+  url: /books/clade/the-big-o/
+  authors:
+  - Evan Drake
+  type: short story
+  years:
+  - 2291
+  characters:
+  - Walter
+  description: Sometimes, one must use the trappings of capitalism to truly rid oneself of it.
+
+- title: She Who Haunts the Storm
+  url: /books/clade/she-who-haunts-the-storm/
+  authors:
+  - JS Hawthorne
+  type: short story
+  years:
+  - 2309
+  characters:
+  - Livia
+  description: Struggling against oneself takes new dimensions for Livia, sys-side.
+  cw: depression, self-hate, coercion, intimidation, suicidal ideation
+
+- title: Earthbound
+  url: /books/clade/earthbound/
+  authors:
+  - Kergiby
+  type: short story
+  years:
+  - 2364
+  characters:
+  - Jonathan Miller
+  description: The world is not what it was, both on a grand scale and an intensely personal one.
+  cw: death and depression
+
+- title: Cascade Failure
+  url: /books/clade/cascade-failure/
+  authors:
+  - Joel Kreissman
+  type: short story
+  years:
+  - 2302
+  characters:
+  - Gregory
+  description: Simulating an ecosystem sometimes needs a little something extra.

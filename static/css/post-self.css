@@ -218,9 +218,92 @@ main.story .author, main.story .character, main.story h3 {
     background: linear-gradient(315deg, transparent 0.5rem, rgba(127, 127, 127, 0.1) 0) bottom right;
 }
 
-.works > nav .active {
+.works > nav .active,
+.sidebar .active{
     background-color: transparent !important;
     background: linear-gradient(135deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) top left;
+
+    & a {
+        text-decoration: none
+    }
+}
+
+.sidebar {
+    position: relative;
+    top: 0;
+    width: 300px;
+    text-align: right;
+    margin-left: calc(-300px - 1.5rem);
+    height: 0;
+    overflow: visible;
+
+    &.sticky {
+        position: sticky;
+    }
+
+    & h3 {
+        padding: 0.25rem 1rem 2rem 0;
+        margin-bottom: 0;
+        border-right: 0.25rem solid rgba(127, 127, 127, 0.2);
+
+        & small {
+            font-size: 75%;
+        }
+    }
+
+    & ul {
+        margin-top: 0;
+        border-right: 0.25rem solid rgba(127, 127, 127, 0.2);
+
+        & li {
+            list-style-type: none;
+            line-height: 1.2;
+            padding: 0.25rem 1rem;
+        }
+    }
+} 
+
+@media only screen and (max-width: 1200px) {
+    .sidebar {
+        position: static;
+        top: auto;
+        width: 100%;
+        margin-left: 0;
+        text-align: left;
+        height: auto;
+        overflow: clip;
+
+        & h3 {
+            border: none;
+        }
+
+        & ul {
+            border: none;
+
+            & li {
+                list-style-type: disc;
+            }
+        }
+    }
+}
+
+/* Extra styles */
+.idumea main hr::before {
+    content: '×';
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.kaddish main hr::before {
+    content: '✡';
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.motes-played main hr::before {
+    content: '✨';
+    filter: grayscale(100%) brightness(100%);
+    font-family: "Gotu";
 }
 
 @media only screen and (max-width: 960px) {
