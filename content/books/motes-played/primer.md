@@ -1,5 +1,9 @@
 ---
 title: A primer before reading
+extraClass: motes-played
+overrideTitle: Motes Played
+overrideTitleLink: /books/motes-played/
+subtitle: A Post-Self Story
 ---
 
 Post-Self is a science fiction setting involving uploaded consciousnesses and all of the daily dramas that go into their everlasting lives.

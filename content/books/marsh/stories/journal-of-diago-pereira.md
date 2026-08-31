@@ -3,16 +3,11 @@ type: story
 title: Journal of Diago Pereira
 author: Nat Mcardle-Mott-Merrifield and Sarah Bloden
 character: Henrique Pereira — 2400–2401
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 <style>
 .smallcaps {

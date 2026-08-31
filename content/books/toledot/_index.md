@@ -1,5 +1,7 @@
 ---
-title: Toledot
+overrideTitle: Toledot
+overrideTitleLink: /books/toledot/
+subtitle: Post-Self Cycle book II
 layout: single
 ---
 

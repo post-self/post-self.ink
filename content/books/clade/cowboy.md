@@ -3,6 +3,9 @@ title: Cowboy
 author: Alexandria Christina Leal
 character: Peace System — 2200
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 > "Be honest with yourself. Ideally always, but especially when it's the harder road to take."

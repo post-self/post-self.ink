@@ -3,16 +3,11 @@ type: story
 title: Game Night
 author: Michael Miele
 character: Joanna — 2401
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 Joanna sat at her kitchen table, having the hardest time figuring out the next best move to make while playing solitaire. The cards were jumbo print, of course, a leftover from her time phys-side. She was just about to move a column of cards using a king when she heard her doorbell. She could have created her sim so the default entrance was within her home, but she was old-fashioned. She liked having her guests wait a bit while she got around to answer the door. There was something to be said for indulging anticipation, especially on the System, where so many things were instantaneous. She swiped a wrinkled hand over the in-progress game and the cards fluttered away, stored in an exo-cortex to pick up later. She got up slowly and puttered her way over to the front door.
 

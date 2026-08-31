@@ -1,5 +1,7 @@
 ---
-title: Clade
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 layout: single
 ---
 

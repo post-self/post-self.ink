@@ -3,16 +3,11 @@ type: story
 title: A Well-Trained Eye
 author: Andréa C Mason
 character: Lucia Marchetti — 2401
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 The rain against old glass panes and the sways and bumps of the car on the rails ready the air for conjurations. Lucy sits on the bench 6th from the back, on the right side, a sketchbook open across her knees. Today she's trying charcoal. Feels right with what happened a week ago.
 

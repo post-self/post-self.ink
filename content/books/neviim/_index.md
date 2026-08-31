@@ -1,5 +1,7 @@
 ---
-title: "Nevi'im"
+overrideTitle: "Nevi'im"
+overrideTitleLink: /books/neviim/
+subtitle: Post-Self Cycle book III
 layout: single
 ---
 

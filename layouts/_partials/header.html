@@ -1,0 +1,10 @@
+<header>
+    <button class="theme-toggle" title="Toggle light/dark theme"></button>
+    <script src="/js/theme.js"></script>
+    {{- if .Page.Params.overrideTitle }}
+        <h1><a href="{{ .Page.Params.overrideTitleLink }}">{{ .Page.Params.overrideTitle }}</a>{{ if .Page.Params.subtitle }}<small>{{ if .Page.Params.subtitleLink }}<a href="{{ .Page.Params.subtitleLink }}" target="_blank">{{ end }}{{ .Page.Params.subtitle }}{{ if .Page.Params.subtitleLink }}</a>{{ end }}</small>{{ end }}</h1>
+    {{- else }}
+        <h1><a href="/">{{ .Site.Title }}</a>{{ if .Site.Params.subtitle }}<small>{{ if .Site.Params.subtitleLink }}<a href="{{ .Site.Params.subtitleLink }}" target="_blank">{{ end }}{{ .Site.Params.subtitle }}{{ if .Site.Params.subtitleLink }}</a>{{ end }}</small>{{ end }}</h1>
+    {{- end }}
+    {{ partial "nav.html" . }}
+</header>

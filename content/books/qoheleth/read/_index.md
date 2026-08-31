@@ -1,13 +1,6 @@
 ---
 type: chapter
+overrideTitle: Qoheleth
+overrideTitleLink: /books/qoheleth/
+subtitle: Post-Self Cycle book I
 ---
-
-<nav class="sidebar">
-    <h3>The Post-Self Cycle<br><small>by Madison Rye Progress</small></h3>
-    <ul>
-        <li class="active"><a href="/books/qoheleth"><em>Qoheleth</em></a></li>
-        <li><a href="/books/toledot"><em>Toledot</em></a></li>
-        <li><a href="/books/neviim"><em>Nevi'im</em></a></li>
-        <li><a href="/books/mitzvot"><em>Mitzvot</em></a></li>
-    </ul>
-</nav>

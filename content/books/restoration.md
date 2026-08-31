@@ -3,8 +3,11 @@ title: Stories of Restoration
 layout: single
 ---
 
-
+> Death on such a scale is hard to imagine, as is loss of such magnitude, but we must remember that, until one year ago today, never before had such recovery of life been accomplished. We mourn our 23 billion dead, we celebrate the 2.3 trillion who are still alive.
 
+After nearly three centuries of stability, Lagrange, a centralized system containing billions of up uploaded minds in trillions of instances, grinds to a halt. Or, rather, every mind within does. Simulated environments tick along as they had, containing now only the crashed instances of those who had moments before resided within. It takes more than a year for it to successfully brought back online, though a percent of those within are unrecoverable.
+
+Even after finding out what happened, even after mourning the lost, there are still stories to be told about restoration: rekindled connections, rebuilt lives, resurrected dreams...
 
 <style>
 img {
@@ -35,6 +38,12 @@ And so has one percent of the population of Lagrange. 23 billion souls lost.
 Reed and the rest of his cocladists, fellow instances forked from the original uploaded mind of Marsh, must strive to discover what has happened and where Marsh has gone, rendering them unmoored, five unconnected instances with no root to connect them.
 
 What happened? A crash? Where has time gone? Where have those billions of minds gone? And why is Earth being so cagey?
+
+<p class="buy">
+<a href="https://makyo.itch.io/marsh" target="_blank">Order ebook</a>
+<!--<a href="https://makyo-ink.square.site/product/idumea/21" target="_blank">Order paperback</a>--> 
+<a href="/books/marsh/read">Read in the browser</a>
+</p>
 
 ## [Idumea](/books/idumea)
 

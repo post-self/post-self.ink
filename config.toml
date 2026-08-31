@@ -1,5 +1,5 @@
 baseURL = 'https://post-self.ink/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'Post-Self'
 theme = 'maddybook'
 paginatePath = ""

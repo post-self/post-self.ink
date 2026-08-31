@@ -3,16 +3,11 @@ type: story
 title: The Party at the End of the World
 author: Krzysztof “Tomash” Drewniak
 character: Scout At The Party V — 2401
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 The Party stumbled at the touch of apocalypse.
 

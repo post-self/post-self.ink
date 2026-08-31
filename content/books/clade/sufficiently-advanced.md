@@ -3,6 +3,9 @@ title: Sufficiently Advanced
 author: Rob MacWolf
 character: Theodred — 2343
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 On the one hand, this wasn't really a comfortable garden, with a view of a beautiful valley and several apple trees. It was a simulation, running on servers hurtling through deep space on an unstoppable course to who knows where. But on the other hand, it was plainly obvious this was a garden: there was a valley, those were apple trees, this was his home, it was a lovely day, and he had work to do. It mattered how you decided to look at it.

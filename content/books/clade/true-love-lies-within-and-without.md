@@ -3,6 +3,9 @@ title: True Love Lies Within and Without
 author: Thomas "Faux" Steele
 character: Caspian Sunspear — 2286
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 Caspar Sunspear knew exactly what to expect. Some experienced forking as easily as breathing, one breath out and two breaths in. For him, it had always come more viscerally. Grasping his paw over his chest, he curled his fingertips as though wrapping around a presence reaching out from a timeless void, yearning to come alive. He tugged at formless flesh until a fennec fox asserted himself between blinks.

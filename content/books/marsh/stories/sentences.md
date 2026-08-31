@@ -3,16 +3,11 @@ type: story
 title: Sentences
 author: Krzysztof “Tomash” Drewniak
 character: In All Ways — 2405–2406
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 "So, what's the surprise delay this time?" Günay joked, despite the serious topic of the meeting that would be starting soon. She, like some of the sys-side delegates and the cameraperson, had arrived early. Her conference room, along with its AVEC-linked partner on the System, had become the main venue for high-level Century Attack-related meetings out of an inertia that froze into tradition.
 

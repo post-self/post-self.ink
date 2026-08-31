@@ -3,6 +3,9 @@ title: Support Group for Anomalies in Forking
 author: Michael Miele
 character: Ernie — 2328
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 Ernie felt a gentle sensorium ping wake him from the deep sleep he found himself in. He blinked his eyes blearily and reached for an alarm clock. When his hand didn't find anything to latch onto, he was awake enough to remember he was on the System, and could just think about the current time to check it. Old habits die hard. It was systime 204+1400, about 2PM or so. He didn't think he had set an alarm ping for himself before taking a nap, but he must have wanted to make sure he was up and ready for this afternoon. Maybe he was just being cautious. Ever since he uploaded, it felt like he was making up for lost time when it came to sleep.

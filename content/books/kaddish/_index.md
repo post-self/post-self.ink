@@ -1,5 +1,8 @@
 ---
-title: Kaddish
+overrideTitle: Kaddish
+overrideTitleLink: /books/kaddish/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 extraClass: kaddish
 layout: single
 ---

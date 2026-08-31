@@ -3,6 +3,9 @@ title: The Big O
 author: Evan Drake
 character: Walter — 2291
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 The sun's red light peeked over the horizon at 5:58 AM. Walter knew that because it rose at that exact time every time without fail this time of year. Never a minute too early or too late. Every day until the season changed. Its violent red glow illuminated the city below. As always, traffic flowed between the buildings like a river between rocks, the sun's light reflecting off the moving surfaces.

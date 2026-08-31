@@ -3,6 +3,9 @@ title: Genre Clade
 author: Nathan "Domus Vocis" Hopp
 character: Dante — 2251
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 Walking away from my former home felt like a herculean task. However, nothing had felt easier than uploading to the System, even as I looked back on the memory centuries later.

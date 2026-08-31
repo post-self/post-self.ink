@@ -1,6 +1,17 @@
 ---
 title: Thoughts on Motes
+extraClass: motes-played
+overrideTitle: Motes Played
+overrideTitleLink: /books/motes-played/
+subtitle: A Post-Self Story
 ---
+
+<style>
+img {
+    display: block;
+    margin: 0 auto;
+}
+</style>
 
 *Motes Played* was written in a few short weeks at the end of December, 2023 and the beginning of January, 2024 in a burst of creativity. The origin for the story actually stems from a conversation that I had with my partner[^0] on a drive from visiting eir parents down in Vancouver back home to northern Washington. In the span of about four hours, we made our way down through the stanzas of the Ode clade and spoke about what make them tick.
 
@@ -35,7 +46,7 @@ I knew that the response to *Motes Played* would be complicated from before its 
 I knew that the response would be complicated, that it would make readers uncomfortable, would make friends or loved ones have some big feelings. I had those big feelings, too. Even after writing the book, after typesetting it and building the ebook (admittedly a mostly automated process), I struggled with the fact that I had written this thing and was thinking about putting it in front of others. There are no works of mine that are not expressions of vulnerability, but each is vulnerable in its own way. *I* was uncomfortable! Funding it with the *Marsh* Kickstarter was a way to force the issue for myself, to pit my pride in what I had accomplished against my fears.
 
 <figure>
-    <img src="/so-anyway.jpg">
+    <img src="/img/motes-played/so-anyway.jpg">
     <figcaption>So anyway, I hit publish.</figcaption>
 </figure>
 
@@ -56,7 +67,7 @@ Finally, I have been fascinated with the idea of childhood for years. It is not 
 Honestly, I have little desire to do so now. It is not out of a desire to be a literal kid, myself, that I wrote *Motes Played.* I wrote it because that idea in particular --- that someone would wish to just...go be a kid because they can and because it felt good --- is fascinating to me. Motes decided that her role was to be the kid, the One Who Plays, and so she leaned hard into that.
 
 <figure>
-    <img src="/criminal.png" style="filter: none">
+    <img src="/img/motes-played/criminal.png" style="filter: none">
     <figcaption>She is also a criminal wanted in three states for <a href="https://youtu.be/iU42mcSeGa8" target="_blank">playing Beat Saber too much</a>.</figcaption>
 </figure>
 
@@ -93,7 +104,7 @@ And here, of course, are the lessons that it emphatically does ***not*** teach:
 Usually, I am stuck on the number three being used to prove points --- hendiatris, bay-*bee* --- but I am not going to bother including two more points, because I suspect this will be the only one raised as a concern, even at the expense of any other characterizations presented within the book. After all, Motes also has a death kink that one of her caregivers loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom-lookin', HOA-president-ass bitch[^3] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
 
 <figure>
-    <img src="/hammered-silver.png" style="filter: none">
+    <img src="/img/motes-played/hammered-silver.png" style="filter: none">
     <figcaption>I mean, look at her! Picrew by <a href="https://twitter.com/makowwka" target="_blank">mischa</a>.</figcaption>
 </figure>
 
@@ -122,7 +133,7 @@ It is, as Motes puts it, annihilation. It is the opposite of reclamation. Rather
 I resent that.
 
 <figure>
-    <img src="/this-is-what-happens.gif" style="filter: none">
+    <img src="/img/motes-played/this-is-what-happens.gif" style="filter: none">
     <figcaption>This is what happens when Motes encounters annihilation.</figcaption>
 </figure>
 
@@ -137,7 +148,7 @@ It is my hope that this work is enjoyed as a work of escapism. I hope that a wor
 I have come to love Motes, and I hope you do too.
 
 <figure>
-    <img src="/hi.png" style="filter: none">
+    <img src="/img/motes-played/hi.png" style="filter: none">
     <figcaption>Motes says: please enjoy~</figcaption>
 </figure>
 

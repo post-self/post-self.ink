@@ -3,16 +3,11 @@ type: story
 title: Home From the Game
 author: Caela Argent
 character: Sadie Amara — 2401
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 She hadn't seen them in... well, in years. And yet, here they were... sitting on her couch. She swallowed, awkwardly, and took another step closer.
 

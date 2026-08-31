@@ -3,6 +3,9 @@ title: Cascade Failure
 author: Joel Kreissman
 character: Gregory — 2302
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 Gregory observed a herd of white-tailed deer from his perch in the upper branches of an ancient oak tree. They did not sense the anthropomorphic gray fox or his notebook, he'd shaped them so they would ignore him. A fly buzzed past one doe's head and she flicked an ear at it reflexively, just as coded. Gregory heard a rustling sound off to the northwest and watched the deer's heads shoot straight up, their ears cocked in the direction of the sound. The wolves were coming, right on schedule.

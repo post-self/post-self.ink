@@ -3,6 +3,9 @@ title: She Who Haunts the Storm
 author: J.S. Hawthorne
 character: Livia — 2309
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 The beast roared, issuing a great gout of flame to paint the stony cavern walls black. The party drew their weapons, facing the dragon with determination and the righteous knowledge of their mission. Their leader, the elven warrior known only as Peredur, after the Red Knight of legend, hefted his ancient broadsword in challenge.

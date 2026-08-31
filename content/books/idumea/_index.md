@@ -1,6 +1,9 @@
 ---
 extraClass: idumea
-title: Idumea
+overrideTitle: Idumea
+overrideTitleLink: /books/idumea/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 layout: single
 ---
 

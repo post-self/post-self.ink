@@ -3,6 +3,9 @@ title: Après un rêve
 author: Madison Scott-Clary
 character: Sylvie — 2196
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 Echoes of Grace singing, memories and emotions, clashed with the doctor's words.

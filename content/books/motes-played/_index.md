@@ -1,7 +1,9 @@
 ---
-title: Motes Played
 extraClass: motes-played
 layout: single
+overrideTitle: Motes Played
+overrideTitleLink: /books/motes-played/
+subtitle: A Post-Self Story
 ---
 
 ![A little book for little skunks](/img/motes-played.png)

@@ -3,6 +3,9 @@ title: Earthbound
 author: Kergiby
 character: Jonathan Miller — 2364
 type: story
+overrideTitle: Clade
+overrideTitleLink: /books/clade/
+subtitle: A Post-Self Anthology
 ---
 
 Hands ran through the earth.

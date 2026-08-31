@@ -3,16 +3,11 @@ type: story
 title: Prophecies
 author: Madison Rye Progress, with contributions from Samantha Yule Fireheart
 character: Slow Hours — 2401
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 To step into The Bean Cycle was to be immediately assailed by sound. There was, as to be expected, the clink of glasses and muted howl of steam wands bringing milk up to temperature, but mixed in was the clatter and clicking of work being done on bicycles. Wheels were spun, chain was dragged through derailleurs, tires were changed. Milk was steamed, espresso was made, names were hollered out.
 

@@ -1,5 +1,7 @@
 ---
-title: Mitzvot
+overrideTitle: Mitzvot
+overrideTitleLink: /books/mitzvot/
+subtitle: Post-Self Cycle book IV
 layout: single
 ---
 

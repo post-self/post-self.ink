@@ -3,16 +3,11 @@ type: story
 title: Toward Eternity
 author: Thomas “Faux” Steele
 character: Aurélien Delacroix — 2401
+overrideTitle: Marsh
+overrideTitleLink: /books/marsh/
+subtitle: Stories of Restoration
+subtitleLink: /books/restoration/
 ---
-
-<nav class="sidebar">
-    <h3>Stories of Restoration<br><small>by Madison Rye Progress et al.</small></h3>
-    <ul>
-        <li class="active"><em>Marsh</em></li>
-        <li><a href="/books/idumea"><em>Idumea</em></a></li>
-        <li><a href="/books/kaddish"><em>Kaddish</em></a></li>
-    </ul>
-</nav>
 
 Aurélien Delacroix leaned back on the cracked leather barstool and interlaced their fingers, claw-tips painted an eye-catching sapphire that matched their majestic crest. Tapping a cigarette out of a crumpled packet of Gauloises---also blue---they tucked it into their beak but left it unlit. "Let's start with a name and go from there, shall we?"
 

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="166.45226mm"
+   height="91.054298mm"
+   viewBox="0 0 166.45225 91.054298"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="shard-project.svg"
+   inkscape:export-filename="shard-project.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.97968199"
+     inkscape:cx="114.83318"
+     inkscape:cy="96.970242"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.085909,-60.283753)">
+    <path
+       style="fill:none"
+       d="M 72.251435,60.926732 61.085909,93.448222 99.918839,151.33805 118.25661,72.593502 106.38502,60.404127 81.221502,74.750888 Z"
+       id="path1"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none"
+       d="m 72.111837,60.289853 34.359993,-0.0061"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none"
+       d="M 81.259991,74.703173 99.964989,150.95192"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#092071;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       d="M 335.33963,504.36742 C 315.64249,474.9767 284.71372,428.82728 266.60902,401.81315 l -32.91763,-49.11657 19.89474,-58.00381 c 15.09535,-44.01105 20.19452,-57.68938 21.13744,-56.70041 0.68349,0.71686 7.73869,11.31475 15.67823,23.55084 l 14.43553,22.24745 33.44455,136.151 c 18.39449,74.88305 33.31544,136.53629 33.15763,137.00722 -0.1578,0.47093 -16.40275,-23.19073 -36.09988,-52.58145 z"
+       id="path4"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#3c3c3c;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       d="m 344.07202,422.40313 c -18.40598,-75.0431 -33.64076,-136.93035 -33.85507,-137.52723 -0.40138,-1.11793 90.58162,-53.4746 91.75311,-52.79984 0.36,0.20735 10.0118,10.00591 21.44845,21.77458 l 20.7939,21.39758 -32.92974,141.3907 c -18.11135,77.76488 -33.11323,141.57418 -33.33749,141.79845 -0.22427,0.22426 -15.46719,-60.99114 -33.87316,-136.03424 z"
+       id="path5"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#acacc3;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       d="m 302.96223,271.60538 c -2.59594,-4.04199 -9.33719,-14.43027 -14.98055,-23.08507 -5.64337,-8.65481 -10.63307,-16.34645 -11.08824,-17.09256 -0.65809,-1.07874 11.23875,-1.35655 58.09344,-1.35655 h 58.92102 l -40.13655,22.87389 c -22.07511,12.58064 -41.47591,23.57938 -43.1129,24.44163 l -2.97634,1.56774 z"
+       id="path6"
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Gotu;-inkscape-font-specification:Gotu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="38.72818"
+       y="22.37628"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-size:16.9333px;stroke-width:0.264583"
+         x="38.72818"
+         y="22.37628" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Gotu;-inkscape-font-specification:Gotu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="171.04871"
+       y="118.92721"
+       id="text7"><tspan
+         sodipodi:role="line"
+         style="font-size:16.9333px;fill:#0b2271;fill-opacity:1;stroke-width:0.264583"
+         x="171.04871"
+         y="118.92721"
+         id="tspan8">Shard Project</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:Gotu;-inkscape-font-specification:Gotu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="141.2859"
+       y="104.64118"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-size:11.2889px;fill:#3c3c3c;fill-opacity:1;stroke-width:0.264583"
+         x="141.2859"
+         y="104.64118">The</tspan></text>
+  </g>
+</svg>
