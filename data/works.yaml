@@ -216,7 +216,7 @@
   cw: transphobia, PTSD, and visceral descriptions of panic
 
 - title: When the Bough Breaks
-  url: https://read.post-self.ink/redcedars/when-the-bough-breaks
+  url: /books/read/redcedars/when-the-bough-breaks
   authors:
   - Sheridan & Ovid Redcedar
   type: short story
@@ -227,7 +227,7 @@
   description: A root instance addresses her eldest daughter syndrome.
 
 - title: A letter to Meristem's up-trees
-  url: https://read.post-self.ink/redcedars/a-letter-to-meristems-up-trees-systime-268-222
+  url: /books/read/redcedars/a-letter-to-meristems-up-trees-systime-268-222
   parent: When the Bough Breaks
   authors:
   - Sheridan & Ovid Redcedar
@@ -253,7 +253,7 @@
 # Qoheleth
 
 - title: Qoheleth
-  url: https://qoheleth.post-self.ink
+  url: /books/qoheleth
   image: /gallery/thumbs/qoheleth-front.png
   collection: cycle
   authors:
@@ -279,7 +279,7 @@
     And, nearly a century on, society still struggles with the ramifications of those answers.
 
 - title: "Gallery Exhibition: A Love Story"
-  url: https://qoheleth.post-self.ink/gallery-exhibition
+  url: /books/qoheleth/gallery-exhibition
   image: /gallery/thumbs/dear.png
   parent: Qoheleth
   authors:
@@ -301,7 +301,7 @@
 # Toledot
 
 - title: Toledot
-  url: https://toledot.post-self.ink
+  url: /books/toledot
   image: /gallery/thumbs/toledot-front.png
   collection: cycle
   authors:
@@ -332,7 +332,7 @@
 # Nev'im
 
 - title: Nevi'im
-  url: https://neviim.post-self.ink
+  url: /books/neviim
   image: /gallery/thumbs/neviim-front.png
   collection: cycle
   authors:
@@ -361,7 +361,7 @@
 # Mitzvot
 
 - title: Mitzvot
-  url: https://mitzvot.post-self.ink
+  url: /books/mitzvot
   image: /gallery/thumbs/mitzvot-front.png
   collection: cycle
   authors:
@@ -381,7 +381,7 @@
     One of the most well-known names from one of the most well-known clades on the System, the avatar of political machinations and cool confidence, has been brought low. With help coming only from Ioan Bălan and the most grudging of support from her cocladists, all True Name has left to save herself is the ability to change.
 
 - title: Selected Letters
-  url: https://mitzvot.post-self.ink
+  url: /books/mitzvot/selected-letters
   parent: Mitzvot
   authors:
   - Madison Rye Progress
@@ -396,7 +396,7 @@
 # Motes Played
 
 - title: Motes Played
-  url: https://motes-played.post-self.ink
+  url: /books/motes-played
   image: /gallery/thumbs/motes-played.png
   authors:
   - Madison Rye Progress
@@ -418,7 +418,7 @@
     > Motes played, because how could she not?
 
 - title: Milestones of Memory
-  url: https://motes-played.post-self.ink/milestones-of-memory
+  url: /books/motes-played/milestones-of-memory
   parent: Motes Played
   authors:
   - Madison Rye Progress
@@ -433,7 +433,7 @@
   description: Some musings from Beholden, A Finger Pointing, and Motes on what it might mean to grow up after so long.
 
 - title: In it for the long haul
-  url: https://motes-played.post-self.ink/long-haul
+  url: /books/motes-played/long-haul
   image: /gallery/thumbs/skateboard.png
   parent: Motes Played
   authors:
@@ -446,7 +446,7 @@
   description: A short drabble written to go along with a piece of fan art by biddyfox.
 
 - title: Thoughts on Motes
-  url: https://motes-played.post-self.ink/thoughts-on-motes
+  url: /books/motes-played/thoughts-on-motes
   parent: Motes Played
   authors:
   - Madison Rye Progress
@@ -461,7 +461,7 @@
 # Kaddish
 
 - title: Kaddish
-  url: https://kaddish.post-self.ink
+  url: /books/kaddish
   collection: hashichzur
   authors:
   - Madison Rye Progress
@@ -483,7 +483,7 @@
 # Idumea
 
 - title: Idumea
-  url: https://idumea.post-self.ink
+  url: /books/idumea
   image: /gallery/thumbs/flower.png
   collection: hashichzur
   authors:
@@ -512,7 +512,7 @@
   spoilers: mild spoilers for the Post Self Cycle
 
 - title: Reading
-  url: https://idumea.post-self.ink/read/13/
+  url: /books/idumea/read/13/
   parent: Idumea
   authors:
   - Madison Rye Progress
@@ -527,7 +527,7 @@
 # Marsh
 
 - title: Marsh
-  url: https://marsh.post-self.ink
+  url: /books/marsh
   image: /gallery/thumbs/marsh-front.png
   collection: hashichzur
   authors:
@@ -549,7 +549,7 @@
     Marsh is a new novel in the Post-Self universe, following Reed and the rest of his cocladists, fellow instances forked from the original uploaded mind of Marsh, as they strive to discover what has happened and where Marsh has gone, rendering them unmoored: five unconnected instances with no root to connect them.
 
 - title: Feeds
-  url: https://marsh.post-self.ink/read/6/
+  url: /books/marsh/read/6/
   parent: Marsh
   authors:
   - Samantha Yule Fireheart
@@ -565,7 +565,7 @@
   description: The residents of Lagrange come to terms with so many missing lives.
 
 - title: Nasturtiums
-  url: https://marsh.post-self.ink/read/12/
+  url: /books/marsh/read/12/
   parent: Marsh
   authors:
   - Madison Rye Progress
@@ -578,7 +578,7 @@
   cw: suicide
 
 - title: Columbines
-  url: https://marsh.post-self.ink/read/18/
+  url: /books/marsh/read/18/
   parent: Marsh
   authors:
   - Samantha Yule Fireheart
@@ -593,7 +593,7 @@
 # Stories From After
 
 - title: Game Night
-  url: https://marsh.post-self.ink/stories/game-night/
+  url: /books/marsh/stories/game-night/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -606,7 +606,7 @@
   description: A polite rivalry encounters the end of the world.
 
 - title: Home From the Game
-  url: https://marsh.post-self.ink/stories/home-from-the-game/
+  url: /books/marsh/stories/home-from-the-game/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -619,7 +619,7 @@
   description: A long-diverged up-tree returns home.
 
 - title: The Party at the End of the World
-  url: https://marsh.post-self.ink/stories/the-party-at-the-end-of-the-world/
+  url: /books/marsh/stories/the-party-at-the-end-of-the-world/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -632,7 +632,7 @@
   description: It may stumble, but nothing stops The Party.
 
 - title: A Well-Trained Eye
-  url: https://marsh.post-self.ink/stories/a-well-trained-eye/
+  url: /books/marsh/stories/a-well-trained-eye/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -645,7 +645,7 @@
   description: Lucia's confessional takes on a new tenor when she is confronted with what the world has become.
 
 - title: Toward Eternity
-  url: https://marsh.post-self.ink/stories/toward-eternity/
+  url: /books/marsh/stories/toward-eternity/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -658,7 +658,7 @@
   description: The privacy settings make finding lost ones difficult, but Aurélien will do all they can.
 
 - title: Prophecies
-  url: https://marsh.post-self.ink/stories/prophecies/
+  url: /books/marsh/stories/prophecies/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -673,7 +673,7 @@
   cw: discussion of suicide
 
 - title: Journal of Diago Pereira
-  url: https://marsh.post-self.ink/stories/journal-of-diago-pereira/
+  url: /books/marsh/stories/journal-of-diago-pereira/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -687,7 +687,7 @@
   description: Henrique remininiscies about uploaded family while preparing to upload, himself.
 
 - title: Millwright
-  url: https://marsh.post-self.ink/stories/millwright
+  url: /books/marsh/stories/millwright
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -700,7 +700,7 @@
   description: One of the few remaining members of one of the hardest-hit clades considers the past and finds a path forward to the future.
 
 - title: Sentences
-  url: https://marsh.post-self.ink/stories/sentences/
+  url: /books/marsh/stories/sentences/
   parent: Marsh
   collection: stories-from-after
   authors:
@@ -716,7 +716,7 @@
 # Clade
 
 - title: Sufficiently Advanced
-  url: https://clade.post-self.ink/sufficiently-advanced/
+  url: /books/clade/sufficiently-advanced/
   collection: clade
   authors:
   - Rob MacWolf
@@ -728,7 +728,7 @@
   description: Sometimes, conversing with oneself can lead to unexpected changes.
 
 - title: Genre Clade
-  url: https://clade.post-self.ink/genre-clade/
+  url: /books/clade/genre-clade/
   collection: clade
   authors:
   - Nathan "Domus Vocis" Hopp
@@ -740,7 +740,7 @@
   description: Writing is a fantastic way to explore oneself, as Dante learns well.
 
 - title: Après un rêve
-  url: https://clade.post-self.ink/apres-un-reve/
+  url: /books/clade/apres-un-reve/
   image: /gallery/thumbs/apres-un-reve.png
   collection: clade
   authors:
@@ -753,7 +753,7 @@
   cw: surgery, death
 
 - title: Support Group for Anomalies in Forking
-  url: https://clade.post-self.ink/sgaf/
+  url: /books/clade/sgaf/
   collection: clade
   authors:
   - Michael Miele
@@ -766,7 +766,7 @@
   cw: alcohol abuse, body horror, a car accident and injuries, and medical debt
 
 - title: Cowboy
-  url: https://clade.post-self.ink/cowboy/
+  url: /books/clade/cowboy/
   collection: clade
   authors:
   - Alexandria Christina Leal
@@ -778,7 +778,7 @@
   cw: manipulation, cPTSD, emotional flashbacks, a severe panic attack, and mentions parental death
 
 - title: True Love Lies Within and Without
-  url: https://clade.post-self.ink/true-love-lies-within-and-without/
+  url: /books/clade/true-love-lies-within-and-without/
   collection: clade
   authors:
   - Thomas "Faux" Steele
@@ -790,7 +790,7 @@
   description: So much in life is easier, sys-side, but finding love remains as difficult as ever.
 
 - title: The Big O
-  url: https://clade.post-self.ink/the-big-o/
+  url: /books/clade/the-big-o/
   collection: clade
   authors:
   - Evan Drake
@@ -802,7 +802,7 @@
   description: Sometimes, one must use the trappings of capitalism to truly rid oneself of it.
 
 - title: She Who Haunts the Storm
-  url: https://clade.post-self.ink/she-who-haunts-the-storm/
+  url: /books/clade/she-who-haunts-the-storm/
   collection: clade
   authors:
   - JS Hawthorne
@@ -815,7 +815,7 @@
   cw: depression, self-hate, coercion, intimidation, suicidal ideation
 
 - title: Earthbound
-  url: https://clade.post-self.ink/earthbound/
+  url: /books/clade/earthbound/
   collection: clade
   authors:
   - Kergiby
@@ -828,7 +828,7 @@
   cw: death and depression
 
 - title: Cascade Failure
-  url: https://clade.post-self.ink/cascade-failure/
+  url: /books/clade/cascade-failure/
   collection: clade
   authors:
   - Joel Kreissman
