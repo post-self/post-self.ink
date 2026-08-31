@@ -4,6 +4,7 @@ overrideTitleLink: /books/mitzvot/
 subtitle: Post-Self Cycle book IV
 subtitleLink: /books/cycle/
 layout: single
+aliases: ['/mitzvot']
 ---
 
 <nav class="sidebar sticky">

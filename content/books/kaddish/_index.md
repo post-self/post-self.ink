@@ -5,6 +5,7 @@ subtitle: Stories of Restoration
 subtitleLink: /books/restoration/
 extraClass: kaddish
 layout: single
+aliases: ['/kaddish']
 ---
 
 <nav class="sidebar sticky">

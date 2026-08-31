@@ -4,6 +4,7 @@ overrideTitleLink: /books/marsh/
 subtitle: Stories of Restoration
 subtitleLink: /books/restoration/
 layout: single
+aliases: ['/marsh']
 ---
 
 <nav class="sidebar sticky">

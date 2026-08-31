@@ -1,6 +1,7 @@
 ---
 title: Stories of Restoration
 layout: single
+aliases: ['/stories-of-restoration']
 ---
 
 > Death on such a scale is hard to imagine, as is loss of such magnitude, but we must remember that, until one year ago today, never before had such recovery of life been accomplished. We mourn our 23 billion dead, we celebrate the 2.3 trillion who are still alive.

@@ -5,6 +5,7 @@ overrideTitleLink: /books/idumea/
 subtitle: Stories of Restoration
 subtitleLink: /books/restoration/
 layout: single
+aliases: ['/idumea']
 ---
 
 <nav class="sidebar sticky">

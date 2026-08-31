@@ -3,6 +3,7 @@ overrideTitle: Clade
 overrideTitleLink: /books/clade/
 subtitle: A Post-Self Anthology
 layout: single
+aliases: ['/clade']
 ---
 
 ![Clade cover](/img/clade.png)

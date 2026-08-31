@@ -4,6 +4,7 @@ overrideTitleLink: /books/qoheleth/
 subtitle: Post-Self Cycle book I
 subtitleLink: /books/cycle/
 layout: single
+aliases: ['/qoheleth']
 ---
 
 <nav class="sidebar sticky">

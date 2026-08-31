@@ -4,6 +4,7 @@ layout: single
 overrideTitle: Motes Played
 overrideTitleLink: /books/motes-played/
 subtitle: A Post-Self Story
+aliases: ['/motes-played']
 ---
 
 ![A little book for little skunks](/img/motes-played.png)
