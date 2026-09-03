@@ -15,6 +15,8 @@ The Post-Self universe is an *open setting* for exploring the ramifications of b
 Alternately: "If I had a nickel for every time I accidentally wrote something with heavy plural undertones that I hadn't intended but nonetheless made me doubt my identity, I'd have two nickels! Which isn't a lot, but it is weird that it happened twice."
 -->
 
+Post-Self is a human creation. We do not participate in, support, allow, or even engage with LLM or other 'generative AI' creations.
+
 <p class="buy">
 <a href="https://wiki.post-self.ink/wiki/What_is_Post-Self%3F">What is Post-Self?</a>
 <br>
