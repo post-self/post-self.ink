@@ -349,7 +349,7 @@
   - Roxanna
   image: /gallery/thumbs/seras.png
   url: /gallery/seras.png
-  description: Train skunk also likes planes, turns out! Seras makes an appearance in ["A Well-Trained Eye"](https://marsh.post-self.ink/stories/a-well-trained-eye/).
+  description: Train skunk also likes planes, turns out! Seras makes an appearance in ["A Well-Trained Eye"](/books/marsh/stories/a-well-trained-eye/).
 
 - title: Skeletal flower
   collection: additional-art
@@ -360,7 +360,7 @@
   description: |
     > "And Warmth In Fire came over, too, so that it could sit at our table and weep rather than eat. Ey wept, and then asked to retreat, and we guided her up to Should We Forget's room so that they could lay in her bed for a while in silence. When it came back downstairs, ey thanked us kindly and left, and when we went back upstairs to look, there was a flower wrought out of some subtly glowing metal left on Should We Forget's pillow. It lays there still."
 
-    As seen in [*Idumea*](https://idumea.post-self.ink)
+    As seen in [*Idumea*](/books/idumea)
 
 #########
 # Fan art
@@ -397,6 +397,21 @@
   url: /gallery/full-of-skunks.png
   description: My God...
 
+- title: A double handful of grief
+  collection: fan-art
+  authors:
+  - ΔVee
+  image: /gallery/thumbs/double-handful-of-grief.png
+  url: /gallery/double-handful-of-grief.png
+  description: |
+    > The cores were insubstantial spheres, ghostly, translucent. Little double handfuls of whispy lives cut short.
+
+    > All except one.
+
+    > Right before the platform sat one core more real than the rest, a matte Eigengrau with a faint blue haze around it.
+
+    As seen in [*Marsh*](/books/marsh).
+
 - title: Witchyskunk
   collection: fan-art
   authors:
@@ -411,7 +426,7 @@
   - biddyfox
   image: /gallery/thumbs/skateboard.png
   url: /gallery/skateboard.png
-  description: A bit of fan art that led to the drabble ["In it for the long haul"](https://motes-played.post-self.ink/long-haul)
+  description: A bit of fan art that led to the drabble ["In it for the long haul"](/books/motes-played/long-haul)
 
 - title: Lonely Hunter
   collection: fan-art
@@ -468,4 +483,4 @@
   image: /gallery/thumbs/apres-un-reve.png
   url: /gallery/apres-un-reve.png
   description: |
-    Some fan art inspired by the story ["Après un rêve"](https://clade.post-self.ink/apres-un-reve).
+    Some fan art inspired by the story ["Après un rêve"](/books/clade/apres-un-reve).
