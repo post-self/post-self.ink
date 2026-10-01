@@ -72,7 +72,7 @@ She, too, wonders if she is born to die. What, dear readers, will become of her?
 
 ## Acknowledgments 
 
-Thanks is due first of all to Jacob Geller, who knows me not, for he created a video on the story of Pinocchio that touched me so deeply that I began this project in the first place. Thanks also to Tomash and Yule, who contributed so much to this story; it would not be what it is without them. To Isiat, adoration for his boundless support. To barnaby on the Apocrypals Discord for help with Sacred Harp hymns. To Mae and Taija and Andréa C. Mason for reminding me that my work is indeed read. Finally, I will forever sing the praises of my polycule and those within for their support and love, and for the privilege of loving them in turn.
+Thanks is due first of all to all of the scholars of Pinocchiology, who know me not, for understanding that there are big ideas to be had even in works for little ones. Thanks also to Tomash and Yule, who contributed so much to this story; it would not be what it is without them. To Isiat, adoration for his boundless support. To barnaby on the Apocrypals Discord for help with Sacred Harp hymns. To Mae and Taija and Andréa C. Mason for reminding me that my work is indeed read. Finally, I will forever sing the praises of my polycule and those within for their support and love, and for the privilege of loving them in turn.
 
 -----
 
